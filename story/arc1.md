@@ -1,8 +1,24 @@
 [Takaisin](../README.md)
 
+## Devonin tausta
+
+*Olet joutunut Tokinje'r ritarin vangiksi koska autoit paikallista maajussia saamaan lehmänsä antamaan jälleen maitoa puhumalla lehmälle ja tämä katsottiin noituuden harjoittamiseksi. Pyykinpesijä paljasti sinut pikkukaupungin viranomaisille ja sinut vangittiin, mutta koska olit liian suuri kaupungin vankityrmään, sinut lähetettiin Sokholiin. Ritari kutsuu itseään "Keskisormeksi" ja tämä on sietämätön hölösuu. Mukaan matkaan lyöttäytyi hiljainen nainen joka ei näytä tunteneen Keskisormea aiemmin.*
+
+*Noin viikon matkustamisen jälkeen pysähdyitte maantien varrella olevalle tavernalle, jossa ryhmään lyöttäytyi vielä kaksi matkalaista: toinen Tokinje'r ritari sekä tämän nuori naiskumppani.*
+
+*Olet ollut ahtaassa taikuuden estävässä häkissä jo pitkään ja sen epämukavuus on alkanut särkemään jokaista paikkaasi, jonka takia nukut huonosti. Kuulit sivukorvalla, että Sokhol ei onneksi ole enää kaukana.*
+
 # Sokholin seikkailut
 
-D0 (20.4.539 SSS [Sitten Suuren Sodan])
+On huhtikuun 20. päivä 539 Sitten Suuren Sodan. 
+
+Koko talven ajan ihmisten maiden väet ovat henkeään pidätellen odottaneet, mitä kevät tuo tullessaan Satorin alkavan sisällissodan kynnyksellä. Satorin kuningas Garreth I:n veljenpoika Mio ei kuitenkaan ole tehnyt liikettään kruunun haltuun ottamiseksi. Mioa tukevat aatelissuvut ovat alkaneet epäröimään, ja syyksi epäillään yhden Mion vahvimpiin tukijoihin kuuluvan Tossalian kreivi Fimdal Harmaavuon vetäytyneen hyökkäyssuunnitelmista armeijoineen. Pahat kielet supisevat Mirug Odumin kreivittären Elisa Juvenothin sekä Wee Jasin ylipapittaren Dashara Veraksen kuiskivan Harmaavuon korvaan ja tekevän hänelle palveluksia, jotka saisivat jopa Arethin porttojen korvat punoittamaan, jotta hänellä olisi muuta mietittävää kuin armeijansa johtaminen. Kekseliäimmät leikarit laulavat myös kahdesta tuntemattomasta seikkailijasta, jotka varoittivat kreiviä Tossaliaan hyökkäävästä örkkiarmeijasta, jonka vuoksi kreivi päätti vaihtaa armeijansa puolustuskannalle…
+
+Tavallisesti Seidor Qularissa, Velhoruhtinaskunnissa, olisi pyritty tällainen Satorin sekasorto hyödyntämään huippuunsa asti. Mutta nyt myös Velhoruhtinaiden keskuudessa kuohuu. Sairemin arkkivelho Ramgash on murhattu. Tekijäksi on avoimesti ilmoittautunut Kahleenmurtajiksi kutsuttu vapausjärjestö, joka lupaa vapauttaa kansan velhojen ikeestä ja palauttaa taikuuden käytön mahdollisuuden kaikille. Toistaiseksi muut arkkivelhot ovat vetäytyneet torneihinsa, mutta heidän vastauksensa on varmasti tuleva. Historiansa tunteva väestönosa tietää pahimman olevan edessä.
+
+> Peli alkaa
+
+D1
 
 Devon on vankkureiden päälle asennetussa anti-magia häkissä vankina matkalla kohti Sokholin satamakaupunkia. Karavaani on Pikkumetsässä ja yö on kirkas.
 
@@ -42,7 +58,7 @@ Kael ja Varyn vievät pääöykkärin Safiirilinnan selleihin yöksi, jossa Kers
 
 Devon näkee yöllä unta, että joku mustiin pukeutunut ihmishenkilö puhuu lakkaamatta tuntemattomalle henkilölle. Tämä ihminen jatkuvasti vain istuu, puhuu, syö, juo ja istuu ja puhuu. Välillä matkaa puhujan kanssa hevoskärryissä ja välillä puhuja puhuu vaan tuntemattomille. Devon ei pidä henkilöstä, luultavasti kyseessä Keskisormi. Uudentyypinen uni Devonille. 
 
-Päivän aikana huomattu, että Varynillä on sormus kädessään ja siinä on vaakuna
+Päivän aikana huomattu, että Varynillä on sormus kädessään ja siinä on vaakuna.
 
 </br>
 
