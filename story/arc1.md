@@ -69,3 +69,30 @@ Dynos tulee juttelemaan Silkille aamulla. Ihmettelee miksi Silkki on täällä r
 Yön aikana tullut lisää hiiden (n. 7 kpl) ja jokin tassueläimen jälkiä, mutta eri suunnasta kuin aiemmat hiidet. Devon tajuaa, että yöllisessä unessa oli myös varjo Keskisormen seurassa, joka oli hiljaa eikä halunnut tulla nähdyksi. Yritetään seurata vanhoja jälkiä, mutta jäljet loppuvat lyhyeen. Uudet jäljet ovat sen verran tuoreet, että niiden jäljittäminen kuitenkin onnistuu. Huomataan hetken päästä, että näkyy nuotion savua. Yritetään hiippailla lähemmäs, mutta Devon unohtaa hetkeksi hiippailun ja alkaa alitajuisesti rummuttelemaan. Lähistöltä kuuluu lähestyvää puhetta kallioreunaman alapuolelta ja yritetään piiloutua. Huomaavat Devonin nopeasti ja lähtevät pakoon. Tulee taistelu.
 
 ---
+
+Kaadetaan kaksi hiittä heti alkuun, mutta muut pääsevät jalan karkuun. Silkki pääsee leirille ensimmäisenä ja huomaa, että hiidet menevät kallionreunamalla olevan vanhaa metsästäjänmökkiä kohti. Hiidet kaivavat mökistä säkillisen jotain, mitä heittävät maahan kiireellä. Silkki signaloi muulle porukalle peilillä pysähtymään ja kokoontumaan ennen mökille rynnimistä. Taistelu. 
+
+Init: 11, 13, 21, 11
+
+Mökistä ilmestyy demoni-susi-hybridi
+Tavin chaos bolt 3 x nat 1: osuu itseen mutta ei onneksi ala pomppimaan hahmosta toiseen. 
+
+Susi saa Kaelin maahan ja melkein tappaa, mutta jättää henkiin ja kertoo edustavansa Hurjapäitä (hiisijengi). Ne tavarat vei Tuskapään joukko nimeltään Myrskyjen valtiaat, joka hyökkäsi vaunun kimppuun ja tekee yhteistyötä jonkun ihmisen kanssa, joka ei asu kaupungissa (on sieltä, mistä mekin olemme?). Silkki arvelee, että tämä olento on hiisi, joka on muuttunut demonisudeksi. Tämän nimi on Dnageb. Sovitaan, että yhdistetään voimat ja käydään muiluttamassa toista jengiä samalla kun haetaan tavarat. 
+
+Palataan tielle. Devon juttelee metsän elukoille itsekseen ja keräilee puuta puutöitä varten. Mennään peseytymään ja leiriytymään väliaikaisesti puron lähistölle. Tauon jälkeen lähdetään kohti Keskitavernaa etsimään majapaikkaa ja selvittämään yhteistyötä tekevän ihmisen nimeä.
+
+Keskitaverna on hieno, suuri ja koristeellinen puinen taverna. Tavernan tarjoilja-hovimestari tulee vastaanottamaan meitä. Devon oli viimeksi ollut keskisormen vankina täällä, joka oli kehuskellut Devonin vanginnalla. Hienosti pukeutunut isäntä Gresham Keskitaverna tulee tuomaan ruokaa ja tulee tarjoamaan ruoat arvovieraille talon piikkiin (koska Silkki). Kertoo, että meidän lisäksemme tavernassa on majoittumassa vain yksi pariskunta. Devonille tulee pahat vibat tyypistä ja herää epilys olisiko isännällä jotain tekemistä hiisien kanssa, jos Keskisormi on hölöttänyt jotain ohi suunsa. Devon muistaa, että Keskisormi ja isäntä olivat jutellee jotain kahdestaan läpikulkumatkalla.
+
+Isäntä tulee soittamaan banjoa ja meinaa lumota Silkin ja Tavin siinä onnistumatta. Silkki pättää kuitenkin mennä mukaan juoneen ja menee juttelemaan isännän kanssa kahdestaan. Muut juodaan olutta alakerrassa, kun Tavi yrittää seurata näitä isännän makuuhuoneeseen. Devon tulee seuraamaan tilannetta magian kannalta ja näkee huoneessa jotain lumottua. Huoneessa Silkki kertoo isännälle, että paikalliset velhot ovat vallanneet tämän kotipaikan Solanlukon. Isäntä ehdottaa, että haluaisi lähteä Sokholiin huomenna porukalla. Silkki yrittää nukuttaa isännän, mutta epäonnistuu siinä ja isäntä yrittää samaa, mutta epäonnistuu myös. Tavi ja Devon tulevat ovesta läpi ja tulee melkein taistelu, mutta saadaan rauhoitettua tilanne. Devon huomaa että isännällä jotain maagista sängyn alla ja baarikaapissa.
+
+Isäntä kertoo, että on tehnyt yhteistyötä hiisien kanssa, jotka ovat halunneet jotain tiettyjä taikaesineitä. Hiidet ovat muka pakottaneet isännän mukaan ja yhteishenkilönä ollut myrskyn valtiaiden hurja hiisinoita, jolla on erikoiset vaatteet. Näillä tapaamispaikka jossain lähistöllä Pikkumetsässä. Tavi ja Silkki saavat isännän pakotettua palkkaamaan meidät hoitamaan hiisiongelman 500 kullasta.
+
+Mennään huoneeseen nukkumaan ja Devon nukkuu oven edssä yövartion sijaan.
+
+> Level-up -> 2
+
+---
+
+</br>
+
+D3
