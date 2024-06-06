@@ -77,7 +77,7 @@ Init: 11, 13, 21, 11
 Mökistä ilmestyy demoni-susi-hybridi
 Tavin chaos bolt 3 x nat 1: osuu itseen mutta ei onneksi ala pomppimaan hahmosta toiseen. 
 
-Susi saa Kaelin maahan ja melkein tappaa, mutta jättää henkiin ja kertoo edustavansa Hurjapäitä (hiisijengi). Ne tavarat vei Tuskapään joukko nimeltään Myrskyjen valtiaat, joka hyökkäsi vaunun kimppuun ja tekee yhteistyötä jonkun ihmisen kanssa, joka ei asu kaupungissa (on sieltä, mistä mekin olemme?). Silkki arvelee, että tämä olento on hiisi, joka on muuttunut demonisudeksi. Tämän nimi on Dnageb. Sovitaan, että yhdistetään voimat ja käydään muiluttamassa toista jengiä samalla kun haetaan tavarat. 
+Susi saa Kaelin maahan ja melkein tappaa, mutta jättää henkiin ja kertoo edustavansa Tosihurjajoukkoa (hiisijengi). Ne tavarat vei Tuskapään joukko nimeltään Myrskyjen valtiaat, joka hyökkäsi vaunun kimppuun ja tekee yhteistyötä jonkun ihmisen kanssa, joka ei asu kaupungissa (on sieltä, mistä mekin olemme?). Silkki arvelee, että tämä olento on hiisi, joka on muuttunut demonisudeksi. Tämän nimi on Dnageb. Sovitaan, että yhdistetään voimat ja käydään muiluttamassa toista jengiä samalla kun haetaan tavarat. 
 
 Palataan tielle. Devon juttelee metsän elukoille itsekseen ja keräilee puuta puutöitä varten. Mennään peseytymään ja leiriytymään väliaikaisesti puron lähistölle. Tauon jälkeen lähdetään kohti Keskitavernaa etsimään majapaikkaa ja selvittämään yhteistyötä tekevän ihmisen nimeä.
 
@@ -96,3 +96,31 @@ Mennään huoneeseen nukkumaan ja Devon nukkuu oven edssä yövartion sijaan.
 </br>
 
 D3
+
+Ulkona sataa. Isäntä tulee aamiaselle myöhässä ja maansa myyneenä. Yrittää väistellä Pikkumetsään lähtemistä sateen verukkeella, mutta saadaan kuitenkin lähtemään.
+
+Mennään tietä pitkin kohti Pikkumetsää ja käännytään jossain kohtaa vasemmalle. Matka kestää puolen päivää ja päädymme metsän laitamille vehreän kallioiselle tasangolle meren läheisyyteen. Gresham kaivaa puun juuren alta ison kuparipannun ja vasaran, jolla voidaan kutsua hiidet paikalle. Viedään Gresham takaisin polulle ja lähdetään kulkemaan Pikkumetsän toiselle reunalle hakemaan toista hiisijengiä.
+
+Löydetään kallion päälle ja mennään mökille ilmoittamaan asiasta Dnagebille. Dnagebin on nyt enemmän hiiden näköinen kuin viimeksi. Kertoo, että ei pidä sateesta ja että Tuskapää sekosi viimeksi ukkosmyrskyn aikana.
+
+Majoittuaudutaan lähistölle ja illalla Tavi harjoittelee Kaelin kanssa haltiakieltä. Sade on yltyy illan ja yön aikana, joten Devon tekee puutöitä teltassa ja yrittää vuolla huilua. Varyn käy kaatamassa hirven ja saa siitä ruoat.
+
+Yöllä myrskyää kovasti ja Tavilla omalla vahtivuorollaan epäilyttävä fiilis. Aamulla omalla vartiovuorollaan Devon yrittää pelastaa Varynin kaatmaaan hirven lihan paloja Goodberryjen ja saa 3 rationia (yli jää 4 marjaa)
+
+</br>
+
+D4
+
+Aamulla sade jatkuu. Dnageb ei ole sateen jatkumisesta iloinen, mutta suostuu lähtemään mukaan. Epäilee, että Tuskapää olisi tämänkin sateen takana... Matkan aikana kertoo, että Tuskapää otti yli puolet jokuosta, kun porukka hajosi. Vastassa luultavati kymmenkunta hiittä. Tuskapään nimi tullut päänsäryistä, jotka tarttuvat toisiin. Ollut aina sekaisin, mutta myrskyn aikana sekosi lopullisesti. On saanut päänsärkyjen vuoksi mitä ihmeellisempiä voimia. 
+
+Väijytetään sama puu minkä luona eilen käytiin. Devon lyö rumpua ja muuntaa illuusion avulla ulkoasunsa isännän näköiseksi. Tovin päästä kolmee hittä tulee meren suunnasta ja nämä rentoutuvat nähdessään Greshamin. PDevon suostuttelee viemään Tuskapään juttusille, koska jotkut matkailijat mukamas kyselleet hiisien ja isännän yhteisoperaatiosta. Pienen väittelyn jälkeen suostuvat viemään Tuskapään luo. Devonin illuusiomuoto meinaa tipahtaa keksen matkan ja hämää kusihädällä ja lohikäärmeellä päästäkseen pakoon ja onnistuu siinä. Devon kaartaa taustalta muiden perään. 
+
+Dnageb ja hiidet haluavat aloittaa tappelun, mutta muut onnistuvat tyynnyttämään näitä kunnes jatkavat matkaa kohti Tuulispään majaa. Matka jatkuu jonkin matkaa, kunnes Dnageb ei enää jaksa odottaa ja huutaa sotahuudon, jolloin tulee taistelu ja kaksi kolmesta hiidestä kaadetaan. Dnageb komentaa viimeisen hiiden (Plörö) liittymään joukkoon ja suostuu viemään meidät Tuskapään majalle. Plörö kertoo, että luolalla on kertävä vartio ja avovankila(?) Plörön (ja muidenkin tapettujen hiisien) ihoon on maalattu sama merkki kuin käyrryhyökkäyksen hiisillä.
+
+Plörö johdattaa lähes meren rannalle kallion halkeaman luo, jonka läpi virtaa joki, joka laskee vesiputouksena mereen. Luolaan menee polku reunan lähistöltä, joka on vartioitu. Plörö kertoo, että myös vankilan kautta pääsee luolastoon sisälle, mutta pudotus luolan kautta on varsin pitkä eikä yksi köysi riitä alas asti. Päätetään mennä pääreitin kautta, joka menee pitkin kallion reunaa. Reitin vartiopaikka on rinteessä polun yläpuolella. Jossain kohtaa rinteen yläpuolelta alkaa satamaan kiviä. Päästään luolan suuaukolle, Devon jäädyttää varmuudeksi kapean käytävän alun. Taistelu.
+
+Init: 16, 21, 16, 8, 21, 11, 14, 3
+
+Tavi onnistuu vahingossa tappamaan yhden puolulais-hiisistä. Devon onnistuu kolauttamaan vihollishiisistä jotain vetämällä nykäisemällä katkennutta narua.
+
+---
