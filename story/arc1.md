@@ -105,7 +105,7 @@ Löydetään kallion päälle ja mennään mökille ilmoittamaan asiasta Dnagebi
 
 Majoittuaudutaan lähistölle ja illalla Tavi harjoittelee Kaelin kanssa haltiakieltä. Sade on yltyy illan ja yön aikana, joten Devon tekee puutöitä teltassa ja yrittää vuolla huilua. Varyn käy kaatamassa hirven ja saa siitä ruoat.
 
-Yöllä myrskyää kovasti ja Tavilla omalla vahtivuorollaan epäilyttävä fiilis. Aamulla omalla vartiovuorollaan Devon yrittää pelastaa Varynin kaatmaaan hirven lihan paloja Goodberryjen ja saa 3 rationia (yli jää 4 marjaa)
+Yöllä myrskyää kovasti ja Tavilla omalla vahtivuorollaan epäilyttävä fiilis. Aamulla omalla vartiovuorollaan Devon yrittää pelastaa Varynin kaataman hirven lihan paloja Goodberryjen ja saa 3 rationia (yli jää 4 marjaa)
 
 </br>
 
@@ -113,14 +113,30 @@ D4
 
 Aamulla sade jatkuu. Dnageb ei ole sateen jatkumisesta iloinen, mutta suostuu lähtemään mukaan. Epäilee, että Tuskapää olisi tämänkin sateen takana... Matkan aikana kertoo, että Tuskapää otti yli puolet jokuosta, kun porukka hajosi. Vastassa luultavati kymmenkunta hiittä. Tuskapään nimi tullut päänsäryistä, jotka tarttuvat toisiin. Ollut aina sekaisin, mutta myrskyn aikana sekosi lopullisesti. On saanut päänsärkyjen vuoksi mitä ihmeellisempiä voimia. 
 
-Väijytetään sama puu minkä luona eilen käytiin. Devon lyö rumpua ja muuntaa illuusion avulla ulkoasunsa isännän näköiseksi. Tovin päästä kolmee hittä tulee meren suunnasta ja nämä rentoutuvat nähdessään Greshamin. PDevon suostuttelee viemään Tuskapään juttusille, koska jotkut matkailijat mukamas kyselleet hiisien ja isännän yhteisoperaatiosta. Pienen väittelyn jälkeen suostuvat viemään Tuskapään luo. Devonin illuusiomuoto meinaa tipahtaa keksen matkan ja hämää kusihädällä ja lohikäärmeellä päästäkseen pakoon ja onnistuu siinä. Devon kaartaa taustalta muiden perään. 
+Väijytetään sama puu minkä luona eilen käytiin. Devon lyö rumpua ja muuntaa illuusion avulla ulkoasunsa isännän näköiseksi. Tovin päästä kolmee hittä tulee meren suunnasta ja nämä rentoutuvat nähdessään Greshamin. Devon suostuttelee viemään Tuskapään juttusille, koska jotkut matkailijat mukamas kyselleet hiisien ja isännän yhteisoperaatiosta. Pienen väittelyn jälkeen suostuvat viemään Tuskapään luo. Devonin illuusiomuoto meinaa tipahtaa keksen matkan ja hämää kusihädällä ja lohikäärmeellä päästäkseen pakoon ja onnistuu siinä. Devon kaartaa taustalta muiden perään. 
 
-Dnageb ja hiidet haluavat aloittaa tappelun, mutta muut onnistuvat tyynnyttämään näitä kunnes jatkavat matkaa kohti Tuulispään majaa. Matka jatkuu jonkin matkaa, kunnes Dnageb ei enää jaksa odottaa ja huutaa sotahuudon, jolloin tulee taistelu ja kaksi kolmesta hiidestä kaadetaan. Dnageb komentaa viimeisen hiiden (Plörö) liittymään joukkoon ja suostuu viemään meidät Tuskapään majalle. Plörö kertoo, että luolalla on kertävä vartio ja avovankila(?) Plörön (ja muidenkin tapettujen hiisien) ihoon on maalattu sama merkki kuin käyrryhyökkäyksen hiisillä.
+Dnageb ja hiidet haluavat aloittaa tappelun, mutta muut onnistuvat tyynnyttämään näitä kunnes jatkavat matkaa kohti Tuulispään majaa. Matka jatkuu jonkin matkaa, kunnes Dnageb ei enää jaksa odottaa ja huutaa sotahuudon, jolloin tulee taistelu ja kaksi kolmesta hiidestä kaadetaan. Dnageb komentaa viimeisen hiiden (Plörö) liittymään joukkoon ja tämä suostuu viemään meidät Tuskapään majalle. Plörö kertoo, että luolalla on kertävä vartio, ainakin sata vartijaa ja avovankila(?). Plörön (ja muidenkin tapettujen hiisien) ihoon on maalattu sama merkki kuin käyrryhyökkäyksen hiisillä.
 
 Plörö johdattaa lähes meren rannalle kallion halkeaman luo, jonka läpi virtaa joki, joka laskee vesiputouksena mereen. Luolaan menee polku reunan lähistöltä, joka on vartioitu. Plörö kertoo, että myös vankilan kautta pääsee luolastoon sisälle, mutta pudotus luolan kautta on varsin pitkä eikä yksi köysi riitä alas asti. Päätetään mennä pääreitin kautta, joka menee pitkin kallion reunaa. Reitin vartiopaikka on rinteessä polun yläpuolella. Jossain kohtaa rinteen yläpuolelta alkaa satamaan kiviä. Päästään luolan suuaukolle, Devon jäädyttää varmuudeksi kapean käytävän alun. Taistelu.
 
 Init: 16, 21, 16, 8, 21, 11, 14, 3
 
-Tavi onnistuu vahingossa tappamaan yhden puolulais-hiisistä. Devon onnistuu kolauttamaan vihollishiisistä jotain vetämällä nykäisemällä katkennutta narua.
+Tavi onnistuu vahingossa tappamaan yhden puolulais-hiisistä. Devon onnistuu kolauttamaan vihollishiisistä jotain irronneella vinssillä nykäisemällä katkennutta narua.
+
+---
+
+Pidetään lyhyt tauko ja jatketaan luolan tutkimista sen jälkeen. Tauon aikana Devon ja Varyn kuulevat sateen ja vesiputouksen pauheen yli jotain puhetta vesiputouksen suunnasta. Huomataan myös, että vesiputouksen takana jonkinainen syvänne, josta puhe saattoi kuulua. Viritetään köysi valmiiksi vesiputouksen syvänteen viereen, mutta mennään kuitenkin ensin luolaan tutkimaan. 
+
+Vankilan kaltereissa on integroitu lukko, joten kyseessä tuskin alkuperäinen hiisien rakennelma. Vankilan lattia on hyvin epätasainen ja yhden kiven takana on jalat. Löytyy myös toinen kalteriovi vähän matkan päästä. Yhdeltä hiisivartijalta löytyy sopiva avain. Hiisien romuläjästä löytyy 8cp. Avaimen avulla päästään tyrmään. Tyrmässä nähdyt jalat kuuluvat metsähaltian ruumiille, joka on kuollut pudotukseen ja on ollut kuolleena jo hyvän tovin. Avain ei sovi toiseen oveen. Sen takana vaikuttaisi olevan jotain vähän laadukkaampaa tavaraa, joten Devon yrittää havaita magiaa huoneesta. Jotain magista siellä on.
+
+Pohditaan pitkään, että miten päästään ovesta läpi. Muiden suunnitelleessa oven avaamista Varyn astuu misty stepillä sisään. Löytää sieltä aseita ja muuta tavaraa mitä hiidet eivät osaa käyttää. Pienistä pussukoista löytyy myös vähän kultaa ja tavaroita taikojen tekemiseen. Laatikoiden sisältä löytyy erilaisia pulloja. Saadaan ovi väännettyä auki vinssin ja köyden avulla. Löytyy yksi taikakäärö: Scroll of ???. Tunnistetaan pulloja: 4 x Potion of Healing, 1 x Potion of Animal Friendship, 1 x Potion of Resistance (against Force).
+
+Silkki huomaa hiisien sänkyjen takaa poikkeavan kiven, joka piilottanut pienen hiiden mentävän tunnelikäytävän joka vie merelle päin. Seurataan tunnelia ja se vaikuttaa vievän Tuskapään ja muiden hiisien luo. Yritetään hiipiä loppumatka kun kuullaan etäältä hiisien puhetta ja tajutaan, että meitä ei olla vielä havaittu (*"Ei se tiedä mitään. Eikä tuo toinenkaan. Ei tästä tule mitään"*)
+
+Kun päästään perille vesiputouksen taakse, siellä kivien päällä ringissä 8 tavallisen näköisiä ihmisiä ja niiden keskellä märissä kaavuissa on hiisi, joka istuu epäkuolleen ruumiin päällä ja jolla iho mätänee ja on merilevää päässä. Yksi vartijahiisi spottaa meidät ja varoittaa muita. Tulee taistelu.
+
+Init: 19, 9, 3, 9
+
+Tuskapää heittää taistelun aikana Dnagebin ulos vesiputouksesta Telekinesin voimalla. Teleporttaa myös myöhemmässä vuorossa Arcane Gaten avulla toisaalle. Saadaan tapettua Tuskapää, jonka jälkeen taistelu hiipuu nopeasti. Dnageb teleporttaantuu takaisin paikalle.
 
 ---
