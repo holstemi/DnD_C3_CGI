@@ -81,7 +81,7 @@ Susi saa Kaelin maahan ja melkein tappaa, mutta jättää henkiin ja kertoo edus
 
 Palataan tielle. Devon juttelee metsän elukoille itsekseen ja keräilee puuta puutöitä varten. Mennään peseytymään ja leiriytymään väliaikaisesti puron lähistölle. Tauon jälkeen lähdetään kohti Keskitavernaa etsimään majapaikkaa ja selvittämään yhteistyötä tekevän ihmisen nimeä.
 
-Keskitaverna on hieno, suuri ja koristeellinen puinen taverna. Tavernan tarjoilja-hovimestari tulee vastaanottamaan meitä. Devon oli viimeksi ollut keskisormen vankina täällä, joka oli kehuskellut Devonin vanginnalla. Hienosti pukeutunut isäntä Gresham Keskitaverna tulee tuomaan ruokaa ja tulee tarjoamaan ruoat arvovieraille talon piikkiin (koska Silkki). Kertoo, että meidän lisäksemme tavernassa on majoittumassa vain yksi pariskunta. Devonille tulee pahat vibat tyypistä ja herää epilys olisiko isännällä jotain tekemistä hiisien kanssa, jos Keskisormi on hölöttänyt jotain ohi suunsa. Devon muistaa, että Keskisormi ja isäntä olivat jutellee jotain kahdestaan läpikulkumatkalla.
+Keskitaverna on hieno, suuri ja koristeellinen puinen taverna. Tavernan tarjoilja-hovimestari tulee vastaanottamaan meitä. Devon oli viimeksi ollut keskisormen vankina täällä, joka oli kehuskellut Devonin vanginnalla. Hienosti pukeutunut isäntä Gresham Kivisilta tulee tuomaan ruokaa ja tulee tarjoamaan ruoat arvovieraille talon piikkiin (koska Silkki). Kertoo, että meidän lisäksemme tavernassa on majoittumassa vain yksi pariskunta. Devonille tulee pahat vibat tyypistä ja herää epilys olisiko isännällä jotain tekemistä hiisien kanssa, jos Keskisormi on hölöttänyt jotain ohi suunsa. Devon muistaa, että Keskisormi ja isäntä olivat jutellee jotain kahdestaan läpikulkumatkalla.
 
 Isäntä tulee soittamaan banjoa ja meinaa lumota Silkin ja Tavin siinä onnistumatta. Silkki pättää kuitenkin mennä mukaan juoneen ja menee juttelemaan isännän kanssa kahdestaan. Muut juodaan olutta alakerrassa, kun Tavi yrittää seurata näitä isännän makuuhuoneeseen. Devon tulee seuraamaan tilannetta magian kannalta ja näkee huoneessa jotain lumottua. Huoneessa Silkki kertoo isännälle, että paikalliset velhot ovat vallanneet tämän kotipaikan Solanlukon. Isäntä ehdottaa, että haluaisi lähteä Sokholiin huomenna porukalla. Silkki yrittää nukuttaa isännän, mutta epäonnistuu siinä ja isäntä yrittää samaa, mutta epäonnistuu myös. Tavi ja Devon tulevat ovesta läpi ja tulee melkein taistelu, mutta saadaan rauhoitettua tilanne. Devon huomaa että isännällä jotain maagista sängyn alla ja baarikaapissa.
 
@@ -125,11 +125,11 @@ Tavi onnistuu vahingossa tappamaan yhden puolulais-hiisistä. Devon onnistuu kol
 
 ---
 
-Pidetään lyhyt tauko ja jatketaan luolan tutkimista sen jälkeen. Tauon aikana Devon ja Varyn kuulevat sateen ja vesiputouksen pauheen yli jotain puhetta vesiputouksen suunnasta. Huomataan myös, että vesiputouksen takana jonkinainen syvänne, josta puhe saattoi kuulua. Viritetään köysi valmiiksi vesiputouksen syvänteen viereen, mutta mennään kuitenkin ensin luolaan tutkimaan. 
+Pidetään lyhyt tauko ja jatketaan luolan tutkimista sen jälkeen. Tauon aikana Devon ja Varyn kuulevat sateen ja vesiputouksen pauheen yli jotain puhetta vesiputouksen suunnasta. Huomataan myös, että vesiputouksen takana jonkinainen syvänne, josta puhe saattoi kuulua. Viritetään köysi valmiiksi vesiputouksen syvänteen viereen, mutta mennään kuitenkin ensin luolaan tutkimaan.
 
 Vankilan kaltereissa on integroitu lukko, joten kyseessä tuskin alkuperäinen hiisien rakennelma. Vankilan lattia on hyvin epätasainen ja yhden kiven takana on jalat. Löytyy myös toinen kalteriovi vähän matkan päästä. Yhdeltä hiisivartijalta löytyy sopiva avain. Hiisien romuläjästä löytyy 8cp. Avaimen avulla päästään tyrmään. Tyrmässä nähdyt jalat kuuluvat metsähaltian ruumiille, joka on kuollut pudotukseen ja on ollut kuolleena jo hyvän tovin. Avain ei sovi toiseen oveen. Sen takana vaikuttaisi olevan jotain vähän laadukkaampaa tavaraa, joten Devon yrittää havaita magiaa huoneesta. Jotain magista siellä on.
 
-Pohditaan pitkään, että miten päästään ovesta läpi. Muiden suunnitelleessa oven avaamista Varyn astuu misty stepillä sisään. Löytää sieltä aseita ja muuta tavaraa mitä hiidet eivät osaa käyttää. Pienistä pussukoista löytyy myös vähän kultaa ja tavaroita taikojen tekemiseen. Laatikoiden sisältä löytyy erilaisia pulloja. Saadaan ovi väännettyä auki vinssin ja köyden avulla. Löytyy yksi taikakäärö: Scroll of ???. Tunnistetaan pulloja: 4 x Potion of Healing, 1 x Potion of Animal Friendship, 1 x Potion of Resistance (against Force).
+Pohditaan pitkään, että miten päästään ovesta läpi. Muiden suunnitelleessa oven avaamista Varyn astuu misty stepillä sisään. Löytää sieltä aseita ja muuta tavaraa mitä hiidet eivät osaa käyttää. Pienistä pussukoista löytyy myös vähän kultaa (5gp 19sp 12cp)ja tavaroita taikojen tekemiseen. Laatikoiden sisältä löytyy erilaisia pulloja. Saadaan ovi väännettyä auki vinssin ja köyden avulla. Löytyy yksi taikakäärö: Scroll of ???. Tunnistetaan pulloja: 4 x Potion of Healing, 1 x Potion of Animal Friendship, 1 x Potion of Resistance (against Force).
 
 Silkki huomaa hiisien sänkyjen takaa poikkeavan kiven, joka piilottanut pienen hiiden mentävän tunnelikäytävän joka vie merelle päin. Seurataan tunnelia ja se vaikuttaa vievän Tuskapään ja muiden hiisien luo. Yritetään hiipiä loppumatka kun kuullaan etäältä hiisien puhetta ja tajutaan, että meitä ei olla vielä havaittu (*"Ei se tiedä mitään. Eikä tuo toinenkaan. Ei tästä tule mitään"*)
 
@@ -138,5 +138,33 @@ Kun päästään perille vesiputouksen taakse, siellä kivien päällä ringiss�
 Init: 19, 9, 3, 9
 
 Tuskapää heittää taistelun aikana Dnagebin ulos vesiputouksesta Telekinesin voimalla. Teleporttaa myös myöhemmässä vuorossa Arcane Gaten avulla toisaalle. Saadaan tapettua Tuskapää, jonka jälkeen taistelu hiipuu nopeasti. Dnageb teleporttaantuu takaisin paikalle.
+
+---
+
+Ruumilta löytyy ruosteinen avain, jonka Tavi ottaa talteen. Dnageb varmistaa Tuskapään kuoleman syömällä tämän kokonaan. Yksi ihmistä väittää Tuskapään puhuneen merten jumalan suulla. Ihmiset yrittävät poistua tilanteesta, mutta Kael estää. Yksi ihmisistä kertoo, että ovat uhranneet jo liikaa Savilan pelastamiseksi. Liikaa myrskyjä, merihirviöiden hyökkäyksiä ja kalojen puutetta. Yksi naisista itkee Arnoldia poistuessaan luolasta. Dnageb ottaa luolan omaksi tukikohdakseen ja värvää viimeiset elossa olevat hiidet alaisiksiin. Otetaan varastetut tavarat kantoon ja lähdetään kohti majataloa. Luolastosta poistuessa huomataan ihmisten laahustavan kohti kotikyläänsä vähän edempänä.
+
+Päästään Keskitavernalle ja Grasham pistää hovimestarin lämmittämään kylvyn meille ja tuo meille ruokaa ja olutta. 
+
+(Illalla Silkki tekee salaa omasta palkkio-osuudestaan diilin Grashamin kanssa niin, että tämä kertoisi tietoa jos "Amoksit" käyvät tavernassa. Gorvin Dragaris on nimi, jota pitää korvalla. Gresham kertoo, että tämän olisi pitänyt saapua Sokholin satamaan jo aikaa sitten. Joko myrskyt hidastaneet matkaa tai laiva ankkuroitu pimeään satamaan. Babao saattaa tietää.)
+
+</br>
+
+D5 (25.04.539 SSS)
+
+> Level-up -> 3
+
+Aamulla sää edelleen tihkusateinen, muttei enää myrskyisä. Aamupalalla leipää, juustoa ja olutta. Palkkiorahoja ei näy, isäntä nukkuu huoneessaan. Koputetaan oveen mutta ei vastausta ja ovi on lukossa. Isäntä herää ja heittää rahat meille jaettavaksi, mutta kun lasketaan rahat niin pussista puuttuu 100 gp. Kun Devon meinaa mennä isännän kaapille hakemaan toista maagista esineistä korvaukseksi, niin isäntä pelästyy ja antaa loput palkkiorahat. Jaetaan rahat ja lähdetään takaisin kaupunkiin.
+
+Päästään illaksi Sokholiin. Vartiat vähän pirteämpiä kuin aiemmin. Käydään Safiirilinnassa viemässä tavarat Vrashille, joka kiittää Danielia Kaelin sijaan. Vrash koskettaa jotain tiiltä seinässä, jonka takaa antaa pienen pussukan (100gp) palkkioksi. Matkalla ulos Kael pyytää Kersantti Keirania hankkimaan muutaman vartijan sparrailuvastukseksi jollekin aamulle.
+
+Mennään Nousuveden majataloon nukkumaan. Varataan huoneet kahdeksi yöksi kerralla. Silkki menee Dynoksen luo majoittumaan ja kertoo sensuroidun version seikkalusta tälle. Kyselee Babao Wentistä, joka tietää kaiken laivoista, niistäkin mistä ei saisi tietää. Dynamo kertoo, että Babao saattaisi vastaanottaa Silkin Kauppasatamassa omassa luksusjahdissaa *"Naimaton Vanessa"*, mutta tämä saattaisi ärsyttää satamakapteeni Fingramia.
+
+</br>
+
+D6
+
+Sateinen sää jatkuu. Silkki, Kael ja Tavi laittavat vähän puhtaammat vaattet päälle ennen kun lähdemme Kalatorille ja Kauppasatamaan tutkimaan paikkoja. 
+
+Kael haluaa maistaa jotain gourmettia ja kuullaan, että Sokholin erikoisruoka on Mariahven yrteillä. Tonnikala kuulemma kalleimmasta päästä. Kael tilaa kilon tonnikalaa ja puloitoista kiloa äyriäisiä. Kauppias kertoo, että kalaa tullut pari kuukautta huonommin kuin aiemmin. Tämä tilanne ainakin Sokholin länsipuolella. Majatalon kokki lupaa kokata kalat illalliseksi. Devon ostaa itselleen kalanruotoiset-meripihkokorvakorut matkamuistoksi (5sp). Kauppias kertoo, että merellä voisi olla jotain "muuta" kiinnostavaa.
 
 ---
