@@ -165,6 +165,30 @@ D6
 
 Sateinen sää jatkuu. Silkki, Kael ja Tavi laittavat vähän puhtaammat vaattet päälle ennen kun lähdemme Kalatorille ja Kauppasatamaan tutkimaan paikkoja. 
 
-Kael haluaa maistaa jotain gourmettia ja kuullaan, että Sokholin erikoisruoka on Mariahven yrteillä. Tonnikala kuulemma kalleimmasta päästä. Kael tilaa kilon tonnikalaa ja puloitoista kiloa äyriäisiä. Kauppias kertoo, että kalaa tullut pari kuukautta huonommin kuin aiemmin. Tämä tilanne ainakin Sokholin länsipuolella. Majatalon kokki lupaa kokata kalat illalliseksi. Devon ostaa itselleen kalanruotoiset-meripihkokorvakorut matkamuistoksi (5sp). Kauppias kertoo, että merellä voisi olla jotain "muuta" kiinnostavaa.
+Kael haluaa maistaa jotain gourmettia ja kuullaan, että Sokholin erikoisruoka on Mariahven yrteillä. Tonnikala kuulemma kalleimmasta päästä. Kael tilaa kilon tonnikalaa ja puloitoista kiloa äyriäisiä. Kauppias kertoo, että kalaa tullut pari kuukautta huonommin kuin aiemmin. Tämä tilanne ainakin Sokholin itäpuolella. Majatalon kokki lupaa kokata kalat illalliseksi. Devon ostaa itselleen kalanruotoiset-meripihkakorvakorut matkamuistoksi (5sp). Kauppias kertoo, että merellä voisi olla jotain "muuta" kiinnostavaa.
+
+---
+
+Silkki pyytää Kaelia kyselemään Fingramilta Kutainen Puhuri -laivan tilanteesta ennen kuin lähtee itse etsimään Babaota. Muut kulkevat kohti Tronin matallipajaa. Devon kiertää Tronin luo huomaa matkalla punarapuja. Matkalla ohitetaan Kiltahalli, jonka yläreunassa on käsityöläisten vaakunoita. Kael juttelee Tronin kanssa haarniskatilauksesta, jonka Vrash oli tehnyt taustalla jo eilen. Haarniska tulee olemaan Tronin ja Vrashin yhteistä. Vaurioituneen suurmiekan korjaus onnistuu Tronin kisällin toimesta huomiseksi. Varyn ostaa muutaman heittotähden itseleen.
+
+Silkki on menossa Babaon luo Kauppasatamaan, mutta matkalla näkee Fingramin joka on juuri kovassanaisesti keskustelemssa munkkijoukon kanssa. Munkit ovat tuohtuneita munkkien kulkuoikeudesta satamassa. Silkki jää hetkeksi näkymättömänä salakuuntelemaan tilannetta, jossa Fingram epäilee munkkijoukkoa ja näiden johtajaa apottia häiriköinnistä. Silkki huomaa kuinka apotti katsoo aina välillä tämän suuntaan rauhallisesti tuijottaen ja kuinka munkit vaikuttavat lähes apotin henkivartioilta. Tilanne purkaantuu ja Silkki lähtee etsimään *Naimatonta Vanessaa* satamasta. Laivaa ei löydy isojen kauppaveneiden joukosta, mutta pienvenesatamassa on hyvin silmiinpistävän pinkki huvivene. Tämä on oikea laiva.
+
+Veneen vartijan lyhyen suostuttelun jälkeen Silkki pääsee veneelle, jonka kajuutassa on värikkäästi pukeutunut mies. Babao on odottanut Silkin saapumista, mutta ei innostu puhumaan Grovin Dragaris laivasta, koska Kael on vanginttu Babon toisen laivan puoskarin tyrmään. Silkki lupaa hoitaa miehen ulos vankilasta, jos Babao auttaa laivan kanssa. Juttelutuokion jälkeen Silkki poistuu satamasta.
+
+Muu porukka saapuu myös Kauppasataman alueella, kun Kael tulee juttelemaan Finramille. Fingramilla on hieno hattu. *Varyn tunnistaa Fingramin rinnuksessa olevan vaakunan Quantitchin suvun vaakunaksi, jonka päämies Fingram ilmeisesti on. Quantitch on pieni vasalliaatelissuku, jonka linna on Nimen-saarella.* Kael suostuttelee Fingramin antamaan lyhyen kierroksen satamasta. Meripihka on sataman suurin kauppa joka ostaa ja myy myös laivoista tulevaa eksoottisempaa sekatavaraa. Kauppa on yksityisomisteinen ja sen omistaja on Kiltahallissa kauppiaiden puheenjohtaja. Sokholin satama on kuulemma Velhoruhtinaskuntien vilkkain, mutta ei vertaannu ulkomaiden suuriin satamiin. Kael kysyy meren ongelmista, johon Fingram toteaa että myrskyjä on riittänyt, mutta merihirviöt luultavasti liioittelua. Munkeista tulee myös puhe ja Fingram toteaa niiiden aiheuttaneen ongemia viimeaikoina, kun apotti Guidan on värävännyt lisää munkkeja vauhdilla ja juuri välittämättä siitä millaisia ihmisiä oikeasti värvää. Munkkien Vuorovetten luostari on kaupungille kuuluvalla Vuorovetten saarella kaupungin ulkopuolella. Kyseessä meriteemainen Pelorin munkkiluostari, jonka hengellinen johtaja on apotti Guidan. 
+
+Käydään tavaratalo Meripihkassa katselemassa kinnostavia tavaroita. Tavartalo on rankenteeltaan kuin useampi kioski rinnakkain. Useimmat tiskit myyvät sekatavaraa, yksi kankaita, yksi arvotavaraa ja yksi koruja. Devon tarkistaa tilanteen magian kannalta, mutta mitään poikkeavaa ei näy. 
+
+Tavi ostaa paperia, jasmiinin hajuista saippuaa ja koruja.
+Kael innostuu rommipullosta ja viinapulloista, jotka myös ostaa. *Kael on siis alkoholisti?* 
+Devon ostaa merkkipillin ja muuta hienoa tavaraa Augury-taikaa varten (25 gp). Lisäksi hankki itselleen nahkapanssarin ja maalausvälineet panssarin tuunaamiseen. 
+Varyn ostaa historiakirjan.
+Silkki auttaa kaupankäyntineuvotteluissa.
+
+Kael lähtee käymään Safiirilinnassa ennen päivällistä. Muut lähtevät Timanttitorille käymään puusepällä ja nahkurilla. Linnalla Kael jututtaa tappelupukaria. Tämä kertoo, että puolusti Kalatorilla kansaa kiihottunutta kaveriaan, koska velhot olivat tappaneet tämän vaimon. Ei itsekään pidä velhoista ja haukkuu Kaelia velhojen koiraksi. Kertoo että työskentelee Babaolle, joka on kaupungin rikkain mies ja joka hoitaa tämän vankilasta tavalla tai toisella. Kael jättää tyypin edelleen vankilaan ja päättää läehteä Fingramin puheille ennen päivällistä.
+
+Toisaalla muuta käyvät uudelleen Tronin kaupassa ostamassa jousiaseita ja sopivia nuolia. Silkki saa tingattua käsivarsijouseen hyvän 20gp alennuksen ja ostaa sen. Kun Silkki on saanut aseen käsiinsä niin Varyn muuttaa aseen kultaiseksi näkyvällä magialla, jonka seurauksena Tron heittää miedät ulos liikkeestään.
+
+Pihalla apotti Guidan kulkee torilla pyytelemässä almuja ja keskustelee joidenkin kauppiaiden kanssa kaupungin saniteettiasioista. Guidan huomaa meidät ja tulee keskustelemaan Silkin kanssa, jonka tietää jo nimeltä. Guidan kertoo, että ovat pyrkineet auttamaan viimeaikaisten myrskyjen uhreja. Kutsuu meidät liittymään munkiksi Vuorovetten munkkiluostariin, mutta kertoo että luostarialueelle ei pääse muut tahot kuin munkit. Devon huomaa, että Guidan on kalpea ja tämän kaapujen lahje on märkä (ei ehkä pelkkää merivettä). Ympäröivät munkitkaan eivät näytä munkeilta vaan enemmänkin piiloaseistetuilta öykkäreiltä.
 
 ---
