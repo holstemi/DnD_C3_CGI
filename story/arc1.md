@@ -313,16 +313,22 @@ Huoneessa on yksi isompi koristeltu kullattu sarkofagi eikä mitään muuta. Vä
 
 Tulee taistelu? Init: 3, 6, 5, 6
 
-Käydään näyttämässä kaulakorua Yuinille, joka kertoo ettei ole koskaan ennen nähnyt tätä livenä ennen, mutta tietää esineen. Kyseeesä Hao Wujinin monikuollut kaulakoru. Hao oli suvun musta lammas, joka sekaantui mustaan magiaan ja anteeksiantamattomiin rikoksiin. Silti hänen kntribuutionsta suvulle ja hautakammiolle oli merkittävä. Merkitys oli negatiivinen (-). Hänellä oli kaksi lasta, joiden kohtalo oli negatiivinen itselleen Hao Yin takia.
+Käydään näyttämässä kaulakorua Yuinille, joka kertoo ettei ole koskaan ennen nähnyt tätä livenä ennen, mutta tietää esineen. Kyseeesä Hao Wujinin monikuollut kaulakoru. Hao oli suvun musta lammas, joka sekaantui mustaan magiaan ja anteeksiantamattomiin rikoksiin. Silti hänen kontribuutionsta suvulle ja hautakammiolle oli merkittävä. Merkitys oli negatiivinen (-). Hänellä oli kaksi lasta, joiden kohtalo oli negatiivinen itselleen Hao Yin takia.
 
 Lyhyt lepo. Todetaan, että kaulakoru antaa +1 kaikkiin saving throweihin ja +1 dmg poison ja necrotic. Varyn pistää mysteerimaskin päähänsä ja huutaa kivusta, jolloin Kael joutuu Banen kohteeksi. Varynin ääni muuttuu metalliseksi ja tämä tuntee olonsa voimakkaamaksi (+2 kaikkiin hyökkäyksiin, Bane-huuto, kypärä). Tuntuu myös siltä, että joku tuhahtaisi huvittuneena.
 
-Jäädytetään jääpala painoksi uudelleen jonka jälkeen Varyn ja Tavi menevät uiden sivukäytävään. Kael ja Devon menevät keskioville ja Silkki sarkofagihuoneen oville. Silkki hämää vartijaa Mage Handillä samalla kun Varyn hiipii patsaan luo ja Tavi jää vartioon ovelle. Varyn kaataa vettä patsaan kuppiin, mutta mitään ei tapahdu. Pohditaan jumalten nektarin luonnetta ja todetaan ett äse ei varmaan ole viiniä, mutta pyhä vesi voisi toimia. Testataan täyttää kuppi sillä ja se vaikuttaa aktivoivan patsaan vesialtaan tyhjentymisen. Varyn huomaa altaan pohjalla jonkin esineen pinetan patsaiden ja ison patsaan välissä. Kyseessä on jonkinlainen rukousnauha, jossa on kiviä ja yksi laatta, jossa on käsi joka pitelee salamaa. Varyn palaa Tavin luo ja palaavat Yuinin luo. Tavi meinaa hukkua vedessä, mutta pääsevät toiselle puolelle onnistuneesti.
+Jäädytetään jääpala painoksi uudelleen jonka jälkeen Varyn ja Tavi menevät uiden sivukäytävään. Kael ja Devon menevät keskioville ja Silkki sarkofagihuoneen oville. Silkki hämää vartijaa Mage Handillä samalla kun Varyn hiipii patsaan luo ja Tavi jää vartioon ovelle. Varyn kaataa vettä patsaan kuppiin, mutta mitään ei tapahdu. Pohditaan jumalten nektarin luonnetta ja todetaan että se ei varmaan ole viiniä, mutta pyhä vesi voisi toimia. Testataan täyttää kuppi sillä ja se vaikuttaa aktivoivan patsaan vesialtaan tyhjentymisen. Varyn huomaa altaan pohjalla jonkin esineen pinetan patsaiden ja ison patsaan välissä. Kyseessä on jonkinlainen rukousnauha, jossa on kiviä ja yksi laatta, jossa on käsi joka pitelee salamaa. Varyn palaa Tavin luo ja palaavat Yuinin luo. Tavi meinaa hukkua vedessä, mutta pääsevät toiselle puolelle onnistuneesti.
 
-Käydään näyttämässä ruokousnauhaa Yuinille ja sunnistaa sen Chen Wujinin rukousnauhaksi. Ensimmäinen rakentaja ja Sokholin perustaja. Ei itse käsistään kätevä, mutta suuri johtaja ja merenkävijä. Rakennutti Sokholin apunaan 5 mahtavaa arkkitehtiä.
+Käydään näyttämässä ruokousnauhaa Yuinille ja suunnistaa sen Chen Wujinin rukousnauhaksi. Ensimmäinen rakentaja ja Sokholin perustaja. Ei itse käsistään kätevä, mutta suuri johtaja ja merenkävijä. Rakennutti Sokholin apunaan 5 mahtavaa arkkitehtiä.
 
 Yhtälö, jos vuosilukujen mukaan (Chen, Huang, Li, Hao, Hao Yu, Yichen): 5+8/-2=1
 
 Varyn käy kirjoittamassa luvun 1 piirtotauluun kepillä, jolloin huoneen sivuilta lähtee tiiliä irti ja ilmestyy kaksi ovea, joiden takaa huoneeseen astuu kaksi palavaa harniskaa, jotka lähtevät hyökkäämään kimppuun.
+
+---
+
+Init: 4, 22, 11, 7, 8, 12, 10, 5, 18, 2, 17, 16, 12, 20, 22, 15, 6, 21
+
+Haarniskat tekevät kovasti vahinkoa. Tavi misty steppaa arkun sisäpuolelle ja hakee lootit kesken taistelun. Löytää mm. hienon mustekynän ja hienon sauvan. Yrittää komentaa haarniskoja siinä onnistumatta. Silkki ja Devon menevät maihin. Devon pääsee myös arkkuun piiloon hämähäkkinä, mutta muut kuolevat ulkopuolella. Devon saa lopulta viivytystaktiikalla tapettua ja kriittisella (pehmeällä) osumalla viimeisen haarniskan.
 
 ---
