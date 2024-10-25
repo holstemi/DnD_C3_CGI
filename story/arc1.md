@@ -332,3 +332,28 @@ Init: 4, 22, 11, 7, 8, 12, 10, 5, 18, 2, 17, 16, 12, 20, 22, 15, 6, 21
 Haarniskat tekevät kovasti vahinkoa. Tavi misty steppaa arkun sisäpuolelle ja hakee lootit kesken taistelun. Löytää mm. hienon mustekynän ja hienon sauvan. Yrittää komentaa haarniskoja siinä onnistumatta. Silkki ja Devon menevät maihin. Devon pääsee myös arkkuun piiloon hämähäkkinä, mutta muut kuolevat ulkopuolella. Devon saa lopulta viivytystaktiikalla tapettua ja kriittisella (pehmeällä) osumalla viimeisen haarniskan.
 
 ---
+
+Tarkastellaan arkusta löytyneintä aarteita. Devon havaitsee ne maagisiksi. Taistelun jälkeen kuullaan kuinka viemäristön taustaäänet hiljenevät ja käytävän vartija katoaa.
+
+Maaginen lootti:
+
+- Marjakuusisauva: kestävää puuta ja riimuja, kierteinen pää. Toimii arcane focuksena
+- Chen Wujinin mustekynä/miekka: sulkakynä punaisella samettialustalla, hieno värikäs sulka.
+- Chen Wujinin kuppi: Kullattu ja jalokivillä koristelu.
+- Metsästäjän rannesuojat: Nahkaa, kullatut saumat ja vihreitä lehtiä. Metsähaltijoilta saatu lahja.
+
+Silkillä ja Kaelilla on lupa kantaa taikaesineitä, joten ottavat ne kantoon. Varyn yrittää antaa maskin Silkille tai Kaelille, mutta ei kykene. Käydään morjestamassa Yuinia, joka istuu ensimmäisessä huoneessa edelleen. Ei varisinaisesti tunnista esineitä, mutta kertoo niiden olevan sukunsa aarteita ja kertoo niistä vähän lorea. Onnittelee kun tajuaa, että saimme arkun arvoituksen ratkaistua.
+
+Poistutaan viemäristästä saman reitin kautta mistä tultiin ja nousuvesi on jo lähtenyt nousemaan vauhdilla. Kahlataan veden kautta Sokholin satamaan ja päästään rannalle juuri ennen kun vesi nousee liian korkealle. Mennään ilmoittamaan apotin tilanteesta Fingralmille ja Safiirilinnaan. Fingram kertoo, että osa vangituista munkeista oli tehnyt itsemurhan selleissä ja tilanne oli rauhoittunut kaupungissakin.
+
+Safiirilinnalla Varyn, Kael ja Silkki käyvät Vrashin juttusilla kertomassa tilanteesta ja löydöksistä. Vrash ottaa taikaesineet haltuunsa ja kertoo niistä mahdolllisesti jotain aamulla. Tavi ja Devon menevät sillä välin välskärille parannettavaksi ja saadaan parannusjuomat. Devonin jalan paranemiseen menee kuulemma noin 20 päivää (Con. save DC 10). Muutkin tulevat välskärille parannettavaksi tovin jälkeen.
+
+Silkki lähtee nukkumaan Dynoksen luo, mutta tämä on jo lähtenyt kaupungista palvelijoineen. Käy myös katsomassa onko Babao paikalla, mutta änkin on poistunut kaupungista. Lopulta Silkki murtautuu sisään Dynoksen taloon vartijoiden avustuksella. Muut nukkuvat linnalla ja nauttivat iltahuikan Kaelin rommipullosta ennen nukkumaanmenoa.
+
+</br>
+
+D10
+
+> Dungeon läpi ja 3240 xp -> Level 4
+
+---
