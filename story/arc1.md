@@ -272,7 +272,7 @@ Testataan asettaa muita tavaroita ison arkun laatan ympärille, mutta mitään e
 
 ---
 
-Mennään kirjaston suuntaan. Raahataan muutama pöytä painonappulahuoneeseen sen verran, että saadaan Devon kaltereiden toiselle puolelle ja Devon siirtää taikuudella vettä kytkimen painoksi. Devon sukeltaa turvaköyden ja valoämpärin avulla veden alle tutkimaan paikkoja. Vedenalaisessa huoneessa on kaksi jotain maagista esinettä. Devon löytää yhden parannusjuoman ja tuntee kuinka joku hymyilisi ivallisesti. Toisella sukelluksella löytyy erikoinen tikari ja maaginen valkoinen kokonaaman peittävä maski, jossa punaiset raidat ja iso hymynaama. Varynille tulee fiilis, että naamio antaisi +1 kaikkeen damageen ja osumaheittoihin. Taville taasen tulee pakottava tarve päästä testaamaan maskia, kunnes Varyn pistää sen reppuunsa ja tuntee pakottavasti omistavansa sen. Erikoinen tikari on kahvastaan mennyt pilalle, mutta muuten erinomaisessa kunnossa. Tuntuu tavallista tikaria laadukkaammanlta ja kevyemmältä: metalli on mithriliä, +1 maaginen tikari.
+Mennään kirjaston suuntaan. Raahataan muutama pöytä painonappulahuoneeseen sen verran, että saadaan Devon kaltereiden toiselle puolelle ja Devon siirtää taikuudella vettä kytkimen painoksi. Devon sukeltaa turvaköyden ja valoämpärin avulla veden alle tutkimaan paikkoja. Vedenalaisessa huoneessa on kaksi jotain maagista esinettä. Devon löytää yhden parannusjuoman ja tuntee kuinka joku hymyilisi ivallisesti. Toisella sukelluksella löytyy erikoinen tikari ja maaginen valkoinen kokonaaman peittävä maski, jossa punaiset raidat ja iso hymynaama. Varynille tulee fiilis, että naamio antaisi +1 (per 5 lvl) kaikkeen damageen ja osumaheittoihin. Taville taasen tulee pakottava tarve päästä testaamaan maskia, kunnes Varyn pistää sen reppuunsa ja tuntee pakottavasti omistavansa sen. Erikoinen tikari on kahvastaan mennyt pilalle, mutta muuten erinomaisessa kunnossa. Tuntuu tavallista tikaria laadukkaammanlta ja kevyemmältä: metalli on mithriliä, +1 maaginen tikari.
 
 Käydään näyttämässä tavaroita Yuinille. Tämä tunnistaa tikarin olevan Li Wujinin tikari. Löysi tämän monilta (x?) matkoiltaan, jotka teki henkilökohtaisen laivastonsa kanssa. Suuri seikkailija, joka toi Sokholiin sellaista esineistöä ja taikuutta, jota muilla ei ollut. Tämän henkilökohtaiseen armadaan kuului 8 laivaa. Varyn antaa naamion vastahakoisesti Yuinille, joka kertoo nähneensä sen joskus mutta ei tiedä siitä mitään sen enempää. Yuin kertoo, että kirjaston kautta pääsee yhteen muistohuoneeseen ja suureen halliin.
 
@@ -335,25 +335,51 @@ Haarniskat tekevät kovasti vahinkoa. Tavi misty steppaa arkun sisäpuolelle ja 
 
 Tarkastellaan arkusta löytyneintä aarteita. Devon havaitsee ne maagisiksi. Taistelun jälkeen kuullaan kuinka viemäristön taustaäänet hiljenevät ja käytävän vartija katoaa.
 
-Maaginen lootti:
+Maaginen lootti (kaikki attunement):
 
-- Marjakuusisauva: kestävää puuta ja riimuja, kierteinen pää. Toimii arcane focuksena
-- Chen Wujinin mustekynä/miekka: sulkakynä punaisella samettialustalla, hieno värikäs sulka.
-- Chen Wujinin kuppi: Kullattu ja jalokivillä koristelu.
-- Metsästäjän rannesuojat: Nahkaa, kullatut saumat ja vihreitä lehtiä. Metsähaltijoilta saatu lahja.
+- Marjakuusisauva: kestävää puuta ja riimuja, kierteinen pää. Toimii arcane focuksena, tuplaa taikojen keston.
+- Chen Wujinin mustekynä/miekka: sulkakynä punaisella samettialustalla, hieno värikäs sulka. Kynänä toimii ilman mustetta (illusory script), taikasanalla muuttuu +1 lyhytmiekaksi, jonka kantaja pystyy tekemään blade ward cantripin.
+- Chen Wujinin kuppi: Kullattu ja jalokivillä koristelu. Voi luoda nestettä taikasanalla 1 krt/pv ja neste toimii cure woundsina tai aseeseen siveltynä +1d6 radiant damagea undead/fiends 1h ajan.
+- Metsästäjän rannesuojat (Aralimauram): Nahkaa, kullatut saumat ja vihreitä lehtiä. Metsähaltijoilta saatu lahja. +1 dex/int, 1 krt/pv Snare taika (1 action).
 
-Silkillä ja Kaelilla on lupa kantaa taikaesineitä, joten ottavat ne kantoon. Varyn yrittää antaa maskin Silkille tai Kaelille, mutta ei kykene. Käydään morjestamassa Yuinia, joka istuu ensimmäisessä huoneessa edelleen. Ei varisinaisesti tunnista esineitä, mutta kertoo niiden olevan sukunsa aarteita ja kertoo niistä vähän lorea. Onnittelee kun tajuaa, että saimme arkun arvoituksen ratkaistua.
+Silkillä ja Kaelilla on lupa kantaa taikaesineitä, joten ottavat ne kantoon. Varyn yrittää antaa maskin Silkille tai Kaelille, mutta ei kykene. Käydään morjestamassa Yuinia, joka istuu ensimmäisessä huoneessa edelleen. Ei varsinaisesti tunnista esineitä, mutta kertoo niiden olevan sukunsa aarteita ja kertoo niistä vähän lorea. Onnittelee kun tajuaa, että saimme arkun arvoituksen ratkaistua.
 
-Poistutaan viemäristästä saman reitin kautta mistä tultiin ja nousuvesi on jo lähtenyt nousemaan vauhdilla. Kahlataan veden kautta Sokholin satamaan ja päästään rannalle juuri ennen kun vesi nousee liian korkealle. Mennään ilmoittamaan apotin tilanteesta Fingralmille ja Safiirilinnaan. Fingram kertoo, että osa vangituista munkeista oli tehnyt itsemurhan selleissä ja tilanne oli rauhoittunut kaupungissakin.
+Poistutaan viemäristä saman reitin kautta mistä tultiin ja nousuvesi on jo lähtenyt nousemaan vauhdilla. Kahlataan veden kautta Sokholin satamaan ja päästään rannalle juuri ennen kun vesi nousee liian korkealle. Mennään ilmoittamaan apotin tilanteesta Fingramille ja Safiirilinnaan. Fingram kertoo, että osa vangituista munkeista oli tehnyt itsemurhan selleissä ja tilanne oli rauhoittunut kaupungissakin.
 
-Safiirilinnalla Varyn, Kael ja Silkki käyvät Vrashin juttusilla kertomassa tilanteesta ja löydöksistä. Vrash ottaa taikaesineet haltuunsa ja kertoo niistä mahdolllisesti jotain aamulla. Tavi ja Devon menevät sillä välin välskärille parannettavaksi ja saadaan parannusjuomat. Devonin jalan paranemiseen menee kuulemma noin 20 päivää (Con. save DC 10). Muutkin tulevat välskärille parannettavaksi tovin jälkeen.
+Safiirilinnalla Varyn, Kael ja Silkki käyvät Vrashin juttusilla kertomassa tilanteesta ja löydöksistä. Vrash ottaa taikaesineet haltuunsa ja kertoo niistä mahdollisesti jotain aamulla. Vrash haluaa myös päästä näkemään Wujinien karttahuoneen viemäristössä. Tavi ja Devon menevät sillä välin välskärille parannettavaksi ja saadaan parannusjuomat. Devonin jalan paranemiseen menee kuulemma noin 20 päivää (Con. save DC 10). Muutkin tulevat välskärille parannettavaksi tovin jälkeen.
 
-Silkki lähtee nukkumaan Dynoksen luo, mutta tämä on jo lähtenyt kaupungista palvelijoineen. Käy myös katsomassa onko Babao paikalla, mutta änkin on poistunut kaupungista. Lopulta Silkki murtautuu sisään Dynoksen taloon vartijoiden avustuksella. Muut nukkuvat linnalla ja nauttivat iltahuikan Kaelin rommipullosta ennen nukkumaanmenoa.
+Silkki lähtee nukkumaan Dynoksen luo, mutta tämä on jo lähtenyt kaupungista palvelijoineen. Käy myös katsomassa onko Babao paikalla, mutta hänkin on poistunut kaupungista. Lopulta Silkki murtautuu sisään Dynoksen taloon vartijoiden avustuksella. Muut nukkuvat linnalla ja nauttivat iltahuikan Kaelin rommipullosta ennen nukkumaanmenoa.
 
 </br>
 
 D10
 
 > Dungeon läpi ja 3240 xp -> Level 4
+
+---
+
+Ulkona aurinkoinen keli. Kael värvää Devonin aamulla piirtämään karttoja luostarilta ja viemäristöstä löydetyistä kartoista. Varyn piilottelee maskia repussaan, mutta kaikki huomaavat että piilottelee jotain.
+
+Kael menee seuraamaan vuoroveden liikkeitä muurille. Varyn ja Kael suunnittelevat lähtevänsä käymään kaupungilla asioilla ja Tavi tutkii linnaa ja suunnittelee käyvänsä myös autiolla kartanolla. Silkki herää ja käskyttää vartijat hakemaan aamiasta, lämmittämään kylpyveden ja pesettämään vaatteet ennen kuin menee puusepälle asioimaan Dynoksen talon oven tiimoilta. Devon piirustelee karttoja linnan pihalla.
+
+Varyn ostaa itselleen tummanvihreän hopeakirjaillun samettisen viitan ja pari pulloa rommia. Silkki tilaa oven korjauksen Dynoksen piikkiin ja menee hakemaan Kaelin matkalla juttelemaan Vrashille. Vrash on yön aikana selvittänyt maagisten esineiden ominaisuudet (päivitetty yläpuolelle), paitsi Varynin maskin josta selvisi vain jotain. Vrash kertoo heittäneensä maskin tallelokeroon. Silkki ja Kael yrittävät neuvotella taikaesineet takaisin meille käyttöön, mutta ei suostu siihen ainakaan vielä. Sanoo kuitekin, että saadaan Vrashin autio kartano käyttöömme. Tavin linnan tutkiminen ei tuota merkittäviä tuloksia, suurin osa huoneista vaan täynnä pölyä ja hämähäkinverkkoja. Yhdestä makuuhuoneesta löytyy kuitenkin käsipeili ja component pouch, jotka Tavi ottaa mukaan.
+
+Kael ja Silkki käyvät Tronin luona korjauttamassa lommoutuneen miekan ja mithril-tikarin. Kael haluaisi myös parannella armoriaan, mutta se vaatii aikaa ja mahdollisesti myös Vrashin apua. Silkki käy majatalolla ja lupaa esiintyä illemmalla. Menee tutkimaan Dynoksen tyhjää kämppää ja löytää kirjeitä, joista selviää että Dynos on yleiskauppias joka tekee kauppaa kaikkien kanssa. Yhdessä kirjeessä mainitaan Kultainen Puhuri ja että sen pitäisi saapua Lokinpesään. Sama tieto on mennyt myös Babolle. Kirje allekirjoitettu nimikirjaimilla CD.
+
+Devon on piirtänyt karttaa, mutta projekti edistyy hitaasti. Kaelin ihmettelyn perusteella vuorovesi on korkeimmillaan klo 6 aamulla ja alimmmillaan klo 18 iltapäivällä.
+
+Varyn lähtee majataloon nukkumaan ja Silkki menee sinne esiintymään. Silkki haluaa lähettää tallipojan avulla sanoman Keskitavernaan paenneille porvareille, että kaikki on ok. Varyn ja Silkki juttelevat illalla siitä, että haluaisivat lähteä kaupungista, mutta Silkillä vielä oma tehtävä kesken, joten ei vielä halua lähteä kaupungista. Kertoo viinin lomassa oman tarinansa Varynille. Pohtivat onko Kaelin side Vrashiin ja Sokholin kaupunkiin myös rikottavissa.
+
+Kael juttelee Varynin kanssa, että menevät tutkimaan viemäreitä huomenna iltapäivästä. Tavi pelottelee linnan vartijoita kummituskirkaisulla.
+
+</br>
+
+D11 (1.5.539 SSS)
+
+Devonin jalka tuntuu paranevan aika nopeasti (tupla-nat20). Sää on taas sateisempi. Jutellaan linnan suuressa salissa jatkosta, että mihin mennään ja millä porukalla. Silkki mainitsee, että Kultaisen Puhurin kyydissä olisi tämän veli joka on myös ritari, mutta ei omasta halustaan.
+
+Tavi, Silkki ja Varyn lähtevät kyselemään venekyytiä Prizin Majakalle. Fingram kertoo, että merimatkaan tavitaan kokenut kapteeni. Satamassa laivat ovat vähissä, mutta Aleksandra III:n kapteenilta kannattaa kysyä apua. Silkki kysyy myös meriolion saarelle pääsemisestä, mutta Fingram ehdottaa suoraan merikapteeneille puhumista. Varyn kysyy meren tilanteesta, johon Fingram mainitsee että meri on hieman normalisoitunut. Matkalla Alexandra III:n luo Silkillä on fiilis, että joku seuraa. Juttelevat aluksen kapteenille, mutta kapteeni väittää aluksen lähtevän toiseen suuntaan lähipäivinä, mutta Tavi räpyttelee silmiään jolloin kapteeni suostuisi viemään majakalle 500gp hinnasta. Kapteeni kertoo, että ovat lähdössä kauppareissulle Satoriin. Laivasta poistuessaan vastaan tulee nuori lipeväkielinen mies Yain, joka kertoo olevansa taitava kapteeni ja että veisi meidät Prizin majakalle 20gp ja oman laulun hinnalla. Kertoo laivansa nimeksi Aamurusko, joka on pieni mutta vähän kulahtanut purjevene. Matkaan menisi noin 2pv. Paluumatka noin 10gp / hlö. Yhteensä 55gp koko matkasta kaikilta.
+
+Kael lähtee hankkimaan apuvoimia Vrashin viemärireissua varten.
 
 ---
