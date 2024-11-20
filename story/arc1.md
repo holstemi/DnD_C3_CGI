@@ -366,7 +366,7 @@ Varyn ostaa itselleen tummanvihreän hopeakirjaillun samettisen viitan ja pari p
 
 Kael ja Silkki käyvät Tronin luona korjauttamassa lommoutuneen miekan ja mithril-tikarin. Kael haluaisi myös parannella armoriaan, mutta se vaatii aikaa ja mahdollisesti myös Vrashin apua. Silkki käy majatalolla ja lupaa esiintyä illemmalla. Menee tutkimaan Dynoksen tyhjää kämppää ja löytää kirjeitä, joista selviää että Dynos on yleiskauppias joka tekee kauppaa kaikkien kanssa. Yhdessä kirjeessä mainitaan Kultainen Puhuri ja että sen pitäisi saapua Lokinpesään. Sama tieto on mennyt myös Babolle. Kirje allekirjoitettu nimikirjaimilla CD.
 
-Devon on piirtänyt karttaa, mutta projekti edistyy hitaasti. Kaelin ihmettelyn perusteella vuorovesi on korkeimmillaan klo 6 aamulla ja alimmmillaan klo 18 iltapäivällä.
+Devon on piirtänyt karttaa, mutta projekti edistyy hitaasti. Kaelin ihmettelyn perusteella vuorovesi on korkeimmillaan klo 6 aamulla ja alimmmillaan klo 18 (viemäriin pääsee sillan alta noin klo 16-20) iltapäivällä.
 
 Varyn lähtee majataloon nukkumaan ja Silkki menee sinne esiintymään. Silkki haluaa lähettää tallipojan avulla sanoman Keskitavernaan paenneille porvareille, että kaikki on ok. Varyn ja Silkki juttelevat illalla siitä, että haluaisivat lähteä kaupungista, mutta Silkillä vielä oma tehtävä kesken, joten ei vielä halua lähteä kaupungista. Kertoo viinin lomassa oman tarinansa Varynille. Pohtivat onko Kaelin side Vrashiin ja Sokholin kaupunkiin myös rikottavissa.
 
@@ -383,3 +383,55 @@ Tavi, Silkki ja Varyn lähtevät kyselemään venekyytiä Prizin Majakalle. Fing
 Kael lähtee hankkimaan apuvoimia Vrashin viemärireissua varten.
 
 ---
+
+Kael on onnistunut saamaan kersantin ja kaksi vartijaa mukaansa tutkimaan viemäreitä. Kauppiaat ovat osittain palanneet Kalatorille.
+
+Silkki, Tavi ja Varyn menevät kartanolle tutkimaan paikkoja. Kartano tiluksineen ovat varsin huonossa kunnossa, eikä niitä ole ylläpidetty vuosikausiin. Rakannus on tyyliltään heiman itämaistyyppinen. Tavi ja Silkki tutkivat alakertaa, joka on varsin tyhjä.
+
+Varyn kiipeilee ylös torniin, kuulee kuorsausta ja löytää sieltä nukkuvan miehen, Hans. On majoittautunut tornissa jo jonkun tovin, mutta suostuu lähtemään Varynin kehotuksesta. Hansin nostaessaan tavaroita Varyn huomaa, että nuorella miehellä on sama kahdeksanlonkeroinen tatuointi ranteessaan mitä hiisillä ja Tuskapäälläkin. Varyn vie tapaamaan Tavia ja Silkkiä ja Hans kertoo asuneensa Kapeakujilla ja väittää saaneensa tatuoinnin baarivedon seurauksena.
+
+Pienen painostuksen jälkeen kertoo, että varmistanut vaan että kukaan muu ei tule linnalle Euforian (pomo) ja Eferin käskystä. He ovat jossain kaupungissa. Euforian suunnittelema uhrirituaali onistui ja varjo ilmestyi. Tyypin repusta löytyy verinen tikari, pihdit ja muuta pientä pikkusälää. Rituaalin tekopaikasta kysyttäessä yritti paeta, mutta kertoo lopulta että rituaali suoritettiin kartanon kellarissa edellispäivän yönä, uhreina oli orpoja. Sitovat tyypin köydellä ja jättävät sisäpihalle Silkin vartioitavaksi.
+
+Tavi ja Varyn menevät kellariin tutkimaan paikkoja, ja kellarin luukussa on verisiä kädenjälkiä. Kellarissa kahden lapsen (tyttö ja poika) ruumiit on paloiteltu ja verellä sotkettu kaikki paikat. Varyn epäilee, että kyseessä ei olisi maaginen rituaali, mutta uskonnollinen ehkä.
+
+Matkalla Safiirilinnalle juttelivat vielä Hansin kanssa ja tämä kertoo, että Efer on kuulemma nuori komea mies, Euforia on naispuolinen vaihdokas (tiefling). Olivat tavanneet Vanhassa Merkikarhussa. Euforia ja Efer ovat kuulemma olleet pari päivää jo asioilla.
+
+Toisaalla Devonin karttataiteilu edestyy hitaasti ja Kael löytää tiensä viemäristössä karttahuoneeseen. Iltapäivästä tavataan linnalla ja vaihdetaan päivän kuulumisia. Kael ja Silkki hakevat Vrashin tornistaan, jossa tämä yrittää epätoivoisesti löytää tietoja Varynin maskista. Suostuu kuitenkin lähtemään viemäreiden kautta tutkimaan paikkoja. Vrash ei tunne Euforiaa tai Eferiä.
+
+Devon käy juttelemassa aivojen huonosta toiminnasta välskärille ja tämä epäilee taustalla oleavan mustaa magiaa ja suosittelee käymään isä Halfonin luona Kapeakuijilla (pappi, paikallisen orpokodin johtaja).
+
+Karttakammiossa Vrash innostuu näkemästään ja tutkii paikkoja kinnostuneena. Kun Varyn menee juttelemaan Vrashille, niin tämä näkee maagisen maskin hänen repussaan. Vrash yrittää Hold Presonia Varyniin ja usuttaa Kaelin ottamaan tämä kiinni. Vrash ottaa maskin itselleen ja käskee viemään Varynin mustaan (antimagia) selliin.
+
+Mennään porukalla katsomaan Nousuveden majatalon tilannetta. Majatalossa on yksi huppupäinen tyyppi, jota Tavi meinaa mennä hieromaan, jotta saadaan selville onko tämä etsimämme vaihdokas. Ei ole kuitenkaan etsimämme henkilö. Jäädään syömään majataloon, Silkin huilu menee esityksen aikana tukkoon kalapalasta.
+
+Hiivitään illasta kartanolle ja huomataan, että siellä on valot ja riitaisaa puheensorinaa. Devon hiipii hämähäkkinä huoneeseen kirjaston yläpuolella, jossa vaihdokasnainen ja nuori mies riitelevät. Nainen huutaa miehelle siitä, että tämä ei ole löytänyt mitään ja että tämä on varsin saamaton. Tavi teeskentelee Hansin ääntä ja rauhoittaa tilannetta hieman. Nopeasti flankataan huone ja tulee hyvin lyhyt taistelu.
+
+Saadaan Euforia ja Efer nopeasti pakettiin. Kyseessä on vähän vanhempi kaunis tatuoitu vaihdokasnainen, joka on hyvin vihainen ja kiroaa meidät. Hienot vaattet, mutta kulahtaneet ajan saatossa. Viedään Euforia mustaan selliin Varynin kaveriksi.
+
+---
+
+</br>
+
+D12 (2.5.539 SSS)
+
+Aamulla Silkki puhdistaa huiluansa ja sellissä Varyn löytää maskinsa taas takataskustaan. Devon käy kysäisemässä Varyniltä mustassa sellissä vartijan välityksellä, että onko tällä maski taas. Varyn kertoo, että kyllä ja pyytää kertomaan asiasta Vrashille. Devon menee hetkeksi maalailemaan ja pohtimaan asiaa.
+
+Kael ja Tavi menevät kartanolle tutkimaan vielä paikkoja. Mitään varsinaisesti uutta ei löydy, mutta verisiä kädenjälkiä on ympäriinsä kellarissa ja keittiön ovella. Verijäjet vievät metsän laidalle, josta löytyy huonosti piilotettu lasten joukkohauta.
+
+Silkki tulee Safiirilinnalle ja Devon välittää tiedon Varynin maskista tälle. Silkki kyselee välskäriltä Vallen kuntoa ja tämä kuulemma on jo paremmassa kunnossa, mutta ei vielä puhuteltavissa. Kael ja Tavi törmäävät Silkkiin linnan käytävillä ja menevät etsimään Vrashia. Oli tullut aamuyöstä takaisin linnalle mutta nukkuu nyt. Menevät kuulustelemaan Eferiä tavalliseen selliin. Kertoo, että olivat kaapanneet Hansin kanssa lapset orpokodista muutaman viikon aikana. Euforia oli kuulemma nähnyt unessa näkyjä merieliön pelastamisesta. Efer oli kertoo nauttineensa lasten tappamisesta.
+
+Kael käy juttelemassa Varynin kanssa ja hakemassa Devonin ennen Vrashin puheille menemistä. Saadaan Vrashilta teloituslupa lastenmurhaajile. Vrash toteaa maskin kadonneen ja kiinnostuu maskin siirtymisestä Varynin huomaan, mutta ei suostu päästämään tätä vielä sellistä ulos. Pyytää kutsumaan Välskärin puheilleen päivällisen jälkeen. Silkin ja Kaelin suostuttelun jälkeen luovuttaa taikaesineet partylle lainakäyttöön. Kael käy kertomassa tilanteen Varynille sellissä.
+
+Mennään isä Halfonin puheille Kapeakujille. Oven edssä muutama lapsi leikkimässä, ovessa Jondallan [LG - puolituisten jumlatar] merkki (runsaudensarvi, vihreällä taustalla). Sisältä talo on aika ränsistynyt ja yhdessä talossa lapset leikkivät piirissä. Yksi lapsista onkin puolituinen ja tulee tervehtimään, esittelee itsensä Halfoniksi. Sillki ja Devon soittavat musiikkia lapsille samalla kun Kael hoitaa virallisemman osuuden keittiössä. Tavi vitsailee Halfonin nimestä (Halfoff). Halfon kertoo useampien lasten kadonneen viimeaikoina tavallista useammin. Halfon haluaisi haudata lapset metsään ja Kael antaa tälle luvan mennän hoitamaan toimituksensa kartanon maille. Halfon kertoo viimeaikoina että heikkoihin mieliin on otettu yhteyttä. Halfon siunaa Devonin ja poistaa aivosumun. Kertoo myös, että Devon voi tulla huomenna käymään jolloin tämä voi yrittää auttaa jalan kanssa.
+
+Mennään linnalle päivälliselle, jonka jälkeen käydään Vrashin luona kuuntelemassa mitä juttelevat välskärin kanssa. Ohjeistaa Kaelia viemään Euforian tavalliseen selliin Varynin tutkimusten ajaksi. Vrash ja välskäri kasaavat tavaraa leijuvan levyn päälle. Haetaan Euforia tavalliseen selliin kuulusteltavaksi. Euforia käskyttää Command taialla Kaelia ja Tavia kiusatakseen näitä. Silkki työntää sapelin Euforian polven läpi. Euforia kertoo että olio on puhunut tälle unissa ja että sai varjolta merkin ja varjo on murhannut hänen nimissään. Euforia julistaa kuolemattomuuttaan, mutta Devon tökkää tikarilla pariin kertaan niin että tämä kuollee. Devon herättää Euforian marjan avulla. Ja sama juttu toiseen kertaan. Ei kuitenkaan puhu mitään lisää tähän hätään shokin takia.
+
+Mustassa sellissä Vrash kahlitsee Varynin seinään maagisilla kahleilla ja yliajaa mustan sellin magiaeston. Tekevät välskärin kanssa erinäisiä tutkimuksia ja tökkivät Varyniä erilaisilla neuloilla ja aineilla. Silkki yrittää päästä mustaan selliin seuraamaan tutkimuksia, mutta vartija ei päästä käymään. Vartija ohittuu kuitenkin Suggestion-loitsun avulla ja Silkki pääsee kulkemaan mustalle sellille seuraamaan tilannetta. Vrash yllättyy Silkin näkemisestä ja hermostuu kun Silkki vaatii laittamaan Varynin samaan kuntoon kuin tullessa eikä tottele tämän käskyjä. Välskäri taluttaa Silkin ulos huoneesta ja Silkki yrittää lumota välskärin tailla huolehtimaan Varynistä, mutta siinä onnistumatta.
+
+Muut löytävät Silkin käytävällä pohtimassa Varynin tilannetta ja tämä pohtii jo Vrashin kanssa taistelemista Varynin pelastamiseksi. Silkki ja Tavi menevät majatalolle juttelemaan jatkosta ja Vrashin mahdollisesta syrjäyttämisestä. Devon ja Kael nukkuvat linnalla, mutta huonosti koska linnan kellarista kuuluu kovaa huutoa koko yön.
+
+---
+
+</br>
+
+D13 (3.5.539 SSS)
