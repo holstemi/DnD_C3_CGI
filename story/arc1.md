@@ -435,3 +435,28 @@ Muut löytävät Silkin käytävällä pohtimassa Varynin tilannetta ja tämä p
 </br>
 
 D13 (3.5.539 SSS)
+
+Varyn herää tuulenvireeseen pää ylösalaisin, roikkuu pystysuoralla kallionkielekkeellä vuoristossa Keijusalossa (Feywild - Varynin kotiulottuvuus). Pystyy istumaan "normalisti" vuorenseinämällä ja tämän takana seisoo kaapupukuinen henkilö. Vaikka ulottuvuus on tutun oloinen, ei painovoiman suunta tai vuoristojen suuruus vastaa normaalia eivätkä paikat näytä tutuilta. Kaapuhenkilön puheen ymmärtäminen on vaikeaa, puhe puuroutuu. Ei pysty kävelemään kaapuhenkilöä kiinni.
+
+Majatalossa ja ulkona kuuluu paljon hälyä ja kaupungin ihmiset panikoivat. Vrash kutsuu Kaelin välittömästi luokseen kunhan käy ensin ulkona kääntymässä. Taivaalla lukee "Vrashin on aika kuolla ja Graz'salin herätä. Vallankumous alkaa. -CD". Kansalaiset alkavat kokoontumaan torille ja siellä on kannattajia suuntaan ja toiseen. Vrash on lähes paniikissa. Kael lähtee vartijoiden kanssa torille rauhoittamaan tilannetta samaan aikaan kun Silkki ja Tavi tulevat linnalle. Silkki kääntää Kaelin ajatukset suojaamaan viemäreitä, vaikka reitti vie Kalatorin ohi. Mennään koko porukalla viemäristöön "suojaamaan" karttahuonetta. Matkalla huoneeseen teksti katoaa taivaalta. Karttahuone on ennallaan. Karttahuoneessa Silkki varmistaa Devonilta, että Graz'sal oli merihirviön nimi, ja mainitsee myös, että CD voisi olla Corvin Dragaris, joka oli vastaanottamassa jotain esinettä Kultaiselta Puhurilta. Devon parantelee jalkaansa viemäreissä.
+
+Tyrmässä Varyn herää huonossa kuosissa, mutta elossa. Vuoritarina oli ilmeisesti unta.
+
+Silkki ja Tavi kuulevat kaaoksen ääniä Safiirilinnan suunnasta ja lähtevät siihen suuntaan. Matkalla tulee vastaan muutamia ruumiita ja siviilit ovat pääseet linnan sisäpihalle ja linnaan. Linnan sisällä tulipallo räjähtää jossain. Vangit on vapautettu selleistään, mutta Varyn on vielä mustassa sellissään lukkojen takana. Kersantti on kuollut linnan käytävälle ja avaimet otetaan talteen. Varyn löydetään kidutettuna (exhaustion level 2) sellistään ja vapautetaan. Maski on taas Varynin hallussa. Varyniltä puuttuu myös oikean käden keskisormi (-1 dex), mutta ottavat sen mukaan.
+
+Silkki, Varyn ja Tavi menevät räjähdysten suuntaan linnan yläosiin, jossa kansalaiset hurraavat ja osa huutaa "pelkuriksi". Vrash kuulemma pakeni paikalta. Vrashin työhuone on kaaoksessa ja osittain palanut. Kassakaappi on tyhjennetty. Paperit käydään nopeasti läpi ja löytyy 3 kirjaa: "Suuri sota: lyhyesti", "Suonoidat ja Hirviöt" ja "Rakkaimmalleni". Löytyy myös kirjeenvaihtoa Idelin suuntaan. Tulipalo meinaa syttyä, mutta Varyn saa vaimennettua palon Prestidigitationilla. *(+2 inspiraatiota partylle)*
+
+Tavi ja Varyn lähtevät Vrashin makuuhuoneeseen tutkimaan paikkoja, mutta savu ja tuli estää sinne menemisen. Koko torni on tulessa. Suuressa salissa kolme kansankiihottajaa (mm. Rakesh) puhuvat kansalle. Euforia on myös väkijoukossa mukana. Puhujat ovat iloisia vapaudesta velhoista, kauppiaista ja sorrosta. Silkki alkaa neuvottelemaan kolmen johtajan kanssa kauppiaiden kanssa neuvottelemisesta. Väkijoukko myös murhaa Euforian nopeasti ja raasti kun Silkki kertoo tämän rikoksista kaupungin lapsia kohtaan. Väkijoukko alkaa hajaantumaan ja tilanne rauhoittumaan.
+
+Viemäristössä Kael havahtuu tilanteeseen 8 tunnin kohdella ja säntää ulos viemäristöstä katsomaan kaupungin tilannessa. Devon seuraa hiljakseen perässä. Tron on puolustamassa pajaansa muutaman tyypin kanssa ja kertoo Kaelille, että kaupungin on sekasorron vallassa että Kael on vaarassa ellei pidä matalampaa profiilia. Satamassa tilanne on rauhallisempi ja vartijat pitävät järjestystä Fingramin johdolla. Kael lähtee Fingramin ja 20 vartijan kanssa linnalle ja Devon seuraa perästä.
+
+Linnalla vartijasaattuen saapuessa Silkki hajottaa porukan pelottelemalla ja yrittää usuttaa kolme kansankiihottajaa Kaelin kimppuun. Saa kaksi kansankiihottajaa mukaan ja ne otetaan nopeasti kiinni. 
+
+Mennään porukalla Dynos Dynamon luo lepäämään illaksi ja Devon skannaa matkalla taikaesineitä (ei näy). Varyn näyttää (puuttuvaa) keskisormea Kaelille, kun tämä kysyy saiko Vrash parannettua maskin kirouksen. Todetaan, että Dynoksen kämppä ja samalla kaikki Varynin tavarat on ryöstetty, kun päästään sinne.
+
+---
+
+</br>
+
+D14 (4.5.539 SSS)
+
