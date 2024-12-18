@@ -446,11 +446,11 @@ Silkki ja Tavi kuulevat kaaoksen ääniä Safiirilinnan suunnasta ja lähtevät 
 
 Silkki, Varyn ja Tavi menevät räjähdysten suuntaan linnan yläosiin, jossa kansalaiset hurraavat ja osa huutaa "pelkuriksi". Vrash kuulemma pakeni paikalta. Vrashin työhuone on kaaoksessa ja osittain palanut. Kassakaappi on tyhjennetty. Paperit käydään nopeasti läpi ja löytyy 3 kirjaa: "Suuri sota: lyhyesti", "Suonoidat ja Hirviöt" ja "Rakkaimmalleni". Löytyy myös kirjeenvaihtoa Idelin suuntaan. Tulipalo meinaa syttyä, mutta Varyn saa vaimennettua palon Prestidigitationilla. *(+2 inspiraatiota partylle)*
 
-Tavi ja Varyn lähtevät Vrashin makuuhuoneeseen tutkimaan paikkoja, mutta savu ja tuli estää sinne menemisen. Koko torni on tulessa. Suuressa salissa kolme kansankiihottajaa (mm. Rakesh) puhuvat kansalle. Euforia on myös väkijoukossa mukana. Puhujat ovat iloisia vapaudesta velhoista, kauppiaista ja sorrosta. Silkki alkaa neuvottelemaan kolmen johtajan kanssa kauppiaiden kanssa neuvottelemisesta. Väkijoukko myös murhaa Euforian nopeasti ja raasti kun Silkki kertoo tämän rikoksista kaupungin lapsia kohtaan. Väkijoukko alkaa hajaantumaan ja tilanne rauhoittumaan.
+Tavi ja Varyn lähtevät Vrashin makuuhuoneeseen tutkimaan paikkoja, mutta savu ja tuli estää sinne menemisen. Koko torni on tulessa. Suuressa salissa kolme kansankiihottajaa (mm. Rakesh) puhuvat kansalle. Euforia on myös väkijoukossa mukana. Puhujat ovat iloisia vapaudesta velhoista, kauppiaista ja sorrosta. Silkki alkaa neuvottelemaan kolmen johtajan kanssa kauppiaiden kanssa neuvottelemisesta. Väkijoukko myös murhaa Euforian nopeasti ja raa'asti kun Silkki kertoo tämän rikoksista kaupungin lapsia kohtaan. Väkijoukko alkaa hajaantumaan ja tilanne rauhoittumaan.
 
 Viemäristössä Kael havahtuu tilanteeseen 8 tunnin kohdella ja säntää ulos viemäristöstä katsomaan kaupungin tilannessa. Devon seuraa hiljakseen perässä. Tron on puolustamassa pajaansa muutaman tyypin kanssa ja kertoo Kaelille, että kaupungin on sekasorron vallassa että Kael on vaarassa ellei pidä matalampaa profiilia. Satamassa tilanne on rauhallisempi ja vartijat pitävät järjestystä Fingramin johdolla. Kael lähtee Fingramin ja 20 vartijan kanssa linnalle ja Devon seuraa perästä.
 
-Linnalla vartijasaattuen saapuessa Silkki hajottaa porukan pelottelemalla ja yrittää usuttaa kolme kansankiihottajaa Kaelin kimppuun. Saa kaksi kansankiihottajaa mukaan ja ne otetaan nopeasti kiinni. 
+Linnalla vartijasaattuen saapuessa Silkki hajottaa porukan pelottelemalla ja yrittää usuttaa kolme kansankiihottajaa Kaelin kimppuun. Saa kaksi kansankiihottajaa mukaan ja ne otetaan nopeasti kiinni.
 
 Mennään porukalla Dynos Dynamon luo lepäämään illaksi ja Devon skannaa matkalla taikaesineitä (ei näy). Varyn näyttää (puuttuvaa) keskisormea Kaelille, kun tämä kysyy saiko Vrash parannettua maskin kirouksen. Todetaan, että Dynoksen kämppä ja samalla kaikki Varynin tavarat on ryöstetty, kun päästään sinne.
 
@@ -460,3 +460,24 @@ Mennään porukalla Dynos Dynamon luo lepäämään illaksi ja Devon skannaa mat
 
 D14 (4.5.539 SSS)
 
+Kaupunki eiliseen verrattuna varsin hiljainen ja sää on pilvinen. Kael weapon bondaa Marjakuusisauvaan. Käydään kiertämässä kaupunkia taikaesineiden perässä. Majatalon isäntä on siivoamassa paikkoja. Kalatori on tyhjä. Tron siivoaa pajaansa ja kiltahalli (kokoustila) on ryöstetty tyhjäksi kalusteita lukuunottamatta. Seka ja tavara on suljettu, mutta kauppa muuten kuosissa.
+
+Mennään Safiirilinnalle, jossa Fingram yrittää pitää kuria Kapteenille. Fingram kertoo saaneensa järjestyksen kuntoon, mutta ei tiedä kuinka kauan sen ylläpitäminen onnistuu. Sokholin aarrekammioon pääsy ei onnistu tällä hetkellä ilman Vrashin apua. Vouti on edelleen hakemassa rahaa Kalastajakylistä (nähty viimeksi talvella) ja aarteen vartija on myös kaupungin kirjanpitäjä. Aarrekammioon on pääsy Vrashilla, voudilla ja kirjanpitäjällä.
+
+Fingram johdattaa kirjapitäjän puheille, joka on kellarissa illuusioseinän takana olevassa huoneessa. Kirjanpitäjä on vihreä ilmassa leijuva pallo-olento, jolla on neljä silmää varsien päissä. Silkki tunnistaa tämän Spectatoriksi (Beholderin sukua), joka on kutsuttu velhon toimesta tänne vartijoimaan aarretta. Puhuu telepaattisesti. Nimi Xradre. Kertoo, että Kaelin ja Varynin nimet ovat tämän tilikirjoissa ja että linnan kunnostus veisi suuren osan kaupungin varannosta. Tarvittaisiin porvarit takaisin, että saadaan raha virtaamaan. Xradrella ei ole olemassa listausta linnan maagisista esineistä. Vouti lienee jossain Sokholin pohjoispuolella ja palannee lähiviikkoina. Vrakesh löytyi kuolleena kodistaan ja lapset lähetetty orpokotiin. Muut kaksi kansankiihottajaa viety sataman tyrmään. Xradre tai Fingram eivät tunnista nimikirjaimia CD.
+
+Porvareiden tuominen kaupunkiin tai voudin etsiminen rannikolta voisivat olla seuraavia askeleita. Saadaan hevoset, jos mennään porukalla Keskitavernan suuntaan hakemaan porvaareita kaupunkiin takaisin.
+
+Kierretään Kapeakujille ja löydetään yksi maaginen kaulakoru 5 vuotiaan hallusta. Vaihdetaan Silkin peili ja jokunen Goodberry medalijonkiin. Tunnistetaan se Vrashin kilpivartijan loitsuun käytettäväksi koruksi. Muuta maagista Kapeakujilta ei löydy, mutta käydää tarkastamassa Suolaveden löytö, joka on käytetyn tavaran kauppa. Kaupan omistaja kertoo, että muutaman päivän kuluttua saattaa kuitenkin onnistaa. Kalastajan kaveri on kokonaisuudessaan ryöstetty tyhjäksi. Sotasatama on varsin hiljiainen, muutama vartija ja yksi sotalaiva paikalla. Silkki ja Varyn tietävät, että velhojen sotalaivaston on tunnetun heikko, koska magialla on hyvin helppo puolustaa. Hyökkäyssodassa laivastoa rakennetaan. Pohjois- ja etelätornit ovat tyhjiä vartiotorneja.
+
+Vanhakulma on Porvarikylän ja Kapeakujien välimaastoa. Vanha Merikarhu on talonkulmassa oleva pieni baari, yksi asiakas. Baarin pitäjä oli aiemmin majatalossa käymässä. Tämän kääpiöystävää ei ole näkynyt.
+
+Käydään vielä illasta orpokodilla isä Halfonin jutusilla. Halfon saa parannettua Devonin jalan ja Devon lupautuu kuuntelemaan tämän jumalasta ja uskonnosta. Muutkin jäävät kuuntelemaan Halfonin tarinoita illaksi. Varynin sormea ei saada parannettua vielä tähän hätään.
+
+Mennään Dynokselle majoittumaan ja jakamaan taikaesineet. Kynä-miekka Silkille, Marjakuusisauva Devonille, rannesuojat Varynille, medalijonki Kaelille. Kuppi ei vaadi attunementtia, joten se jää vapaaseen käyttöön. Tavi jää ilman varsinaista taikaesinettä, mutta ottaa kupin kantoonsa.
+
+---
+
+</br>
+
+D15 (5.5.539 SSS)
