@@ -468,7 +468,7 @@ Fingram johdattaa kirjapitäjän puheille, joka on kellarissa illuusioseinän ta
 
 Porvareiden tuominen kaupunkiin tai voudin etsiminen rannikolta voisivat olla seuraavia askeleita. Saadaan hevoset, jos mennään porukalla Keskitavernan suuntaan hakemaan porvaareita kaupunkiin takaisin.
 
-Kierretään Kapeakujille ja löydetään yksi maaginen kaulakoru 5 vuotiaan hallusta. Vaihdetaan Silkin peili ja jokunen Goodberry medalijonkiin. Tunnistetaan se Vrashin kilpivartijan loitsuun käytettäväksi koruksi. Muuta maagista Kapeakujilta ei löydy, mutta käydää tarkastamassa Suolaveden löytö, joka on käytetyn tavaran kauppa. Kaupan omistaja kertoo, että muutaman päivän kuluttua saattaa kuitenkin onnistaa. Kalastajan kaveri on kokonaisuudessaan ryöstetty tyhjäksi. Sotasatama on varsin hiljiainen, muutama vartija ja yksi sotalaiva paikalla. Silkki ja Varyn tietävät, että velhojen sotalaivaston on tunnetun heikko, koska magialla on hyvin helppo puolustaa. Hyökkäyssodassa laivastoa rakennetaan. Pohjois- ja etelätornit ovat tyhjiä vartiotorneja.
+Kierretään Kapeakujille ja löydetään yksi maaginen kaulakoru 5 vuotiaan hallusta. Vaihdetaan Silkin peili ja jokunen Goodberry medalijonkiin. Tunnistetaan se Vrashin kilpivartijan loitsuun käytettäväksi koruksi. Muuta maagista Kapeakujilta ei löydy, mutta käydään tarkastamassa Suolaveden löytö, joka on käytetyn tavaran kauppa. Kaupan omistaja kertoo, että muutaman päivän kuluttua saattaa kuitenkin onnistaa. Kalastajan kaveri on kokonaisuudessaan ryöstetty tyhjäksi. Sotasatama on varsin hiljainen, muutama vartija ja yksi sotalaiva paikalla. Silkki ja Varyn tietävät, että velhojen sotalaivaston on tunnetun heikko, koska magialla on hyvin helppo puolustaa. Hyökkäyssodassa laivastoa rakennetaan. Pohjois- ja etelätornit ovat tyhjiä vartiotorneja.
 
 Vanhakulma on Porvarikylän ja Kapeakujien välimaastoa. Vanha Merikarhu on talonkulmassa oleva pieni baari, yksi asiakas. Baarin pitäjä oli aiemmin majatalossa käymässä. Tämän kääpiöystävää ei ole näkynyt.
 
@@ -481,3 +481,27 @@ Mennään Dynokselle majoittumaan ja jakamaan taikaesineet. Kynä-miekka Silkill
 </br>
 
 D15 (5.5.539 SSS)
+
+Aurinkoinen ja lämmin kevätpäivä. Haetaan majatalosta evästä matkalle ja mennään Safiirilinnalle hakemaan hevosia. Kael ja Tavi ottavat yhden hevosen, Varyn ja Silkki toisen ja Devon kolmannen.
+
+Matkan aikana huomataan, että Pikkumetsässä ihmismies makaa tiellä. Tulee vibat, että joku muukin on paikalla. Tavi onnistuu messagella pelottelemaan maassa makaavaa miestä niin että tämä havahtuu. Kaelin pelottelun jälkeen metsästä tulee jokusen henkilön suuruus joukko tyyppejä (Jaakso johtaa). Kyseessä on kaupungista paenneita kapinallisia. Tulee taistelu.
+
+Init: 20, 11, 6
+
+Johtajahamolla ei tatuointeja, mutta vähän rahaa (8gp 14cp) ja Varynin kaksi heittotähteä. Otetaan aseet ja rahat talteen (9 lyhytmiekkaa, 2 tikaria, 8 kevytvarsijousta, 26 vasamaa, 34sp + 38cp)
+
+Kael kuulustelee viimeistä vangittua ryöväriä. Käsketään rangaistukseksi täyttämään ryöväreiden kaivama ansakuoppa.
+
+Kesken kaivuun Keskitavernan suunnasta tulee Keskitavernan baarimikko, joka toimitti viestin Silkille. Viesti kertoo, että Vrash on Keskitavernassa. Jos laukataan hevosilla niin ollaan illansuussa perillä.
+
+Nyt Keksitaverna on täynnä elämää. Hevosia ja ylimääräisiä telttoja tavernan ulkopuolella.
+
+Vrash suunnittelee hyökkäystä kaupungille huomenissa, mutta Kael ja Silkki briiffaavat kaupungin rauhoittuneen tilanteen tälle. Ympärillä pyörivä porvaristo innostuu omien bisnestensä uudelleenkynnistämisestä. Vrash ottaa Kaelin ja Silkin omaan huoneeseensa juttelemaan kapinan aloittajasta, tällä hetkellä yleinen epäilys kapinan aloittajasta olisi Corvin Dracaris. Vrash haluaa takaisin kaupunkiin mahdollisimman pian omaan työhuoneeseensa.
+
+Silkki saa neuvoteltua telttamajoituksen muulle porukalle, itse menee isännän huoneeseen majoittumaan ja juttelemaan tavernan taloustilanteesta.
+
+---
+
+</br>
+
+D16 (6.5.539 SSS)
