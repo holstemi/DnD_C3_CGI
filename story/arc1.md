@@ -502,6 +502,24 @@ Silkki saa neuvoteltua telttamajoituksen muulle porukalle, itse menee isännän 
 
 ---
 
+Silkki saa neuvoteltua Greshamilta maagisen safiirirannerenkaan (15 safiiria) Taville velkojen maksuksi.
+
+Varyn näkee taas yöllä unta. On taistelussa metsässä ja epätoivoisesti yrittää ampua jousella henkilöä, joka miekalla tappaa tämän ystäviä. Hahmo on valkoinen, pitkät hiukset, omaa joitain tuttuja piirteitä. Irvistävä hymy. Lopulta katkaisee Varynin kaulan, jolloin herää. Oli vähän Varynin itsensä näköinen.
+
 </br>
 
 D16 (6.5.539 SSS)
+
+Jälleen kaunis päivä. Gresham ei ole aamupalalla, Vrashiakaan ei näy. Silkki antaa rannerenkaan Taville. Dynos Dynamo on aamupalalla, kertoo Silkille lähtevänsä tänään takaisin Sokholiin. Valmistellaan hevoset ja tavarat lähtöä varten, mutta Vrashia ei näy. Mennään huoneelle, mutta sieltä ei kuulu mitään. Avataan ovet taialla, oven hälytys pelästyttää unisen Vrashin. Haluaa nukkua vielä. Herää lopulta ja päästään liikkeelle. Vrash haluaa kävellä hevosella rasastamisen sijaan. Vrash ei ole vielä huomannut vapaata Varyniä. Varyn ja Silkki menevät edeltä, Kael + Silkki + Vrash tulevat perästä ja Devon siksakkaa metsässä ja löytää matkalta puolet healing potioniin tarvittavista tavaroista + saunan kahvanan toimivan kepin.
+
+Silkki ja Varyn lähtevät kaupunkiin nukkumaan, muut jäävät metsään nukkumaan. Kulkevat ansakuopan ohi, joka ei ole kovin hyvin täytetty. Silkki huomaa, että jokin seuraa metsässä. Olento hyppää hevosen tielle ja paljastuu, että kyseessä demonisusihiisi + yksi hiisi kyydissä. Ovat kuulemma täällä saalistamassa yöllisiä liikkujia. Ihmettelee, että Sokholin kaupunginjohtaja Vrash Kaunispää olisi paikalla metsässä. Kertoo että ei pideä henkilöstä ja alkaa suunnittelemaan hyökkäystä Vrashin kimppuun. Yrittävät värvätä Silkin ja Varynin mukaan, mutta eivät suostu lähtemään koska haluavat nukkumaan.
+
+Loppuyöstä hiidet väiyttävät meidät ja haluavat Vrashin. Tulee taistelu.
+
+Init: 12, 15, 19, 11, 3, 9
+
+Hiidet saavatn Devonin ja Tavin "vahinkoavulla" Vrashin tapettua. Dnageb uhkailee Kaelia taistelulla jos ei luovuta jahtia, Tavi ja Devon (hämähäkkinä) yrittävät hillitä tilannetta. Dnageb pääsee pakoon, Kael on vihainen.
+
+Lootataan Vrashin ruumis (loot ensi kerralla) ja Kael haluaa kantaa Vrashin ruumiin ensi kerralla.
+
+---
