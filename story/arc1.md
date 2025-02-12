@@ -8,7 +8,7 @@
 
 *Olet ollut ahtaassa taikuuden estävässä häkissä jo pitkään ja sen epämukavuus on alkanut särkemään jokaista paikkaasi, jonka takia nukut huonosti. Kuulit sivukorvalla, että Sokhol ei onneksi ole enää kaukana.*
 
-# Sokholin seikkailut
+# Sokholin seikkailut (during Vrash)
 
 *On huhtikuun 20. päivä 539 Sitten Suuren Sodan.*
 
@@ -520,6 +520,6 @@ Init: 12, 15, 19, 11, 3, 9
 
 Hiidet saavatn Devonin ja Tavin "vahinkoavulla" Vrashin tapettua. Dnageb uhkailee Kaelia taistelulla jos ei luovuta jahtia, Tavi ja Devon (hämähäkkinä) yrittävät hillitä tilannetta. Dnageb pääsee pakoon, Kael on vihainen.
 
-Lootataan Vrashin ruumis (loot ensi kerralla) ja Kael haluaa kantaa Vrashin ruumiin ensi kerralla.
+Kael käärii ruumiin rikkinäiseen telttakankaaseen ja kantaa Vrashin ruumiin yön aikana Sokholiin. Kael tarkistaa Vrashin tavarat ja huomaa kaksi sormusta, joista toinen on maginen, ja kilpivartijan amuletin. 
 
 ---
