@@ -518,7 +518,7 @@ Loppuyöstä hiidet väiyttävät meidät ja haluavat Vrashin. Tulee taistelu.
 
 Init: 12, 15, 19, 11, 3, 9
 
-Hiidet saavatn Devonin ja Tavin "vahinkoavulla" Vrashin tapettua. Dnageb uhkailee Kaelia taistelulla jos ei luovuta jahtia, Tavi ja Devon (hämähäkkinä) yrittävät hillitä tilannetta. Dnageb pääsee pakoon, Kael on vihainen.
+Hiidet saavat Devonin ja Tavin "vahinkoavulla" Vrashin tapettua. Dnageb uhkailee Kaelia taistelulla jos ei luovuta jahtia, Tavi ja Devon (hämähäkkinä) yrittävät hillitä tilannetta. Dnageb pääsee pakoon, Kael on vihainen.
 
 Kael käärii ruumiin rikkinäiseen telttakankaaseen ja kantaa Vrashin ruumiin yön aikana Sokholiin. Kael tarkistaa Vrashin tavarat ja huomaa kaksi sormusta, joista toinen on maginen, ja kilpivartijan amuletin. 
 
