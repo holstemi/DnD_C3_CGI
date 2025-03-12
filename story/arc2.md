@@ -53,3 +53,45 @@ Devonin vartiovuorolla oveen koputetaan kahteen kertaan, jolloin Devon herättä
 Kaupungin ihmiset tulevat ulos taloistaan seuraamaan taistelua. Saadaan Dnageb tapettua, mutta poltetaan yksi talo melkein poroksi enne sen jäädyttämistä. Taistelun jälkeen vanha nainen tulee kertomaan, että Dnageb on Barkhest ja se tulee heräämään vielä uudelleen. Mennään sisälle puhumaan asiasta naisen kanssa.
 
 ---
+
+Rangosh tulee pihalle ja kertoo naisen olevan tämän vaimo. Kiittää meitä ja julistaa kylän sankareiksi. Kehottaa kaikkia menemään nukkumaan ja että jutellaan asioista aamulla. Kael innostuu kuulustelemaan vanhaa naista, mutta tämä haluaa keskustella asiasta vasta huomenna. 
+
+Tavi vartijoi vielä loppuyön ja kuulee kuinka kyläläiset siivoavat pihalla ja kuinka Rangosh pyytää kahta henkilöä jatkamaan vartiointia ulkona ja kiroaa jotain.
+
+</br>
+
+D19 (9.5.539 SSS)
+
+Vanha nainen kertoo aamulla, että kyläliset ovat tehneet hirveitä tekoja luolassa ja tämä on jumalan rankaisu. Kala on loppu koko rannikolta. Kertoo, että Dnageb vastaa isoäitinsä tarinaa barkhestistä eli demonihiisisuodesta, joka osaa taikoa. Se syntyy uudelleen ja kasvaa sitten osaksi sitä porukkaa. Hiiden normaali kasvuaika on noin 12 vuotta eli Dnageb on poissa nyt vuosia ellei jopa kymmeniä vuosia. Barkhestin tuhoaminen onnistuu tulen avulla. Vanha nainen ei tiedä kartan merialueesta mitään. Kysellään lähialueiden kiinnostavista paikoista.
+
+Devon käyttää päivän kylän maaperän ja lähivesistöjen rikastamiseen taikuuden avulla. Silkki ja Varyn lähtevät Keskitavernaan viinin ja paremman ruoan perässä, Silkki harjoittelee ratsastutsta matkalla. Kael ja Tavi jäävät Devonin kanssa kylään täksi päiväksi, Kael opettaa Tavia ratsastamaan.
+
+Keskitavernalla Silkki kyselee isännältä kuulumisia ja kertoo itse myös kaupungin asioista isännälle. Isäntä mainitsee, että vouti Kris on yleensä liikkeellä Keskitavernan suunnilla näihin aikohin vuodesta. Kylässä Devonin rituaali valmistuu ja kylän kasvillisuus voimaantuu. Rangosh tulee kittämään Devonia maaperän rikastamisesta. Sen jälkeen ratsastetaan Keskitavernalle.
+
+Illalla suunnitellaan Sokholin kipparin kyytiin hyppäämistä, että päästäisiin Pritzin majakalle. Isäntä kertoo, että sinne pääsee myös vanhaa tietä pitkin maateitse (jokusen päivän matka). Silkki neuvottelee isännältä telttoja, ruokaa ja juomaa matkalle. Niiden tuotaamiseen menee pari päivää, joka aika meidän odottaa ennen majakalle lähtöä.
+
+Suunnitellaan välipäiville ostosreissua Sokholiin: Varyn haluaisi pitkäjouseen nuolia ja jänteitä. Lisäksi jokunen pullo rommia.
+
+</br>
+
+D20 (10.5.539 SSS)
+
+Silkin ja Devonin nopeutettu kauppareissu Sokholiin. Ostetaan mukaan 5 jännettä (2gp 5sp), 20 nuolta (1 gp), 4 pl rommia (4 x 2 gp), 1 pieni oluttynnyri
+
+Silkki kuuntelee kaupungin huhuja: Uudesta velhosta ei ole tietoa. Vrash ja isänsä ovat lähteneen Ideliin. Fingram on väliaikainen kaupunginjohtaja, mutta ei pidä työstään. Kaelin kohtalo on kaupunkilaisten keskuudessa mysteeri.
+
+Nukutaan Dynoksen luona.
+
+</br>
+
+D21 (11.5.539 SSS)
+
+Pilvinen sää. Lähdetään takaisin Keskitavernan suuntaan. Devonilla matkalla tunne, että pitäisi olla lähempänä merta.
+
+Kerrotaan kaupungin huhut muille
+
+---
+
+</br>
+
+D22 (12.5.539 SSS)
