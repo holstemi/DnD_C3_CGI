@@ -95,3 +95,27 @@ Kerrotaan kaupungin huhut muille
 </br>
 
 D22 (12.5.539 SSS)
+
+Pilvinen sää. Lähdetään ratsastamaan kohti majakkaa vanhaa tietä pitkin. Tavi harjoittelee ratsastusta vielä tämän päivän. Devon löytää yrttejä parannusjuomaan luonnosta.
+
+Löydetään majapaikka kallion suojasta
+
+</br>
+
+D23 (13.5.539 SSS)
+
+Puoli-pilivinen sää
+
+Varynin hevonen pillastuu. Devon huomaa, että kukkulalla on hevoskärry ja liikettä. Joku kiroilee kärryllä, mennään katsomaan tilannetta. Puoliörkki meinaa hermostua kun tullaan paikalle, mutta huomataan että rinnuksessa on Kaunispään vaakuna. Esittelee itsensä Krisiksi. Vankkureista on hajonnut toinen pyörä. Kuulemma yksi paikka enää käymättä veronkeruumatakllaan. Ottaa kärrystä sotakirvaan, jalkajousen ja säkin kärrystään ja lähtee meidän seuranamme kohti lähintä paikkaa, josta voisi ehkä saada kärryyn pyörän. 
+
+Kerrotaan kaupungin kuulumisia Krisille matkalla. Kun mainitaan menevämme Prizin majakalle niin Kris vakavoituu ja alkaa väittämään, että siellä ei ole ketään.
+
+Rannalla nähdään joku valtavan kokoinen otus [Valas - Kaskelotti]. Kyseessä tummanharmaa todella isokokoinen kala, jolla on pyöreä pää. Olio on kuollut ja täynnä pistosreikiä (n. 5 cm halkaisija). Varyn huomaa, että yhdesä reijistä on jäänyt terä kiinni. Devonille tulee näkymästä epämukava olo. Silkki huomaa savua kallion takaa pohjoisessa päin. Jatketaan matkaa siihen suuntaan. Kris yrittää flirttailla Taville matkalla. 
+
+Vähän matkan päästä nähdään yksi suurempikokoinen talo ja se edessä lapsia paimentamassa lampaita. Mennään talolle, jossa vastassa on pariskunta ja ainakin 7 lasta. Kris naurahtaa Landonille ja Elialle, että tällä on nälkä, haluaa ruokaa ja marssii sisään. Sisällä 13 sänkyä. Saadaan kaikki kalanpääkeittoa. Ruoan jälkeen Kris aikoo periä saataviaan jolloin miehet menevät ulos. Landon antaa Krislle säkillisen jotain, mutta se ei riitä Krisille. Satoa ei ole ja kalaa ei tule. Landon kertoo, että tältä on käyty varastamassa tavaraa. Kris meinaa pahoinpidellä Landonin, jolloin Tavi keskeyttää tilanteen ja maksaa tämän velat voudille. Miehen tarina ryöstäjistä ei oikein saa selkoa, mutta yksi lapsista (Tom) huutaa kalamiesten olleen varkauksien takana. 
+
+Mies lupaa auttaa Krisin renkaan kanssa. Tavi, Silkki ja Devon jäävät talolle kuuntelemaan lasten tarinoita, muut lähteävät vankkureille. Devon tuntee meren läheisyydessä olonsa jälleen epämukavaksi. Vaimo Elia kertoo, että miehensä puhui totta ja että varkauksia on tapahtunut tosiaan täällä. Ei ole itse nähnyt kalamiehiä, pitää niitä lasten keksintönä. Kertoo, että voidaan kutnekin puhua Tomin kanssa. Tavi antaa naiselle vähän rahaa pahan päivän varalle.
+
+Jututetaan Tomia. Kertoo nähneensä kalamiehet (3 kpl) pari viikkoa sitten eräänä yönä, pää kuin kalalla mutta jalat kuin ihmisellä. Puhuivat jotain kurluttavaa kieltä. Käynee pari kertaa viime viikkoina. Ennen ähtöämme Tom tulee kuiskaamaan Tvaille, että isänsä olsi saanu maksettua verovelat isoisoisänsä aarteesta(?), joka sijaitsee lähikallioilla. Palataan kalalle ihmettelemään tilannetta. Heitetään turvonnutta valasta tulilieskalla, jolloin valas räjähtää. Yritetään löytää Silkinkin huomaama terä räjähdyksen jäljiltä, mutta ei näy. Ehkä se lensi mereen?
+
+---
