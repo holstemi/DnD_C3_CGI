@@ -106,7 +106,7 @@ D23 (13.5.539 SSS)
 
 Puoli-pilivinen sää
 
-Varynin hevonen pillastuu. Devon huomaa, että kukkulalla on hevoskärry ja liikettä. Joku kiroilee kärryllä, mennään katsomaan tilannetta. Puoliörkki meinaa hermostua kun tullaan paikalle, mutta huomataan että rinnuksessa on Kaunispään vaakuna. Esittelee itsensä Krisiksi. Vankkureista on hajonnut toinen pyörä. Kuulemma yksi paikka enää käymättä veronkeruumatakllaan. Ottaa kärrystä sotakirvaan, jalkajousen ja säkin kärrystään ja lähtee meidän seuranamme kohti lähintä paikkaa, josta voisi ehkä saada kärryyn pyörän. 
+Varynin hevonen pillastuu. Devon huomaa, että kukkulalla on hevoskärry ja liikettä. Joku kiroilee kärryllä, mennään katsomaan tilannetta. Puoliörkki meinaa hermostua kun tullaan paikalle, mutta huomataan että rinnuksessa on Kaunispään vaakuna. Esittelee itsensä Krisiksi. Vankkureista on hajonnut toinen pyörä. Kuulemma yksi paikka enää käymättä veronkeruumatakllaan. Ottaa kärrystä sotakirveen, jalkajousen ja säkin kärrystään ja lähtee meidän seuranamme kohti lähintä paikkaa, josta voisi ehkä saada kärryyn pyörän. 
 
 Kerrotaan kaupungin kuulumisia Krisille matkalla. Kun mainitaan menevämme Prizin majakalle niin Kris vakavoituu ja alkaa väittämään, että siellä ei ole ketään.
 
@@ -116,6 +116,52 @@ Vähän matkan päästä nähdään yksi suurempikokoinen talo ja se edessä lap
 
 Mies lupaa auttaa Krisin renkaan kanssa. Tavi, Silkki ja Devon jäävät talolle kuuntelemaan lasten tarinoita, muut lähteävät vankkureille. Devon tuntee meren läheisyydessä olonsa jälleen epämukavaksi. Vaimo Elia kertoo, että miehensä puhui totta ja että varkauksia on tapahtunut tosiaan täällä. Ei ole itse nähnyt kalamiehiä, pitää niitä lasten keksintönä. Kertoo, että voidaan kutnekin puhua Tomin kanssa. Tavi antaa naiselle vähän rahaa pahan päivän varalle.
 
-Jututetaan Tomia. Kertoo nähneensä kalamiehet (3 kpl) pari viikkoa sitten eräänä yönä, pää kuin kalalla mutta jalat kuin ihmisellä. Puhuivat jotain kurluttavaa kieltä. Käynee pari kertaa viime viikkoina. Ennen ähtöämme Tom tulee kuiskaamaan Tvaille, että isänsä olsi saanu maksettua verovelat isoisoisänsä aarteesta(?), joka sijaitsee lähikallioilla. Palataan kalalle ihmettelemään tilannetta. Heitetään turvonnutta valasta tulilieskalla, jolloin valas räjähtää. Yritetään löytää Silkinkin huomaama terä räjähdyksen jäljiltä, mutta ei näy. Ehkä se lensi mereen?
+Jututetaan Tomia. Kertoo nähneensä kalamiehet (3 kpl) pari viikkoa sitten eräänä yönä, pää kuin kalalla mutta jalat kuin ihmisellä. Puhuivat jotain kurluttavaa kieltä. Käynee pari kertaa viime viikkoina. Ennen lähtöämme Tom tulee kuiskaamaan Taville, että isänsä olsi saanu maksettua verovelat isoisoisänsä kalmistosta, joka sijaitsee lähikallioilla. Voi viedä Tavin sinne tänään iltahämärän jälkeen. Tavi kertoo tästä myös Devonille ja Silkille. Palataan kalalle ihmettelemään tilannetta. Heitetään turvonnutta valasta tulilieskalla, jolloin valas räjähtää. Yritetään löytää Silkinkin huomaama terä räjähdyksen jäljiltä, mutta ei näy. Ehkä se lensi mereen?
+
+---
+
+Muut palaavat kärryltä talolle korjaamaan kärrynpyörää. Tavi yrittää läksyttää Krisiä, mutta tämä ei kuuntele. Kerrotaan kalamiesten liikkeistä muille. Varyn miettii onko kalamiesten näkymisellä jotain yhteyttä täysikuuhun.
+
+Illalla Kael huomaa, että Landonin pyörän korjausurakka vaikuttaa hankalalta. Kael yrittää auttaa, mutta ei oikein vieläkään onnistu. Silkki, Devon ja Tavi tulevat myös ihmettelemään työn etenemistä. Devonin, Kaelin ja Landonin yhteistyöllä saadaan pyörän korjausurakka alkuun. Silkki ja Tavi menevät etsimään Tomia. Tom haluaa odottaa, että muut menevät nukkumaan taloon. Itse nukkuu pihalla tämän yön, koska vouti nukkuu sisällä. Varyn saa metsästettyä pari lokkia. 
+
+Nukutaan teltoissa pihalla. Silkki ja Tavi hiipivät Tomin luo. Varyn havahtuu tähän, mutta ei ehdi seuraamaan heitä. Luolassa nukkuu pari muutakin lasta, mutta herättyään Tom vie Tavin ja Silkin kauemmas merestä ylemmäs kalliolle. Kallioreitti on liian vaikea, eikä kukaan pääse perille. Tom kuitenkin ohejistaa reitin luolalle Silkille ja Taville. Reitti vaatii laskuveden aikaan uimista, nousuveden aikaan sukeltamista. Palaavat nukkumaan, jolloin Varyn vähän kuulustelee ja Silkki murtuu ja kertoo seikkailusta Varynille.
+
+</br>
+
+D24 (14.5.539 SSS)
+
+Harmaampi keli jälleen.
+
+Tavi ja Silkki opettelevat uimaan lasten kanssa. Devon auttaa Landonia korjaamaan kärrynpyörän loppuun aamupäivän aikana. Varyn yrittää metsästää parempaa lihaa, saa kolme jänistä. Landon, Devon ja Kael lähtevät asentamaan rangasta kärryyn Krisin kanssa. Kris lähtee huomenna eteenpäin. Kael kyselee Krisiltä verojen keruumuodosta, Kris kerää lähinnä alemman kastin veroja, jotka eivät ole kultana. Devon yrittää seurata veden elämää, mutta ei löydä mitään kiinnostavaa. Tavi näpäyttää piilotaikuudella pervoilevaa Krisiä. Päivälliseksi jäniskeittoa.
+
+</br>
+
+D25 (15.5.539 SSS)
+
+Kris lähtee heti aamusta kohti Sokholia. Yrittää vikitellä Tavin mukaan, mutta lähtee menemään. Uimakoulu jatkuu, Devon tekee päivän aikana parannusjuoman yrttitietouden avulla.
+
+Syödään marjat päivälliseksi, Devon tarjoaa ylimääräisiä myös perheelle keiton jatkeeksi. Perhe on kiitollinen. Kael antaa positiivista palautetta Taville tämän toiminnasta perheen velkojen maksun suhteen.
+
+Mennään illalla koko porukalla tutkimaan Tomin kuvailemaa kalliota, joka vie isoisän kalmistolle. Nyt illalla on nousuvesi, kallion alaosassa epäluonnollinen painauma veden rajassa. Palataan laskuveden aikaan aamulla.
+
+Yöllä Devon näkee unta suuresta määrästä kaloja meren pohjassa, joilla on käsissään keihäitä. Ne uivat kohti valtavaa kalaa ja alkavat tökkimään sitä keihäillään täyteen reikiä. Valtava kala yrittää paeta, mutta ei onnistu.
+
+</br>
+
+D26 (16.5.539 SSS)
+
+Sää huononee ja sataa tihuttaa. 
+
+Silkki vinkkaa perheelle, että valaan ruumiista voisi saada jotain irti. Mennään perheen veneellä soutaen luolalle. Luola on edelleen pääosin veden alla. Devon muuttuu jättiravuksi ja lähtee uimaan luolaan, Varyn lähtee seuraamaan uiden köysi ympärillä. Tunneli vie aika pitkälle veden alla ja Varyn joutuu perääntymään. Devon jatkaa matkaa varovasti ja löytää lopulta veden pinnan ylöspäin kääntyneen tunnelin päässä. Löytyy erikoinen ympyrän muotoinen luola, jonka keskeltä tunneli nousee ylös. Luolassa näkyy erikoisia kaiverruksia maassa,yhdessä kohtaa on iso kivipaasi ja neljä syvennystä. Devon palaa veneelle kertomaan tilanteesta. Palataan huomenna vesihengitystaikuuden avulla koko porukalla.
+
+Loppupäivä menee uintiharjoituksissa, luontorituaaleissa (8h Plant Growth) ja varusteiden huollossa.
+
+</br>
+
+D27 (17.5.539 SSS)
+
+Sää hieman kirkkaampi kuin eilen, mutta tuulee. 
+
+Lainataan vene taas ja lähdetään luolalle. Sidotaan köysi kaikkien ympäri, Devon laittaa hengitystaian päälle ja lähdetään uimaan luolastoon. Eteneminen on hyvin hidasta, kun pitää vetää Tavi ja Silkki perille. Noustaan luolaan tutkimaan paikkoja. Kivilattiassa on kuvio, joka vaikuttaa olevan kompassi. Kivipaadessa on merenneidon kuva ja tekstiä "DM lisää tekstin myöhemmin" ja sen alla lukee "Merileijona". Devon havaitsee kivipaaden itsessään olevan maaginen (abjuration + evocation) ja jossain kiven sisällä on magiaa.
 
 ---
