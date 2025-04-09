@@ -162,6 +162,12 @@ D27 (17.5.539 SSS)
 
 Sää hieman kirkkaampi kuin eilen, mutta tuulee. 
 
-Lainataan vene taas ja lähdetään luolalle. Sidotaan köysi kaikkien ympäri, Devon laittaa hengitystaian päälle ja lähdetään uimaan luolastoon. Eteneminen on hyvin hidasta, kun pitää vetää Tavi ja Silkki perille. Noustaan luolaan tutkimaan paikkoja. Kivilattiassa on kuvio, joka vaikuttaa olevan kompassi. Kivipaadessa on merenneidon kuva ja tekstiä "DM lisää tekstin myöhemmin" ja sen alla lukee "Merileijona". Devon havaitsee kivipaaden itsessään olevan maaginen (abjuration + evocation) ja jossain kiven sisällä on magiaa.
+Lainataan vene taas ja lähdetään luolalle. Sidotaan köysi kaikkien ympäri, Devon laittaa hengitystaian päälle ja lähdetään uimaan luolastoon. Eteneminen on hyvin hidasta, kun pitää vetää Tavi ja Silkki perille. Noustaan luolaan tutkimaan paikkoja. Kivilattiassa on kuvio, joka vaikuttaa olevan kompassi. Kivipaadessa on merenneidon kuva ja tekstiä *"Auringon paetessa matkas' alkaa, soittos raikaa, siin' on taikaa. Aamunkoita kohti sa kuljet, vaan jos luulet, vaan jos luulet, et' matkas sinun suora on, silloin ompi se mahdoton. Seilorin oppaan kautta se käypi, Ja kun Seireenin Säkeeseen soittos loppuu, onkin jo huomen."* ja sen alla lukee *"Merileijona"*. Devon havaitsee kivipaaden itsessään olevan maaginen (abjuration + evocation) ja jossain kiven sisällä on magiaa.
+
+---
+
+Kael päättelee, että veden ei pitäisi nousta luolaan nousuveden aikana. Luolan syvennyksissä ei ole mitään poikkeavana oloista. Paaden takana on sivukuva miehestä jolla on kädessään piippu. Varyn ja Silkki päättelevät kivipaaden tekstin laulamiseen ja maassa olevaan kompassiin. Silkki muistaa laulun, jossa seilori tapaa merinoidan, jossa on vaihtoehtoinen loppu - *Seireenin säe*, mutta sitä Silkki ei tiedä. Devon muistaa, että yöllä merimiehet käyttävät pohjantähteä navigoimiseen - *seilorin opas*. Silkki aloittaa soiton lännestä, jolloin seinistä alkaa vuotamaan vettä. Vesimassat alkoivat elämään ja agressiiviset vesipatsaat lähtevät lähestymään meitä. Tulee taistelu. 
+
+Taistelu päättyy heti kun Silkki tauottaa soittamisen, jolloin vesielementaalit katoavat. Yritetään uudelleen. Seuraavalla yrittämällä Silkki postuu ympyrän ulkokehältä kesken matkan, jolloin elementaalit katoavat taas. Lyhyen levon jälkeen taas uusi yritys. Ei sekään toimi, vaikka nyt päästiin itää asti. Päätellään, että Seireenin säe pitää osata, jotta onnistutaan oikeasti ratkaisemaan arvoitus.
 
 ---
