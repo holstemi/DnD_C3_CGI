@@ -166,8 +166,52 @@ Lainataan vene taas ja lähdetään luolalle. Sidotaan köysi kaikkien ympäri, 
 
 ---
 
-Kael päättelee, että veden ei pitäisi nousta luolaan nousuveden aikana. Luolan syvennyksissä ei ole mitään poikkeavana oloista. Paaden takana on sivukuva miehestä jolla on kädessään piippu. Varyn ja Silkki päättelevät kivipaaden tekstin laulamiseen ja maassa olevaan kompassiin. Silkki muistaa laulun, jossa seilori tapaa merinoidan, jossa on vaihtoehtoinen loppu - *Seireenin säe*, mutta sitä Silkki ei tiedä. Devon muistaa, että yöllä merimiehet käyttävät pohjantähteä navigoimiseen - *seilorin opas*. Silkki aloittaa soiton lännestä, jolloin seinistä alkaa vuotamaan vettä. Vesimassat alkoivat elämään ja agressiiviset vesipatsaat lähtevät lähestymään meitä. Tulee taistelu. 
+Kael päättelee, että veden ei pitäisi nousta luolaan nousuveden aikana. Luolan syvennyksissä ei ole mitään poikkeavana oloista. Paaden takana on sivukuva miehestä jolla on kädessään piippu. Varyn ja Silkki päättelevät kivipaaden tekstin liittyvän laulamiseen ja maassa olevaan kompassiin. Silkki muistaa laulun, jossa seilori tapaa merinoidan, jossa on vaihtoehtoinen loppu - *Seireenin säe*, mutta sitä Silkki ei tiedä. Devon muistaa, että yöllä merimiehet käyttävät pohjantähteä navigoimiseen - *seilorin opas*. Silkki aloittaa soiton lännestä, jolloin seinistä alkaa vuotamaan vettä. Vesimassat alkoivat elämään ja agressiiviset vesipatsaat lähtevät lähestymään meitä. Tulee taistelu. 
 
-Taistelu päättyy heti kun Silkki tauottaa soittamisen, jolloin vesielementaalit katoavat. Yritetään uudelleen. Seuraavalla yrittämällä Silkki postuu ympyrän ulkokehältä kesken matkan, jolloin elementaalit katoavat taas. Lyhyen levon jälkeen taas uusi yritys. Ei sekään toimi, vaikka nyt päästiin itää asti. Päätellään, että Seireenin säe pitää osata, jotta onnistutaan oikeasti ratkaisemaan arvoitus.
+Taistelu päättyy heti kun Silkki tauottaa soittamisen, jolloin vesielementaalit katoavat. Yritetään uudelleen. Seuraavalla yrittämällä Silkki postuu ympyrän ulkokehältä kesken matkan, jolloin elementaalit katoavat taas. Lyhyen levon jälkeen taas uusi yritys. Ei sekään toimi, vaikka nyt päästiin itään asti. Päätellään, että Seireenin säe pitää osata, jotta onnistutaan oikeasti ratkaisemaan arvoitus.
+
+---
+
+Palataan rantaan. Varyn käy metsästämässä ja Devon etsimässä yrttejä. Silkki laulaa illalla lauluja ja niiden seassa myös Seilori ja merinoita -laulun, jotta näkee tunnistaako perhe laulun. Isä ja vanhimmat lapset tunteva laulun, mutta eivät vaikuta tuntevan ylimääräistä Seireenin säettä.
+
+</br>
+
+D28 (18.5.539 SSS)
+
+Varyn metsästää, Devon etsii yrttejä, Silkki ja tavi opettelevat uimaan.
+
+Metsästä palatessaan Kael ja Varyn huomaavat, kun lokit lentävät kauhuissaan ympäriinsä samalla kun jokin violetin värinen lentävä olento härnää niitä. Lähemmällä tarkastelulla vaikuttaisi, että kyseessä on pieni, noin kissan kokonen, lohikäärme. Varyn muistaa, että violetteja lohikäärmeitä ei ole olemassa, joten kyseessä ei ole aito lohikäärme. Varyn ampuu sen yhdellä nuolella alas ja se kuolee samantien. Ottavat raadon mukaan tuvalle.
+
+Devon tunnistaa olennon metsän Keijulohikäärmeeksi (Pseudodragon), metsän pyhäksi eläimeksi. Varyn yrittää sepustaa tarinan siitä että olio löytyi kuolleena, mutta ei mene läpi. Devon rakentaa ritualistisen kokon keijulohikäärmeen polttohautaamiselle ja suorittaa hautarituaalin olennolle.
+
+Yöllä Devon näkee unta, unessa on yö ja lentävä violetti otus lentää yön halki kauas horisonttiin. Sen jälkeen näkee punaisen pienen rasian jossain, missä on kova eläinten ääni. Rasia aukeaa juuri ennen kuin Devon heräteään vahtivuoroon.
+
+</br>
+
+D29 (19.5.539 SSS)
+
+Varyn metsästää, Devon etsii yrttejä, Silkki ja tavi opettelevat uimaan. Metsällä Varyn kompastuu pahasti ja jalkaan tulee murtuma.
+
+Devon pitää asiaa huonona karmana eilisestä, tutkii jalan hieman kovakouraisesti ja pahentaa jalan murtumaa. Elia yrittää hieman autta tilaenntta tekemällä tuen. 
+
+</br>
+
+D30 (20.5.539 SSS)
+
+Aamulla sää on erinomainen, kalamiehiä ei ole näkynyt vaikka täysikuu on paistanut jo toista yötä. 
+
+Palataan hevosille ja jatketaan matkaa kohti majakkaa. Silkki ja Kael keskustelevat Silkin odottamasta lähetyksestä matkalla. Kael kertoo yksityisesti Silkille, että ei aio kuolla rannikolla vaan aikoo paeta kaupungissa käymisen jälkeen.
+
+Illalla päästään rannikolle ja sää on niin selkeä, että majakan valo näkyy etäällä. Majakka näkyy olevan niemen kärjessä, mutta majakan alla oleva niemi on jostain syystä sumun peitossa kelistä huolimatta. Matkan majakalle pitäisi taittua huomisen aikana.
+
+Illalla mietitään Varynin kuljettamista Devonin selässä taisteluiden aikana
+
+Yöllä Devon näkee jälleen samaa unta, jossa punainen pieni rasia on jossain, missä on ärsyttävän kovaa jatkuvaa kakofonista eläinten ääntä.
+
+</br>
+
+D31 (21.5.539 SSS)
+
+Rankkasade. Jatketaan matkaa majakalle. Aiemmin huonokuntoinen tie paranee, mutta vastaan tulee epäilyttävä kylmäävä sumuseinä. Parin minuutin etenemisen jälkeen ennen sumun alkamista hevoset laittavat vastaan ja haluavat jäädä laiduntamaan sumun ulkopuolelle. Devon ottaa Varynin reppuselkään. Kael johtaa joukkoa urheasti valon kanssa kohti majakkaa. Devonilla ja Kaelilla pelko meinaa painaa päälle (-1 osumaan, disadv. kaikki abilitycheckit). Sillki yrittää piristää tunnelmaa laululla, mutta pian sen jälkeen jostain kuuluu kova epäluonnollisen hyytävä kirkaisu. Muistuttaa vähän Varynin maskin ääntä. Hiivitään eteenpäin. Tovin päästä kuuluu uusi kiljaisu hieman lähempänä. Silkki ja Varyn huomaavat jotain nopeaita liikketä sumussa, jotain valkoisia haamuja. Kuullaan kun joku sanoo haltijakielellä, että "Täällä päin he ovat". Pian maasta neljä haltiamaista naispuolista aavetta nousee maasta. Harkitsevat meidän tappamistamme, mutta juttelevat tovin kanssamme. Kertovat, että ärsyttävä kääpiö asustelee majakassa. Voisivat harkita meidän eloon jättämistä, jos tuomme ärsyttävän kääpiön pään aaveille.
 
 ---
