@@ -224,12 +224,123 @@ Pihalla kanala, joka muistuttaa Devonia punaisen rasian unesta. Detect Magic ei 
 
 Majakka on yläosastaan valkoista kalkkikiveä ja punaisesta metallista, soihtu on maaginen. Kael ja Varyn muistavat, että suurissa majakoissa ikuinen liekki on yleinen käytäntö. Avataan ovi ja Kael yrittää heittää mithriltikarin ylös merkiksi saapumisestamme, mutta heittääkin sen vahingossa ulos majakasta (saa sen kuitenkin onneksi weapon bondin avulla takaisin). Kiivetään rappuset ylös ja löydetään kääpiö majakasta nukkumasta. Kääpiöllä on yksipuolinen jalkavaimosopimus aaveiden kanssa. Huonessa on maagisia aseita ja muita juttuja. Kääpiön sormus on maaginen ja siinä on pääkallon kuva (kuolonvartijasormus - Death Ward -taika sormuksessa). Sovitaan että juodaan jotain porukalla isossa hallissa.
 
-Pihalla tarkistetaan romuhuone läpi ja löytyy valeseinä jonka takana on kirjahylly. Kirjahyllystä löytyy etsimämme "Haamuolennoista reumatismiin" plus muutama muukin kiiinnostava kirja mm. "Meren soinnut" & "Haszchmerin menneisyys". Lisäksi Devon tuntee epämääräisen kutsumuksen kirjasta, jonka nimi on "Kapteeni Merijatanin muistelot" ja ottaa sen mukaan. Laulukirjasta löytyy seilorin lualu, mutta ei seireenin säettä.
+Pihalla tarkistetaan romuhuone läpi ja löytyy valeseinä jonka takana on kirjahylly. Kirjahyllystä löytyy etsimämme "Haamuolennoista reumatismiin" plus muutama muukin kiiinnostava kirja mm. "Meren soinnut" & "Haszchmerin menneisyys". Lisäksi Devon tuntee epämääräisen kutsumuksen kirjasta, jonka nimi on "Kapteeni Merijatanin muistelot" ja ottaa sen mukaan. Laulukirjasta löytyy seilorin laulu, mutta ei seireenin säettä.
 
-Isossa hallissa juodaan Agurothin kaupunigsta Gizerain saarelta tullutta olutta. Huomataan, että Genron on vuorikääpiö ja tällä on päällä onavihreä viitta. Näyttää ylväämmältä näin. Illan myötä kertoo elämästään juoman ohella, mutta on vaivautunut taisteluidensa kertoimisesta. Tarpeeksi humalassa kertoo omasta seikkailijaporukastaan, jotka ovat nyt kuolleet. Olivat hakemassa aarretta merellä, kun huonosti kävi. Genron sai osan aarteesta ja kuvitteli tappaneensa merihirviön, mutta ei ole enää varma. Kun näytetään merikarttaa niin toteaa että tuolla hirviö oli. Jos Gratzal herää kuolleista niin kaupunki ei tule sitä enää kestämään. Keroo että kyseeää on kraken, joka alistaa laivat ja merenrantakaupungit voimansa alla. Suositelee käymään Lokinpesässä, jos haluamme lisää tietoja (salakuljettajien sala-satama). Kertoo että on myös hukannut Kisulinsa (purppura keijulohikäärme). Devon heittää Varyniä marjalla kun Genran lähtee. Silkki yrittää seurata Genronia majakkaan, mutta jää heti kiinni.
+Isossa hallissa juodaan Agurothin kaupunigsta Gizerain saarelta tullutta olutta. Huomataan, että Genron on vuorikääpiö ja tällä on päällä onavihreä viitta. Näyttää ylväämmältä näin. Illan myötä kertoo elämästään juoman ohella, mutta on vaivautunut taisteluidensa kertoimisesta. Tarpeeksi humalassa kertoo omasta seikkailijaporukastaan, jotka ovat nyt kuolleet. Olivat hakemassa aarretta merellä, kun huonosti kävi. Genron sai osan aarteesta ja kuvitteli tappaneensa merihirviön, mutta ei ole enää varma. Kun näytetään merikarttaa niin toteaa että tuolla hirviö oli. Jos Gratzal herää kuolleista niin kaupunki ei tule sitä enää kestämään. Keroo että kyseessä on kraken, joka alistaa laivat ja merenrantakaupungit voimansa alla. Suositelee käymään Lokinpesässä, jos haluamme lisää tietoja (salakuljettajien sala-satama). Kertoo että on myös hukannut Kisulinsa (purppura keijulohikäärme). Devon heittää Varyniä marjalla kun Genran lähtee. Silkki yrittää seurata Genronia majakkaan, mutta jää heti kiinni.
 
 ---
 
 </br>
 
 D32 (22.5.539 SSS)
+
+Vähän kohmelo-olo kaikilla jotka joivat illala. Harmaa, tuulinen ilma. Pidetään lukupiiriä kelin vuoksi.
+
+- Varynin kirja kertoo todella kattavasti Hazchmerin historiasta ja lukemiseen menee vähintään 5pv, jonka jälkeen kaikkiin Hazchmerin hisoriaheitot advantagella.
+- Devonin kirja osittain tieto- ja seikkailukirja, vähän lapinlisää tarinoissa. Kirjassa kerrotaan Lokinpesästä, paikallisten merirosvojen salakaupungista, väittää käyneensä siellä. Lokinpesä sijaitsisi kapteenin tarinan mukaan Goljan saarella, mutta jos viranomaiset löytävät paikan niin kaupunki on hylätty ja siirretty eri puolelle samaa saarta.
+- Kael lukee Haamuolentoja ja toteaa että kirja on yleinen tietosanakirja ja osa kirjasarjaa. Opus ei ole maaginen, mutta kertoo magiasta, joten se on kielletty Velhoruhtinaskunnissa
+- Silkki lukee laulukirjaa, mutta ei löydä mitään uutta
+- Tavin lukema "Rakkaimmalleni" on täynnä jonkun tuntemattoman kirjailijan äklösiirappisia runoja
+
+Iltapäivästä Genron tulee alas tornista kärttyisenä syömään ja kertoo että ei saada ottaa venettä käyttöön eikä myöskään halua viedä meitä Lokinpesälle. Käpsä palaa nopeasti syönnin jälkeen takaisin torniinsa. Suunnitellaan porukalla häiritsevämme käpsän elämää syömällä tämän eväät.
+
+Yöllä Devon näkee taas unta punaisest rasiasta.
+
+</br>
+
+D33 (23.5.539 SSS)
+
+Keli on vähän parmepi tänään. Osa lukee kirjoja, Devon etsii punaista rasiaa taikuuden avulla. Devon ei löydä Locate Objectilla puniasta korurasiaa. Kyselee kanoilta rasiasta, muun kotkotuksen seasta kuuluu yksi ääni joka kertoo että tällä oli punainen muna, jonka oli heittänyt maahan. Tunnustelemalla orsien alta löytyy strutsin munan kokoinen puna-purppura muna. Epäillään että kyseessä voisi olla Kisun muna ja Silkki pian sen tunnistaakin keijulohikäärmeen munaksi.
+
+Varyn tietää, että keijulohikäärmeet ovat nuorena väriltään punaisia ja väri muuttuu iän myötä. Kyseinen muna on lähellä kuoritumista, mutta vaatii hoitoa että kuoriutuminen tapahtuu. (Vaatimuksena: Animal Handling skill + 5 palkkia hoitoa, väärin kuoriuttaminen saattaa tappaa poikasen). Devon tietää unen olleen merkityksellinen. Silkki vinkkaa Genronille Devonin löytäneen jotain kiinnostavaa. Tavi löytää kirjasta tiedon, että Keijulohikäärmeet ovat persoja makealle.
+
+Genron tulee hakemaan ruokaa ja kyselee Devonilta mitä jännää oli löytänyt. Jutellaan lyhyesti keijulohikäärmeistä ja selviää, että Genronilla ei tietoa keijulohikäärmeiden munavaiheesta. Olivat tavanneet Kisun kanssa joksus 50 v sitten ja ystävystyneet sillon.
+
+Yöllä Devon näkee painajaista Grazsalin kutsusta. Unessa Devon herää sängystään ja kävelee suoraan mereen, mutta herää painajiasen jälkeen omasta nukkumapaikastaan. (Toisin olisi voinut käydä, jos wisdom save olisi epäonnistunut...)
+
+</br>
+
+D34 (24.5.539 SSS)
+
+Sää on erittäin huono. Devon on alakuloinen. Varyn potee huonoa omatuntoa Kisun tappamisesta. Muut jatkavat lukupiiriä, Silkki käy juttelemassa Genronille tämän vanhasta seikkailijaporukasta. Seikkailuporukassa oli 5 jäsentä + Kisu. Saivat vihjeen krakeinsta ja aarteesta viime vuonna, mutta huonostihan siinä kävi kun Kraken pisti seikkailijoita turpaan. Genron sai osan aarteesta talteen. Jos Grazsal herää henkiin niin meillä ei ole mitään mahdollisuuksia, mutta jos pysyy kuolleena niin meillä on mahdollisuus. Kertoo myös, että Grazsal kutsuu tietynlaisia hulluja tai erikoisia mieliä luokseen, mutta ei pysty kommunikoimaan järkevästi näiden kanssa. On huomannut, että Devoniin yritetään vaikuttaa ja ei voi hyvin. Keskustelun jälkeen Silkki käy etsimässä varastosta isoa peiliä.
+
+Devon näkee edelleen painajaisia, mutta ei antaudu niille.
+
+</br>
+
+D35 (25.5.539 SSS)
+
+Keli edelleen surkea. Kael löytää loitsun, jota Vrash oli kirjasta etsinyt, mutta ei osaa sitä itse ymmärtää koska kyseessä niin korkean piirin loitsu. Genron tulee ajamaan meidät pois huomenna. 
+
+</br>
+
+D36 (26.5.539 SSS)
+
+Devon kerää 5 munaa kanalasta mukaan, maalaa niistä yhden muistuttamaan keijulohikäärmeen munaa varulta, sillä ei ole vakuuttunut muiden suunnitelmasta antaa oikea muna Genronille. 
+
+Iltapäivällä kun Genron tulee häätämään meidät majakalta yritetään neuvotella turvallinen poispääsy jotain reittiä, mutta se ei onnistu. Muut paljastavat keijulohikäärmeen munan olemassaolon ja Devon luovuttaa kopion Genronille jäähyväislahjana. Kaikki muut paitsi Kael näkevät selvästi että luovutettu muna oli kopio. Genron liikuttuu siitä ja lupaa auttaa meidät huomenna aamulla pois majakkaa ympäröivästä sumusta. Varyn kyseenalaistaa Devonin teon, mutta Devon kertoo uskovansa että oli saanut munan kuoriuttamisen tehtäväkseen Kisulta ja haluaa sen suorittaa. Sen jälkeen syntyneellä keijulohikäärmeellä on vapaus valita itse haluaako seurata meitä, palata Genronin luo tai tehdä mitä haluaa.
+
+</br>
+
+D37 (27.5.539 SSS)
+
+Keli edelleen surkea. Genron johdattaa meidät sumun läpi kohti kummistusten sijaintia. Nähdessään Genronin elossa kummitukset suuttuvat meille valehtelusta ja tulee taistelu:
+
+Init: 13, 12, 16
+
+Tapetaan kaksi haamuista, mutta säästetään viimeinen Genonin toiveesta. Taistelun jälkeen Genron suuttuu meille vaimojensa tappamisesta ja lähtee yksin takaisin majakalleen. Pidetään lyhyt tauko.
+
+Mennään ratsailla eteenpäin. Jossain kohtaa Tavi ja Silkki huomaavat suuren tunnuksettoman mustapurjeisen aavemaisen laivan lipumassa merellä. Kael epäilee, että kyseessä voisi olla merirosvojen tai kaappareiden laiva. Devon ei huomannut mitään kun putosi ratsailta.
+
+Leiriydytään metsään yöksi.
+
+Yöllä Devonin painajaiset pahenevat. Devon lähtee kävelemään yöllä ulos luolasta johon muut havahtuvat. Varyn ampuu Devonia Grasping Arrow -nuolella ja saa tämän pysäytettyä ennen kuin Devon pääsee kallion reunamalle asti. Lyhyen selityksen jälkeen mennään takaisin nukkumaan.
+
+</br>
+
+D38 (28.5.539 SSS)
+
+Keli aina vaan surkeampi. Devon herää väsyneenä. Päästään kalastajaperheen talon luo, mutta paikka vaikutta autiolta ja kukaan ei vastaa koputuksiinkaan. Huomataan pian, että rantakallioilla on vaimon ruumis. Otetaan yksi lammas ateriaksi ja majoittaudutaan.
+
+Devonin painajaiset jatkuvat ja yöunet ovat jälleen huonot. Aiempi exhaustion ei lähde pois, mutta ei tule lisääkään.
+
+</br>
+
+D39 (29.5.539 SSS) - D40 (30.5.539 SSS)
+
+Matka Keskitavernaan. Mietitään sään syklisyyttä, rituaalin keskeyttäminen maan alla paransi säitä väliaikaisesti, mutta nyt taas keskimäärin huonompi sää. Matkalla Devon saa levättyä vähän paremmin ja exhaustion menee pois.
+
+</br>
+
+D41 (31.5.539 SSS)
+
+Päästään illaksi Keskitavernalle. Juodaan ja syödään parempaa ruokaa. Isäntä lupaa pestä vaatteemme. Kysellään kaupungin kuulumisia, mutta hiljaista on kuulemma ollut. Silkki kyselee Seireenin säkeestä Greshamilta ja tämä sattuu tietämään sen ja opettaa sen Silkille. Säkeessä seireeni lirkuttelee seilorille, mutta lopussa seilorille käy huonosti. Silkki kysäisee myös Lokinpesästä isännältä, mutta tälä ei ole sen sijainnista mitään tietoa.
+
+</br>
+
+D42 (1.6.539 SSS)
+
+Sää on surkea. Matkataan kohti Sokholia. Ennen lähtöä isäntä kertoo, että Vanhassa Merikarhu on Genronin vakiopaikka ja meitä ei ehkä jatkossa kaivata siellä. Mianitsee myös, että siellä on yksi vakioasiakas, nimeltään Jonathan joka on mahdollisesti parantaja. 
+
+Päästään yöksi Sokholiin, kun vartijat raottavat portteja meidän sisään päästämiseksi. Satamavartioston kersantti tulee ilmoittamaan, että Kaelin paikallaoloa Safiirilinnalla vaaditaan völittömästi. Devon ja Varyn ähtevät varmaanaa majatalosta huonetta samaan aikaan kun muut menevät linnalle palauttamaan hevosia. Linnalla muut odottavat Fingramin vastaanottoa, odottamisen aikana Tavi huomaa että linnassa on huomatavasti normaalia enemmän sotialita liikkeellä tähän aikaan illasta. Tavi lähtee ulos odottamaan, mutta myös Silkki pyydetään poistumaan koko linnasta, koska vain Kael halutaan tavata. 
+
+Heti kun Kael astuu huoneeseen ovi lukitaan hänen takaansa ja huomaa, että huoneessa on vartijat jokaisessa kulmassa. Fingram kyselee Dnagebin tappamisesta, mutta se on vielä kesken. Kael joutuu luovuttamaan kaikki aseensa Fingramille ja Kael tuomitaan maanpetturuudesta kuolemaan. Kael raahataan alas linnan alimpiin kerroksiin tyrmiin mustaan selliin.
+
+</br>
+
+D43 (2.6.539 SSS)
+
+Huomataan aamiasella, että Kael ei ole palannut. Torilta kuuluu kuuluttajan ääni, että Kael on palannut kaupunkiin ja teloitettu tänään aamulla. Mennään porukalla Safiirilinnalle ihmettelemään tilannetta. 
+
+Sellissä Kael on nukkunut huonosti, kuulee jossain kohtaa kun kaksi henkilöä kävelee selliin, Fingram ja vartija. Fingram esittää Kaelille valinnan kuolla tai ei. Fingram paljastaa olevansa Kahleenmurtajien jäsen ja pitää Velhoruhtinaiden lakeja vääristyneinä. Kael liittyy Fingramin pyynnöstä Kahleenmurtajien joukkoon. Fingram rekryää myös muun porukan epäsuorasti mukaan Kahleenmurtajien toimintaan. Kaelille annetaan uudet vaattet, mutta myös varusteensa ja kirjeen. Fingram ohjeistetaa Kaelin menemmään kotisaarelleen Nimeniin, jossa Kael saa lisätietoja Fingramin siskolta. Fingram käskee ottamaaan mukaan myös tyrmistä sen pojan jonka Kael raahasi Safiirilinnalle. Kael johdatetaan linnan tyrmän salaluukulle, joka vie keskikaupungille. 
+
+Kael saa meidät kiinni ennen kuin päästään Safiirilinnalle ja johdattaa meidät Vrashin kartanolle briiffausta varten. Kael kertoo, että Fingram päästi vapaaksi ja pitää päästä salassa Nimenin saarelle. Käydään kaupoilla ennen lähtemistä.
+
+Silkki käy Safiirilinnalla Fingramin juttusilla, Fingram ei paljasta osallisuuttaa Kahleenmurtajiin, mutta kertoo että laivapoika hyppää satamasta mukaan kun lähdemme saarelle. Sen jälkeen Silkki käy Babaon juttusilla hankkimassa laivareissua Nimenin suuntaan ja saa tämän suostuteltua lähtemään saaren suuntaan huomenna aamunkoitteessa. Tavarat siirretään ja Kael salakuljetetaan näkymättömänä laivaan. Nukutaan laivalla.
+
+---
+
+</br>
+
+D44 (3.6.539 SSS)
+
