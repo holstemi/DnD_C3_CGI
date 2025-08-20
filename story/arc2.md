@@ -320,7 +320,7 @@ Päästään illaksi Keskitavernalle. Juodaan ja syödään parempaa ruokaa. Is�
 
 D42 (1.6.539 SSS)
 
-Sää on surkea. Matkataan kohti Sokholia. Ennen lähtöä isäntä kertoo, että Vanhassa Merikarhu on Genronin vakiopaikka ja meitä ei ehkä jatkossa kaivata siellä. Mianitsee myös, että siellä on yksi vakioasiakas, nimeltään Jonathan joka on mahdollisesti parantaja. 
+Sää on surkea. Matkataan kohti Sokholia. Ennen lähtöä isäntä kertoo, että Vanha Merikarhu on Genronin vakiopaikka ja meitä ei ehkä jatkossa kaivata siellä. Mianitsee myös, että siellä on yksi vakioasiakas, nimeltään Jonathan joka on mahdollisesti parantaja. 
 
 Päästään yöksi Sokholiin, kun vartijat raottavat portteja meidän sisään päästämiseksi. Satamavartioston kersantti tulee ilmoittamaan, että Kaelin paikallaoloa Safiirilinnalla vaaditaan völittömästi. Devon ja Varyn ähtevät varmaanaa majatalosta huonetta samaan aikaan kun muut menevät linnalle palauttamaan hevosia. Linnalla muut odottavat Fingramin vastaanottoa, odottamisen aikana Tavi huomaa että linnassa on huomatavasti normaalia enemmän sotialita liikkeellä tähän aikaan illasta. Tavi lähtee ulos odottamaan, mutta myös Silkki pyydetään poistumaan koko linnasta, koska vain Kael halutaan tavata. 
 
@@ -340,7 +340,28 @@ Silkki käy Safiirilinnalla Fingramin juttusilla, Fingram ei paljasta osallisuut
 
 ---
 
+Yöllä Varyn näkee unta sumuhahmoista, jotka taistelevat meitä vastaan. Yksi hyökkääjä erityisen raivokas, suurikokoinen ja vaaleakasvoinen. Kuolee unessa hyökkäyksen seurauksena ja herää siihen. 
+
 </br>
 
 D44 (3.6.539 SSS)
 
+Merimatka alkaa. Säästä riippuen matka kestänee puolisentoista päivää. Käytetään aika laivalla hyödyksi harjoituksiin ja lohikäärmeshakin pelaamiseen.
+
+Yöllä Varynin vahtivuorolla kannelta kuuluu juoksuaseklia ja kovempaa puheääntä. Herättää Devonin. Kansimiehet ihmettelevät, että "Kuka se voi olla? Herättäkää kapteeni!". Kapteeni herätetään. Devon lähtee ihmettelemään tilannetta. Jotkut puhuvat veneen pysäyttämisestä ja jotkut jonkun pelastamisesta, merimiehet kinastelevat siitä mitä tehdään. Devonkin huomaa merellä jonkinlaisen valon. Jonkinlainen merkkituli ja yksi tai enemmän henkilöitä heiluttamassa käsiään. Muutkin heräävät. Babao on varovainen ja suosittelee ohittamaan. Ohi ajettassa kuuluu avunhuutoja.
+
+</br>
+
+D45 (4.6.539 SSS)
+
+Aamulla herätään "Maata näkyvissä!" huutoihin. Valle on kadonnut yön aikana. Loppuyöstä kuulemma nukkui huonosti, mutta muuttui katatoniseksi ja käveli kannelle ennen katoamistaan.
+
+Nimenin kalastajakylä on melkein kaupunkimainen ja kaupungin yläpuolella näkyy Nimenin kivitorni, jonka bannereissa musta-sininen ruutu ja merihevosen kuva. Varyn osaa sanoa, että kyseessä Haschemrin suurin kalastajakylä, jossa myös harrasrtetaan jonkin verran kaupankäyntiä. Suurin nähtävyys on Ukkoskallio, jonka yläpuolella on Qunatitchin suvun ylläpitämä Tornilinnake. Kaupunkia kutustaan myös Esisatamaksi, koska sen läheisyys Sokholin kaupunkiin tekee siitä hyvän varasataman. Hallinnollisesti Sokholin alaisuudessa.
+
+Varyn kysyy paikalliselta paikallisista paikoista: Kievari on nimeltään Kurasaapas. Kala on kallista ja vähissä kevätmyrskyjen takia. Tori (pari kojua) on sataman vieressä. Mennään etsimään majoitus Kuraisesta saappaasta, jonka oven päällä on nimensä mukaisesi kurainen saapas. Sisältä kievari on kuintekin kotoisa. Kievarin emäntä kertoo kylän olevan turvallinen, mutta jotkut kertovat nähneensä Patakuningattaren, joka on huono juttu. Patakuningatar on tällä rannikolla surullisenkuuluisa merirosvolaiva, jota kipparoi kapteeni Gustav Kaunistus ja Sielunnittäjät. Joku kuulemma nähnyt sen Golijan saaren lähettyvillä. Kuulemma todella iso laiva. Mertumouch "Mert" Quantich hallitsijana tällä hetkellä ja Fingramin sisko Dyneera asuu hänen kanssaan linnassa. Syödään kasviskeitot ennen kuin lähdetään tornille.
+
+Matkalla tornille nähdään taikuri, joka oikeasti taikoo ja ihmiset eivät ole siitä moksiskaan. Täällä ilmeisesti taikuus enemmän sallittua, joka on erikoista huomioonottaen että saaren pitäisi olla Sokholin vasalli. Taikuri ilmeisesti käyttää Prestidigitation taikaa temppuihinsa eikä ole aatelinen. Tavi taikoo avoimesti kanin taikurin hatusta, johon taikuri taputtaa.
+
+Torinlla esittäydymme vartijalle ja kerromme, että olemme tulossa tapaamaan Merttiä
+
+---
