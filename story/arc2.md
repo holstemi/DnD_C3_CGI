@@ -320,9 +320,9 @@ Päästään illaksi Keskitavernalle. Juodaan ja syödään parempaa ruokaa. Is�
 
 D42 (1.6.539 SSS)
 
-Sää on surkea. Matkataan kohti Sokholia. Ennen lähtöä isäntä kertoo, että Vanha Merikarhu on Genronin vakiopaikka ja meitä ei ehkä jatkossa kaivata siellä. Mianitsee myös, että siellä on yksi vakioasiakas, nimeltään Jonathan joka on mahdollisesti parantaja. 
+Sää on surkea. Matkataan kohti Sokholia. Ennen lähtöä isäntä kertoo, että Vanha Merikarhu on Genronin vakiopaikka ja meitä ei ehkä jatkossa kaivata siellä. Mianitsee myös, että siellä on yksi vakioasiakas, nimeltään Jonathan joka on mahdollisesti parantaja.
 
-Päästään yöksi Sokholiin, kun vartijat raottavat portteja meidän sisään päästämiseksi. Satamavartioston kersantti tulee ilmoittamaan, että Kaelin paikallaoloa Safiirilinnalla vaaditaan völittömästi. Devon ja Varyn ähtevät varmaanaa majatalosta huonetta samaan aikaan kun muut menevät linnalle palauttamaan hevosia. Linnalla muut odottavat Fingramin vastaanottoa, odottamisen aikana Tavi huomaa että linnassa on huomatavasti normaalia enemmän sotialita liikkeellä tähän aikaan illasta. Tavi lähtee ulos odottamaan, mutta myös Silkki pyydetään poistumaan koko linnasta, koska vain Kael halutaan tavata. 
+Päästään yöksi Sokholiin, kun vartijat raottavat portteja meidän sisään päästämiseksi. Satamavartioston kersantti tulee ilmoittamaan, että Kaelin paikallaoloa Safiirilinnalla vaaditaan völittömästi. Devon ja Varyn ähtevät varmaanaa majatalosta huonetta samaan aikaan kun muut menevät linnalle palauttamaan hevosia. Linnalla muut odottavat Fingramin vastaanottoa, odottamisen aikana Tavi huomaa että linnassa on huomatavasti normaalia enemmän sotialita liikkeellä tähän aikaan illasta. Tavi lähtee ulos odottamaan, mutta myös Silkki pyydetään poistumaan koko linnasta, koska vain Kael halutaan tavata.
 
 Heti kun Kael astuu huoneeseen ovi lukitaan hänen takaansa ja huomaa, että huoneessa on vartijat jokaisessa kulmassa. Fingram kyselee Dnagebin tappamisesta, mutta se on vielä kesken. Kael joutuu luovuttamaan kaikki aseensa Fingramille ja Kael tuomitaan maanpetturuudesta kuolemaan. Kael raahataan alas linnan alimpiin kerroksiin tyrmiin mustaan selliin.
 
@@ -340,63 +340,4 @@ Silkki käy Safiirilinnalla Fingramin juttusilla, Fingram ei paljasta osallisuut
 
 ---
 
-Yöllä Varyn näkee unta sumuhahmoista, jotka taistelevat meitä vastaan. Yksi hyökkääjä erityisen raivokas, suurikokoinen ja vaaleakasvoinen. Kuolee unessa hyökkäyksen seurauksena ja herää siihen. 
-
-</br>
-
-D44 (3.6.539 SSS)
-
-Merimatka alkaa. Säästä riippuen matka kestänee puolisentoista päivää. Käytetään aika laivalla hyödyksi harjoituksiin ja lohikäärmeshakin pelaamiseen.
-
-Yöllä Varynin vahtivuorolla kannelta kuuluu juoksuaseklia ja kovempaa puheääntä. Herättää Devonin. Kansimiehet ihmettelevät, että "Kuka se voi olla? Herättäkää kapteeni!". Kapteeni herätetään. Devon lähtee ihmettelemään tilannetta. Jotkut puhuvat veneen pysäyttämisestä ja jotkut jonkun pelastamisesta, merimiehet kinastelevat siitä mitä tehdään. Devonkin huomaa merellä jonkinlaisen valon. Jonkinlainen merkkituli ja yksi tai enemmän henkilöitä heiluttamassa käsiään. Muutkin heräävät. Babao on varovainen ja suosittelee ohittamaan. Ohi ajettassa kuuluu avunhuutoja.
-
-</br>
-
-D45 (4.6.539 SSS)
-
-Aamulla herätään "Maata näkyvissä!" huutoihin. Valle on kadonnut yön aikana. Loppuyöstä kuulemma nukkui huonosti, mutta muuttui katatoniseksi ja käveli kannelle ennen katoamistaan.
-
-Nimenin kalastajakylä on melkein kaupunkimainen ja kaupungin yläpuolella näkyy Nimenin kivitorni, jonka bannereissa musta-sininen ruutu ja merihevosen kuva. Varyn osaa sanoa, että kyseessä Haschemrin suurin kalastajakylä, jossa myös harrasrtetaan jonkin verran kaupankäyntiä. Suurin nähtävyys on Ukkoskallio, jonka yläpuolella on Qunatitchin suvun ylläpitämä Tornilinnake. Kaupunkia kutustaan myös Esisatamaksi, koska sen läheisyys Sokholin kaupunkiin tekee siitä hyvän varasataman. Hallinnollisesti Sokholin alaisuudessa.
-
-Varyn kysyy paikalliselta paikallisista paikoista: Kievari on nimeltään Kurasaapas. Kala on kallista ja vähissä kevätmyrskyjen takia. Tori (pari kojua) on sataman vieressä. Mennään etsimään majoitus Kuraisesta saappaasta, jonka oven päällä on nimensä mukaisesti kurainen saapas. Sisältä kievari on kuitenkin kotoisa. Kievarin emäntä kertoo kylän olevan turvallinen, mutta jotkut kertovat nähneensä Patakuningattaren, joka on huono juttu. Patakuningatar on tällä rannikolla surullisenkuuluisa merirosvolaiva, jota kipparoi kapteeni Gustav Kaunistus ja Sielunnittäjät. Joku kuulemma nähnyt sen Golijan saaren lähettyvillä. Kuulemma todella iso laiva. Meritomos "Mert" Quantich hallitsijana tällä hetkellä ja Fingramin sisko Dyneera asuu hänen kanssaan tornissa. Syödään kasviskeitot ennen kuin lähdetään tornille.
-
-Matkalla tornille nähdään taikuri, joka oikeasti taikoo ja ihmiset eivät ole siitä moksiskaan. Täällä ilmeisesti taikuus enemmän sallittua, joka on erikoista huomioonottaen että saaren pitäisi olla Sokholin vasalli. Taikuri ilmeisesti käyttää Prestidigitation taikaa temppuihinsa eikä ole aatelinen. Tavi taikoo avoimesti kanin taikurin hatusta, johon taikuri taputtaa.
-
-Torinlla esittäydymme vartijalle ja kerromme, että olemme tulossa tapaamaan Merttiä
-
----
-
-Ennen kuin mennään sisään Kael antaa Silkille ohjeistuksen, että hankkisi Kaelin töihin linnalle jotta voisi jutella Dyneran kanssa rauhassa. Kael esittää Vallea. Alakerran salissa on meripihkakoristelu valtaistuin "Meripihkavaltaistuin", jolla istuu vanha mies ja vierellä seisoo kolmekymppinen nainen. Silkki kertoo saapumsemme syyksi avun tarpeen Lokinpesän paikantamisen kuolleen merijumalan taltuttamiseksi. Mert vastaa etteivät tiedä Lokinpesän tarkempaa sijaintia, mutta toivottaa meidät tervetulleeksi. Dyneera vastaa kiihkeästi, että lupaavat auttaa Lokinpesän tuohoamisessa välittömästi, jos sen sijainti selviää. Meille annetaan majapaikat ("sellit") tornista. Todetaan, että paikka on torniksi iso, mutta linnana se on pieni. Tornin kokoon nähden siellä kulkee yllättävän paljon ei-soturityppistä ei-palvelusväkeä. Silkki antaa kirjeen Dyneeralle ja tämä hymähtää positiiviseen sävyyn vaikka onkin muuten varsin vakavailmeinen henkilö. Pyytää Silkkiä tuomaan koko porukka suureen saliin kylvyn jälkeen.
-
-Kun saavumme takaisin valtaistuinsaliin Dyneera istuu valtaistuimella vartiostonkapteenin kanssa ja Merttiä ei näy. Dyneera kutsuu Kaelin tämän omalla nimellä astumaan esiin ja kysyy tämän lojaliteeteista. Kapteeni hakee sivuhuoneesta kahlitun vaihdokkaan (Tiefling) Lazariel istuimen eteen. Kertoo, että hän on harjoittanut laittomasti taikuutta ja tuomitsee Lazareilin kuolemaan. Käskee Kaelia teloittamaan tämän ja Kael tekee työtä käskettyä. Juuri ennen teloitusta pysäyttää Kaelin ja käskee pettyneen oloisena kaikkia poistumaan.
-
-Muut lähtevät kaupungille juttelemaan Babaolle, mutta Devon ja Varyn jäävä linnalle juomaan olutta. Kun palvelijat eivät ohjaa isäntäväen pöytiin vaan ohjeistavat hakemaan ruoan palvelusväen keittiöstä Varyn loukkaantuu ja lähtee kaupungille muiden kanssa. Devonille ei väliä mistä saa ruoan ja oluen ja menee nauttimaan niistä tornin huipulle. Satamassa Babao ei ota vastaan vieraita tänään. Silkki lähtee linnalle syömään, mutta muut menevät Kurasaappaaseen syömään taas kasviskeittoa. Tornilla Silkki pääsee suureen saliin syömään, mutta muut ovat syöneet ja Silkille on jäetty vain ruoan rippeitä. Sikki ottaa tämän merkkinä siitä, että meitä ei kaivata täällä. Silkki lähtee takaisin satamaan Babaon laivalle illaksi näkymättömänä.
-
-Satamassa Silkki näkee kuinka Babao saa jonkun pussukan ja päättää yllättää Babaon ilmestymällä tämän viereen. Babao ei ole innokas puhumaan tänään, mutta kertoo että ovat paikalla myös huomenna. Silkki menee majoittumaan Kurasaappaalle muiden kanssa, Devon majoittuu linnalla mistään mitään tietämättä.
-
-Devon jututtaa maalaisittain ei-palvelusväkeä, mutta ei saa paljoa vastauksia. Devon kuitnekin huomaa, että yksi henkilöistä sattoi olla Rakesh (yksi kapinakapteeneista). Devon juttelee Rakeshin kanssa niitä näitä ja paljastuu, että about kaikki linnassa ovat Kaheleenmurtajia. Paljastaa myös sen, että Fingram on Kahleenmurtaja kuten myös joku meistä. Devon on hetken tästä ihmeissään, mutta tottuu nopeasti ajatukseen ja toteaa että velhot ovat tylsää porukkaa ja pitää Kahleenmurtajista enemmän.
-
-</br>
-
-D46 (5.6.539 SSS)
-
-Keli huonontunut entisestään ja yöllä on noussut suuri myrsky. Muut tulevat linnalle. Silkki ja Tavi vaihtavat märät vaattensa pois. 
-
-Kael kutsutaan Dyneeran huoneeseen selittämään eilinen käytöksensä. Kertoo että Kael sekä onnistui, että epäonnistui eilisessä kokeessaan. Dyneera kertoo että ovat Kahleenmurtajien suurin toimija täällä ja että etsivät Lokinpesää myös täällä. Fingram kuulemma kertoi kirjeessä, että Lokinpesästä löytyy tieto jota Kael etsii. Dyneera on myös kuullut, että olemme tulleet tänne pahamaineisen salakuljettaja Babao Entonin kyydissä. 
-
-Sillä välin Devon hölöttää Kahleenmurtajien tilanteesta muille juuri ennen kuin Kael kävelee paikalle. Pidetään kriisipalaveri ja Kael kertoo tilanteestaan avoimesti ja julistautuu velhoja vastaan. Devon tunnustaa samassa yhteydessä, että oli vahingossa kansannousun aiheuttaneen taivaalla olleen viestin takana Sokholissa muutama viikko takaperin kun yritti pelastaa Varynin tyrmästä. Varyn myös paljastaa, että on myös osittain sen takana, että Vrash ei ole enää Kaelin isäntä (kun paljasti Dnagebille Vrashin sijainnin Pikkumetsässä). Palvelija tulee koputtamaan oveen ja pyytävät meitä liittymään aamiaiselle muiden kanssa tornin kolmanteen kerrokseen.
-
-Aamiaispöydässä huomataan Rakesh ja Lazariel. Kaikki siirtyvät juttelemaan muiden kanssa. Kael pahoitelee käytöstään Lazarielille. Aamiaispöydissä kuuluu keskustelua Patakuningattaren näkemisestä merillä. Silkki yrittää löytää lisätietoja Corvin Dragariksesta: Nimenin saarelle on päätynyt miehistöä Kultaiselta Puhurilta (osa kuolleita, mutta osa selvinnyt). Kaikki aamiaspöydässä kertovat olevansa Dyneeran vieraita ja ovat hylkiöitä Velhoruhtinaskunnassa taikavoimiensa, poliittisen vakaumuksensa tai muun vastaavan asian vuoksi. Ovat kaikki säätyläisiä tai rahvaita. Tavi juttelee taikurin, Ephenin, kanssa taikuuden harjoitusvapaudesta Nimenin saarella ja Kaelin loikkaamisesta. Varyn juttelee Darion nimisen hekilön kanssa kirjallisuudesta ja etsii itsellleen jalan parantajaa. Silkki pyytää Dyneeralta lisätietoja Golian saaresta ja tälle luvataan kartta toimitettuna huoneeseensa. Yksi Kultaisen Puhurin selviytyjä houraili ennen kuolemaansa kaupungissa, että haaksirikosta osa on saattanut pelastua, mutta epätodennäköistä se on. Patakuningatar lienee Lokinpesässä. Devon yrittää löytää jonkun auttamaan keijulohikäärmeen munan kuoriuttamisessa ja toteaa Darion voisi auttaa asiassa. Darion lupaa auttaa sen kanssa ja kutsuu Devonin huoneeseensa aloittaakseen kuoriuttamisprosessin. Varyn huomaa paikalla olevalla vanhemmalla pappishenkilöllä kaulakorun, jossa silmän kuva (Boccobin symboli), ja käy juttelemassa tämän kanssa jalan tilastaan. Pappi "Harmaahapsi" ihmettelee kuuhaltijan olemista täällä päin maailmaa ja kertoo myös käyneensä Keijusalossa aikaa sitten. Lupaa parantaa Varynin jalan jos juttelevat lisää Keijusalosta ja haltioiden elämästä.
-
-Darion kertoo Devonille että munan kuoriutumisessa menee 5 päivää ja kannattaa olla paikalla, kun lohikäärme kuoriutuu.
-
-Päivä menee tornissa myskyä piilossa. Päivän aikana Silkki saa Golian-saaren kartan, Varyn kertoo tarpeeksi tarinoita jalan parantamiseksi ja saa myös kasvillisuuskirjan *"Vihreät, Mustat, Keltaiset ja punaiset yrtit"* (lukuaika 5pv). Devon ja Varyn juttelevat lyhyesti, että seuraavat 5pv voisi olla hyvä pysyä about paikoillaan.
-
----
-
-</br>
-
-D47 (6.6.539 SSS)
-
-> Level up 6
-
+Yöllä Varyn näkee unta sumuhahmoista, jotka taistelevat meitä vastaan. Yksi hyökkääjä erityisen raivokas, suurikokoinen ja vaaleakasvoinen. Kuolee unessa hyökkäyksen seurauksena ja herää siihen.

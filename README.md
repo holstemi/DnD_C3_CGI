@@ -1,6 +1,6 @@
 # C3
 
-> Kaffeporukan toinen DnD kamppanja
+> Kaffeporukan toinen DnD kampanja
 
 # Pelaajahamot
 - **Devon** Tammenhaara
@@ -21,3 +21,4 @@
 ## Tarina
 - [Osa 1: Sokholin seikkailut (Vrashin aikana)](story/arc1.md)
 - [Osa 2: Sokhollin seikkailut (Vrashin jälkeen)](story/arc2.md)
+- [Osa 3: Kahleenmurtajuus](story/arc3.md)
