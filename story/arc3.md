@@ -108,9 +108,9 @@ D54 (13.6.539 SSS)
 
 Miellyttävä sää, jopa aurinko näkyy tänään
 
-Lazariel saa opetettu Silkille kaiken minkä tietää myrkyistä, joten Silkki saa Poisoner's Kitin käyttötaidon itselleen. Devon valmistaa parannusrohdon.
+Lazariel saa opetettua Silkille kaiken minkä tietää myrkyistä, joten Silkki saa Poisoner's Kitin käyttötaidon itselleen. Devon valmistaa parannusrohdon.
 
-Silkki käy satamassa ja toteaa, että Babao on lähtenyt satamasta huviveneellään kaikessa hiljaisuudessa. Satamassa on kuitenkin yksi uusi yksipurjeinen noin 15m vene *Aamurusko*, jonka kannella meille tuttu Jain juo kirkkaita. Kertoo, että on odottanut meitä jo pari päivää. Silkki kertoo, että ollaan menossa Gloianin saarelle ensiksi Pikkuniemeen. Jain vaikuttaa olevan itsevarma kyvyistään viedä meidät saarelle, vaikka pitääkin saarta villien paikkana. Jätit ovat kuulemma Golianin suurin vitsaus: isoja, aggressivisia ja tyhmiä. Golianialla on kaikki suurta ja siellä on myös alueen suurin vuori, Monumentum (yli 3km). Jain on sitä mieltä, että ei kannata matkustaa yötä vasten piraattien vuoksi, mutta aamulla voidaan lähteä matkaan.
+Silkki käy satamassa ja toteaa, että Babao on lähtenyt satamasta huviveneellään kaikessa hiljaisuudessa. Satamassa on kuitenkin yksi uusi yksipurjeinen noin 15m vene *Aamurusko*, jonka kannella meille tuttu Jain juo kirkkaita. Kertoo, että on odottanut meitä jo pari päivää. Silkki kertoo, että ollaan menossa Golianin saarelle ensiksi Pikkuniemeen. Jain vaikuttaa olevan itsevarma kyvyistään viedä meidät saarelle, vaikka pitääkin saarta villien paikkana. Jätit ovat kuulemma Golianin suurin vitsaus: isoja, aggressivisia ja tyhmiä. Golianialla on kaikki suurta ja siellä on myös alueen suurin vuori, Monumentum (yli 3km). Jain on sitä mieltä, että ei kannata matkustaa yötä vasten piraattien vuoksi, mutta aamulla voidaan lähteä matkaan.
 
 </br>
 
@@ -118,10 +118,22 @@ D55 (14.6.539 SSS)
 
 Aamulla vähän huonompi sää taas, mutta ei vielä myrskyä kunnolla.
 
-Aamiaisen jälkeen lähdetään satamaan laivan kyytiin ja hieman krapulainen Jain lähtee viemään meitä saarelle. Nähdään matkalla Delfiiniparvi ja Devon juttelee tilanteista parvelle. Delfiinit teitävät mikä on Golian saari nimeltä ja saadaan selville, että Patakuningatar on pyörinyt alueella parin viikon sisään ja upottanut muita laivoja. Delfiinit saattaisivat tietää missä Lokinpesä sijaitsee sen perusteella että missä Patakungiatar on ollut ankkurissa, mutta eivät halua kertoa tietoa ilmaiseksi ilman kalalahjusta. Sovitaan, että delfiinit tulevat etsimään meitä Golian saarelta kaladiilin perässä, jos löydämme kalaa jostain.
+Aamiaisen jälkeen lähdetään satamaan laivan kyytiin ja hieman krapulainen Jain lähtee viemään meitä saarelle. Nähdään matkalla Delfiiniparvi ja Devon juttelee tilanteista parvelle. Delfiinit teitävät mikä on Golian saari nimeltä ja saadaan selville, että Patakuningatar on pyörinyt alueella parin viikon sisään ja upottanut muita laivoja. Delfiinit saattaisivat tietää missä Lokinpesä sijaitsee sen perusteella, että missä Patakunigatar on ollut ankkurissa, mutta eivät halua kertoa tietoa ilmaiseksi ilman kalalahjusta. Sovitaan, että delfiinit tulevat etsimään meitä Golian saarelta kaladiilin perässä, jos löydämme kalaa jostain.
 
 Kael opettelee merikulkuneuvojen käyttöä ja Tavi haltijakieltä.
 
 Päästääin illaksi Pikkuniemen lähistölle ja nähdään etäältä, että kylässä on oletettua enemmän liikettä. Kael katsoo Sorsan silmien kautta tilannetta ja toteaa, että kylässä on meneillään merestä nousevien kalamiesten hyökkäys. Devon antaa tuuliboostin, että päästään rantaan nopeammin. Valmistellaan muutamat taiat ja hypätään rantaan. Kalamiehet näkevät saapumisen ja valmistaudutaan taisteluun.
 
 ---
+
+Voitataan kalamiehet. Ovat osa vesikansaa nimeltään Kuo-toa ja taistelimme ryöstöpartiota vastaan, jotka yleensä kaappaavat henkilöitä tappamisen sijaan. Ovat tunnetusti sekaisin, koska aikojen alussa Mindflayerit orjuuttivat kansan. Mielennyölkiöiden ajan jälkeen Kuo-toat vapautuivat orjuudesta, mutta pysyivät hulluina. Niillä on oma pääjumala Blibdoolploop ja jos uskovia Kuo-taiai on tarpeeksi niin voivat luoda omia jumailia. Ovat hyvin uskovainen kansa.
+
+Kylässä ei ole paljoa ihmisiä jäljellä, vain vanhuksia ja lapsia. Miehet on tapettu ja naiset tapettu tai viety merirosvojen toimesta. Kylän vanhin Hanna on pessimistinen kylän onnesta ja on luovuttamaisillaa, mutta suostuu siihen että kyläläiset viedään veneellä Nimeni saarelle. Tavi kinastelee Jainin kanssa kyläläisten viemisestä, mutta sovitaan että rahalla ja rommilla saadaan ostettua palvelu tältä. Majoittaudutaan kaikki yöksi saarella ja viritetään kyläläisille suojaisa paikka Tiny Hutin ja rakennetun suojan avullla. Varyn käy hakemassa rapuja ja tekee rapukeiton illaksi.
+
+Kysellään illalla Patakuningattaren liikkeistä ja kuullaan, että erikoisesti pukeutunut puolihaltiamerirosvo kävi miehistöineen ryöstämässä kylän. Merirosvojen näkyminen on ollut harvinaista viimeaikoihin asti, nyt jotain on muuttunut. Hyökkäsivät kylään yön pimeydessä useamman kymmenen miehen voimin. Jätit ovat jättäneet kylän rauhaan eikä Hanna ole nähnyt niitä lapsuutensa jälkeen.
+
+---
+
+</br>
+
+D56 (15.6.539 SSS)
