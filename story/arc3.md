@@ -126,14 +126,28 @@ Päästääin illaksi Pikkuniemen lähistölle ja nähdään etäältä, että k
 
 ---
 
-Voitataan kalamiehet. Ovat osa vesikansaa nimeltään Kuo-toa ja taistelimme ryöstöpartiota vastaan, jotka yleensä kaappaavat henkilöitä tappamisen sijaan. Ovat tunnetusti sekaisin, koska aikojen alussa Mindflayerit orjuuttivat kansan. Mielennyölkiöiden ajan jälkeen Kuo-toat vapautuivat orjuudesta, mutta pysyivät hulluina. Niillä on oma pääjumala Blibdoolploop ja jos uskovia Kuo-taiai on tarpeeksi niin voivat luoda omia jumailia. Ovat hyvin uskovainen kansa.
+Voitataan kalamiehet. Ovat osa vesikansaa nimeltään Kuo-toa ja taistelimme ryöstöpartiota vastaan, jotka yleensä kaappaavat henkilöitä tappamisen sijaan. Ovat tunnetusti sekaisin, koska aikojen alussa Mindflayerit orjuuttivat kansan. Mielennyölkiöiden ajan jälkeen Kuo-toat vapautuivat orjuudesta, mutta pysyivät hulluina. Niillä on oma pääjumala Blibdoolploop ja jos uskovia Kuo-tai:ta on tarpeeksi niin voivat luoda myös uusia omia jumailia. Ovat hyvin uskovainen kansa.
 
-Kylässä ei ole paljoa ihmisiä jäljellä, vain vanhuksia ja lapsia. Miehet on tapettu ja naiset tapettu tai viety merirosvojen toimesta. Kylän vanhin Hanna on pessimistinen kylän onnesta ja on luovuttamaisillaa, mutta suostuu siihen että kyläläiset viedään veneellä Nimeni saarelle. Tavi kinastelee Jainin kanssa kyläläisten viemisestä, mutta sovitaan että rahalla ja rommilla saadaan ostettua palvelu tältä. Majoittaudutaan kaikki yöksi saarella ja viritetään kyläläisille suojaisa paikka Tiny Hutin ja rakennetun suojan avullla. Varyn käy hakemassa rapuja ja tekee rapukeiton illaksi.
+Kylässä ei ole paljoa ihmisiä jäljellä, vain vanhuksia ja lapsia. Miehet on tapettu ja naiset tapettu tai viety merirosvojen toimesta. Kylän vanhin Hanna on pessimistinen kylän onnesta ja on luovuttamaisillaan, mutta suostuu siihen että kyläläiset viedään veneellä Nimenin saarelle. Tavi kinastelee Jainin kanssa kyläläisten viemisestä, mutta sovitaan että rahalla, rommilla ja naisseuralla saadaan ostettua kuljetuspalvelut tältä. Majoittaudutaan kaikki yöksi saarella ja viritetään kyläläisille suojaisa paikka Tiny Hutin ja rakennuksen raunioihin rakennetun suojan avulla. Varyn käy hakemassa rapuja ja tekee rapukeiton illaksi.
 
-Kysellään illalla Patakuningattaren liikkeistä ja kuullaan, että erikoisesti pukeutunut puolihaltiamerirosvo kävi miehistöineen ryöstämässä kylän. Merirosvojen näkyminen on ollut harvinaista viimeaikoihin asti, nyt jotain on muuttunut. Hyökkäsivät kylään yön pimeydessä useamman kymmenen miehen voimin. Jätit ovat jättäneet kylän rauhaan eikä Hanna ole nähnyt niitä lapsuutensa jälkeen.
+Kysellään illalla Patakuningattaren liikkeistä ja kuullaan, että erikoisesti pukeutunut puolihaltiamerirosvo kävi miehistöineen ryöstämässä kylän. Merirosvojen näkyminen on ollut harvinaista viimeaikoihin asti, nyt jotain on muuttunut. Hyökkäsivät kylään yön pimeydessä useamman kymmenen miehen voimin. Kysytään myös jäteistä, mutta ne ovat kuulemma jättäneet kylän rauhaan, eikä Hanna ole nähnyt niitä lapsuutensa jälkeen.
 
 ---
 
 </br>
 
 D56 (15.6.539 SSS)
+
+Aamulla on yllättäen erittäin hyvä sää ja aurinko paistaa.
+
+Hanna lähtee kaikkien paitsi yhden lapsen kanssa Jainin kyytiin kohti Nimeniä. Tutkitaan saarta toisen vanhan, mutta innokkaan, naisen Agneksen kanssa *(jonka ääni kuulostaa ihan Tarja Haloselle)*. Yksi vähän villimmän oloinen tyttö, Daena, jäi Agneksen kanssa kuitenkin saarelle esittelemään saarta. Danenan nimi tulee Nimenin hallitsijoiden historiasta. Agnes kertoo, että Suurniemi on karu paikka ja vuoren suunta voisi olla kiinnostavampi paikka, kunhan vältellään jättejä riittävästi.
+
+Kuljetaan maastossa rauhassa, mutta hyvää vauhtia. Deana pyörii lähistöllä, mutta juoksee omiaan lähistöllä. Tauon aikana Deana tuo tapetun ja kidutetun linnunraadon Devonille ja ylpeilee sen tappamisella. Devon puree kieltään ja yrittää käyttäytyä. Deanan ehdottaa, että jatketaan matkaa kohti hienoa kelottonutta puuta ja Momentumia. Deana myös ideoi, että Momentumin päältä voisi nähdä missä Lokinpesä on. Silkki epäilee Deanan tarkoitusperiä ja pyytää Kaelia lähettämään Sorsan tarkkailemaan reittiä etukenoon. Lintu ilmoittaa että edellä on tosiaan korkea ja hieno kelo noin puolen tunnin kävelymatkan päässä. Päästään kelolle reilun puolen päivän matkan aikana ja Agnes haluaa pitää tauon. Nähädään selkeästi Monumentum vuori edessä ja pari muuta sitä ennen.
+
+Seurataan mihin tyttö menossa ja on juoksemassa kovaa vauhtia vuorelle päin. Mummeli huolestuu kun tyttöä ei näy, mutta käytös on epäilyttävää. Silkin pelkotaika saa mummon paljastamaan, että ei ole itse kyläläinen, mutta kyllä saarelta. Jaarittelee, että adoptoi tytön sen jälkeen kun tämä menetti vanhempansa "tapaturmassa", kun vanhemmat kuolivat jollain kalliolla tytön leikkiessä. Miehensä kanssa asui Suurniemessä, mutta muutti kylään miehensä kuoltua. Adoptoi nyt 6v tytön noin 1,5v sitten.
+
+Devon tekee rituaaliennustuksen, joka kertoo että tytön seuraaminen tuo hyviä ja huonoja asioita. Devon laittaa myös Detect Magicin päälle ja havaitsee lievän maagisen piilotustaikuus auran mummelin ympärillä. Devon päättää paljastaa mummelin todellisen muodon Dispel Magicillä, jolloin mummon olomuoto kasvaa valtavaksi örkkimummeliksi ja tulee taistelu. Ennen taistelua muut tietävät olennon olevan lasten kauhutarinoiden haahka (Hag), joka jahtaa lapsia ja syö niitä. Joskus voi myös ottaa lapsen itselleen ja opettaa sen pahoille tavoille pysytellen itse mummon roolissa. Large-kokoinen keiju (non-humanoid). Ovat vahingon suhteen kestäviä ja tekevät toisinaan yhteistyötä muiden pahojen olentojen kanssa. Pystyvät ottamaan uuden olomuodon tarvittaessa. Pystyy repimällä yhden kysistään irti luomaan rauta-tokenin, jolla voi keskustella haahkan kanssa (pro tason Message). Vaikka hagit ovat yleisesti hyviä taikomaan, tämä hag vaikuttaa enemmän voima-tyypiltä.
+
+Haahka halaa Devonin hetkellisesti tajuttomaksi ja puolen tusinaa jättejä hyökkää myös kimppuun, joten joudutaan pakenemaan juosten ja/tai näkymättömänä taistelupaikalta. Palataan kylään kertomaan kylälisille tapahtumista.
+
+---
