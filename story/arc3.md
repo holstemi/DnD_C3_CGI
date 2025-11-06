@@ -151,3 +151,43 @@ Devon tekee rituaaliennustuksen, joka kertoo että tytön seuraaminen tuo hyviä
 Haahka halaa Devonin hetkellisesti tajuttomaksi ja puolen tusinaa jättejä hyökkää myös kimppuun, joten joudutaan pakenemaan juosten ja/tai näkymättömänä taistelupaikalta. Palataan kylään kertomaan kylälisille tapahtumista.
 
 ---
+
+Yön aikana Hanna ja Jain palaavat saarelle. Kerrotaan haakatilanteesta Hannalle ja tämä kertoo että Daena on tämän lapsenlapsi (?)
+
+</br>
+
+D57 (16.6.539 SSS)
+
+Sää on edelleen melko hyvä.
+
+Pohditaan mitä tehdään seuraavaksi. Pääteään lähteä koko porukalla Suurniemeen kalastamaan ja majoittautumaan seuraavaksi yöksi. Veneellä menee matkaan noin tunti. Devon varmistaa rantautumisen jälkeen vedessä selvitymisen hengitystailla. Ei saada kalaa koko päivänä. Kael skannaa aluetta liikkeen varalta Sorsan kanssa ja näkee Neulametsän kummitusmaisena etäällä.
+
+Yöllä Varyn näkee painajaista, jossa etäisesti Pikkuniemen oloiseen merenrantakaupunkiin hyökkää porukkaa ja irvistävä hahmo tappaa Varynin toverita ja leikkaa lopulta Varynin pään irti.
+
+</br>
+
+D58 (17.6.539 SSS)
+
+Pilvinen keli ja tuuli yltyy hiljalleen.
+
+Palataa Nimeniin alkuillaksi. Maksetaan Jainille palkkio ja käydään Dyneeran juttusilla. Illalla käydään Kurasaappaassa katsomassa menoa ja juttelemassa Jainin kanssa. Silkki vie Jainin huoneeseensa illan päätteksi.
+
+</br>
+
+D59 (18.6.539 SSS)
+
+Keli huononee taas hieman ja ulkona satelee.
+
+Devon ja Silkki pohtivat aamulla sään huononemisen ja kulttilaisten tappamisen syy-seuraussuhdetta, mutta päädytään siihen oletukseen että kulttilaisetilmestyvät useammin myskyn huonotessa kuin keli paranisi silloin kun kulttilaisia tapetaan.
+
+Devon jää päiväksi kouluttamaan lohikäärmettä *(1/12 palkkia)* ja Silkki keittämään myrkkyjä. Kael ja Varyn lähtevät etsimään kalaa tai kalastajia torilta. Saavat pari kontaktia kalastajien puolelta ja menevät odottelemaan Kurasaappaaseen. Tavi käy kävelemässä ympäri kaupunkia ja joku epäilyttävä kaveri tulee myymään eilistä salistaan. Tavi hakee Kaelin ja Varynin tavernasta ja valikoimaa on useammankin tynnyrin verran ja kertoo, että kala on "kaupankäynnin tulosta". Ei suostu myymään vain osaa, kaikki 4 tynnyriä saataisiin 35 kullalla. Lyhyen tinkimisen jälkeen jättävät kaupat kuitnekin tekmättä. Toisaalla Devon ja Silkki kuulevat, että linnalle tulossa ollut kalasaalis eiliseltä on hukassa.
+
+Myöhemmin kun kalastajat palaavat rantaan niin useimmat tulivat takaisin tyhjin käsin, mutta yksi sai saaliiksi silakoita. Kalat on kuitenkin korvamerkitty Mysrkykalliolle. Kael meinaa ostaa tynnyrillisen kalaa välistä, mutta Varyn ehdottaa Dyneeran kanssa neuvottelemista ennemmin. Dyneera ei kuitenkaan ole kiinnostunut myymään kaloja, koska ne on varattu vieraille. Suostuu kuitenkin vaihtamaan ruokaa toiseen. Varyn mainitsee kalavarkaasta Dyneeralle, joka lähettää kapteenin asialle.
+
+Devon käy taikomassa kaali- ja naurispelloilal illala ja saa kaalit kasvamaan pikavauhtia. Dyneera lupaa meille yhden kalatynnyrin kasvihoitoapua vastaan.
+
+---
+
+</br>
+
+D60 (19.6.539 SSS)
