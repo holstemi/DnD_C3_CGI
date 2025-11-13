@@ -184,10 +184,35 @@ Devon jää päiväksi kouluttamaan lohikäärmettä *(1/12 palkkia)* ja Silkki 
 
 Myöhemmin kun kalastajat palaavat rantaan niin useimmat tulivat takaisin tyhjin käsin, mutta yksi sai saaliiksi silakoita. Kalat on kuitenkin korvamerkitty Mysrkykalliolle. Kael meinaa ostaa tynnyrillisen kalaa välistä, mutta Varyn ehdottaa Dyneeran kanssa neuvottelemista ennemmin. Dyneera ei kuitenkaan ole kiinnostunut myymään kaloja, koska ne on varattu vieraille. Suostuu kuitenkin vaihtamaan ruokaa toiseen. Varyn mainitsee kalavarkaasta Dyneeralle, joka lähettää kapteenin asialle.
 
-Devon käy taikomassa kaali- ja naurispelloilal illala ja saa kaalit kasvamaan pikavauhtia. Dyneera lupaa meille yhden kalatynnyrin kasvihoitoapua vastaan.
+Devon käy taikomassa kaali- ja naurispelloilla illala ja saa kaalit kasvamaan pikavauhtia. Dyneera lupaa meille yhden kalatynnyrin kasvihoitoapua vastaan.
 
 ---
 
 </br>
 
 D60 (19.6.539 SSS)
+
+Sää yllättäen erittäin hyvä. 
+
+Täydennetään omia varustevarastoja linnan varastoista. Etsitään defliinit ensin ja sitten harkitaan laululuolan arvoituksen ratkomista. Ostetaan kyydit Jainilta (20 gp meno ja 15 gp paluu). Silkki lukee matkalla. Devon huhuilee delfiinejä veden alla. 
+
+Iltapäivällä spotataan delfiinit ja pysäytetään laiva. Annetaan maistijaiseksi muutama kala. Yksi delfiineistä kertoo isänsä tienneen vanhan Lokinpesän paikan, mutta uudesta paikasta ei ole delffiineilläkään tietoa. Osaa kuitenkin kertoa, että kummallinen vihreä valo kajastaa suuren merirosvokajuutan päältä, joka on ankkurissa pohjoisosassa suuren lahden poukamassa. Delfiinit välttelevät Kuo'toata ja harmaita miehiä, jotka ovat meren uuden jumalan orjia. Harmaat miehet toimivat maan päällä ja meren pinnan alapuolella. Osa uhrattu ja osa kaapattu. Jotain tekemistäa Kua'toien kanssa(?) Harmaat miehet viettävät aikaa hylyissä tai tekevät niitä uusia. Ainakin Sokholin suunnassa oli parin viikkoa takaperin vielä uhrauksia (mutta se me putsattiin jo)
+
+Palataan Nimenille illaksi kertomaan tiedoista Dyneeralle. Sotajoukkojen kokoaminen veisi viikkoja, joten sitä ennen pitäisi selvittää lisää tietoja Lokinpesästä. Kael pyytää aseistusta, mutta Dyneera lupaa jotain parempaa huomiseksi aamuksi.
+
+Silkki käy Kurasaappaassa katsomassa Jainin perään ja Kael ostaa sieltä myös rommipullon.
+
+
+</br>
+
+D61 (20.6.539 SSS)
+
+Sää on edelleen hyvä.
+
+Oveen koputetaan aamulla ja Ukkoskallion kapteeni tulee hakemaan meidät kellariin, jossa yhdessä huoneessa Dyneera esittelee meille läjän pulloja, jotka sisältävät alkemistin tulta. Saadaan arkussa 30 pulloa mukaan. Kannetaan se laivaan ja lähdetään kohti Golianin pohjoispäätyä. Matkalla opiskellaan asioita ja Devon kouluttaa lohikäärmettä.
+
+Kesken matkan pilvet alkavat kerääntymään taivalle hyvin nopeaan tahtiin ja voimakas ukkosmyrsky iskee päälle. Lähdetään navigoimaan rantaan, mutta Devon kuulee kuinka Kuo'toat nousevat laivaan reunoilta. Tulee taistelu.
+
+Taistelun aikana Devonin kutsumat salamat tekevät reikiä laivaan niin pahasti, että koko paatti kallistuu ja meinaa upota. Devon alkaa jäädyttämään reikiä umpeen ja muut etsivät ämpäreitä tai niiden korvikkeita äyskäröintitarkoituksiin. Varyn menettää kaikki nuolensa samassa rytäkässä. Reijät saadaan jäädytettyä ja vettä äyskäröidään niin kovasti, että vene ei uppoa vielä ja Jain lähtee ohjaamaan laivaa kohti lähintä rannikkoa.
+
+---
