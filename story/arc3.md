@@ -216,3 +216,11 @@ Kesken matkan pilvet alkavat kerääntymään taivalle hyvin nopeaan tahtiin ja 
 Taistelun aikana Devonin kutsumat salamat tekevät reikiä laivaan niin pahasti, että koko paatti kallistuu ja meinaa upota. Devon alkaa jäädyttämään reikiä umpeen ja muut etsivät ämpäreitä tai niiden korvikkeita äyskäröintitarkoituksiin. Varyn menettää kaikki nuolensa samassa rytäkässä. Reijät saadaan jäädytettyä ja vettä äyskäröidään niin kovasti, että vene ei uppoa vielä ja Jain lähtee ohjaamaan laivaa kohti lähintä rannikkoa.
 
 ---
+
+Jain huutaa, että rantautuminen tulee olemaan raju. Hieman ennen rantautumista huomataan, että kallion takana kajastaa vihreää valoa ja aavemainen purje näkyy. Kova rantautuminen iskee Jainin tajuttomaksi, mutta herätetään marjalla. Yritetään kiivetä puuta kalliolle, mutta ei meinaa onnistua sitten millään. Silkki ja Kael tipahtavat latvasta mereen ja lähtevät ajelehtimaan. Alkemistintulilaatikko tipahtaa Devonin selästä aiheuttaen valtavan räjähdyksen, joka tappaa Jainin ja polttaa Varyniä sekä puun. 
+
+Kael ja Silkki ajelehtivat kohti eteläpoukamaa tajuttomina ja melkein kuolevat, kunnes joku soutuvene nostaa heidät kyytiinsä. Veneen kyydissä on kolme aseistettua miestä, jotka vaativat meitä antautumaan. Tavi harkitsee hyökkäämistä, mutta näkymätön henkilö kuiskaa takaa että "Ei kannata". Kun Tavi kertoo olevansa voimakas noita, niin näkymättömistä ilmestyy puolihaltia Gustav Kaunistus joka toteaa, että "Minä myös". Sen jälkeen meidät tainnutetaan ja viedään laivaaan silmät ja raajat sidottuna.
+
+> Menee X päivää aikaa välissä
+
+Herätään laivan selleistä kahlittuna (sekä käsikahleet, että suukapula), levännein ja myrkytettyinä. Varyn ja Kael samassa sellissä, Silkki ja Tavi toisessa sellissä ja Devon omassaan. Vartioita ei näy, mutta muissa selleissä on naisia. Devon muuttuu rotaksi ja käy järsimässä muiden suukapulat irti ja pohditaan mitä tehdään. Devon käy myös rottana kuuntelmeassa, että sellikäytävän yhden oven takaa kuuluu työskentelyn ääniä ja palaa selleille yrittäen kommunikoida tietoa muille.
