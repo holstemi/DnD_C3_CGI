@@ -192,7 +192,7 @@ Devon käy taikomassa kaali- ja naurispelloilla illala ja saa kaalit kasvamaan p
 
 D60 (19.6.539 SSS)
 
-Sää yllättäen erittäin hyvä. 
+Sää yllättäen erittäin hyvä.
 
 Täydennetään omia varustevarastoja linnan varastoista. Etsitään defliinit ensin ja sitten harkitaan laululuolan arvoituksen ratkomista. Ostetaan kyydit Jainilta (20 gp meno ja 15 gp paluu). Silkki lukee matkalla. Devon huhuilee delfiinejä veden alla. 
 
@@ -201,7 +201,6 @@ Iltapäivällä spotataan delfiinit ja pysäytetään laiva. Annetaan maistijais
 Palataan Nimenille illaksi kertomaan tiedoista Dyneeralle. Sotajoukkojen kokoaminen veisi viikkoja, joten sitä ennen pitäisi selvittää lisää tietoja Lokinpesästä. Kael pyytää aseistusta, mutta Dyneera lupaa jotain parempaa huomiseksi aamuksi.
 
 Silkki käy Kurasaappaassa katsomassa Jainin perään ja Kael ostaa sieltä myös rommipullon.
-
 
 </br>
 
@@ -217,10 +216,20 @@ Taistelun aikana Devonin kutsumat salamat tekevät reikiä laivaan niin pahasti,
 
 ---
 
-Jain huutaa, että rantautuminen tulee olemaan raju. Hieman ennen rantautumista huomataan, että kallion takana kajastaa vihreää valoa ja aavemainen purje näkyy. Kova rantautuminen iskee Jainin tajuttomaksi, mutta herätetään marjalla. Yritetään kiivetä puuta kalliolle, mutta ei meinaa onnistua sitten millään. Silkki ja Kael tipahtavat latvasta mereen ja lähtevät ajelehtimaan. Alkemistintulilaatikko tipahtaa Devonin selästä aiheuttaen valtavan räjähdyksen, joka tappaa Jainin ja polttaa Varyniä sekä puun. 
+Jain huutaa, että rantautuminen tulee olemaan raju. Hieman ennen rantautumista huomataan, että kallion takana kajastaa vihreää valoa ja aavemainen purje näkyy. Kova rantautuminen iskee Jainin tajuttomaksi, mutta herätetään marjalla. Yritetään kiivetä puuta kalliolle, mutta ei meinaa onnistua sitten millään. Silkki ja Kael tipahtavat latvasta mereen ja lähtevät ajelehtimaan. Alkemistintulilaatikko tipahtaa Devonin selästä aiheuttaen valtavan räjähdyksen, joka tappaa Jainin ja polttaa Varyniä sekä puun.
 
 Kael ja Silkki ajelehtivat kohti eteläpoukamaa tajuttomina ja melkein kuolevat, kunnes joku soutuvene nostaa heidät kyytiinsä. Veneen kyydissä on kolme aseistettua miestä, jotka vaativat meitä antautumaan. Tavi harkitsee hyökkäämistä, mutta näkymätön henkilö kuiskaa takaa että "Ei kannata". Kun Tavi kertoo olevansa voimakas noita, niin näkymättömistä ilmestyy puolihaltia Gustav Kaunistus joka toteaa, että "Minä myös". Sen jälkeen meidät tainnutetaan ja viedään laivaaan silmät ja raajat sidottuna.
 
 > Menee X päivää aikaa välissä
 
 Herätään laivan selleistä kahlittuna (sekä käsikahleet, että suukapula), levännein ja myrkytettyinä. Varyn ja Kael samassa sellissä, Silkki ja Tavi toisessa sellissä ja Devon omassaan. Vartioita ei näy, mutta muissa selleissä on naisia. Devon muuttuu rotaksi ja käy järsimässä muiden suukapulat irti ja pohditaan mitä tehdään. Devon käy myös rottana kuuntelmeassa, että sellikäytävän yhden oven takaa kuuluu työskentelyn ääniä ja palaa selleille yrittäen kommunikoida tietoa muille.
+
+---
+
+Yksi vangeista kertoo, että ova Pikkuniemestä. Ruoka tulee yläkerralta ja Lekurin huoneeseen ei kannata päätyä, koska sieltä ei kukaan palaa. Varyn teleporttaa käytävälle jeesimään rotta-Devonia ovien kanssa. Sellien vieressä oleva huone vaikuttaa olevan varastohuone ruoalle ja juomalle. Löytyy kuparinauloja, mutta eivät toimi taikakomponenttina Message-taikaan. Toisessa päässä käytävää on toinen varastohuone, jossa ruokaa ja tarvikkeita. Huoneesta on pieni reikä lekurin selliin, jossa kalman haju ja lekuri operoi jotain ruumista kahden apurin kanssa. Seinällä riippuu harmaiden meriolioiden ruumiita 4 kpl. Devon yrittää järsiä tikuista taikakomeponetteja, mutta hammas murtuu ja wild shape päättyy. Normaalimuodossaa Devon saa vuoltua itselleen sopivia tikkuja.
+
+Varyn käy avaamassa sellien lukot ja vapauttamassa muut partylaiset. Annetaan juotajaa ja syötävää muiden sellien naisille. Naiset kertovat, että ylemmissä kerroksissa ensin eläimiä ja tavaraa, sitten miehistön tilat ja sen jälkeen kansi ja kapteenin kajuutta. Devon taikoo myrkytyksen itseltään pois ja aktivoi pimeänäön porkkanalla. Löydetään varastosta muitakin taika- ja taistelujuttuja, mutta paon suunnittelu keskeytyy kun lekurin huoneessa kuulevat meidän äänet. Tulee mini-taistelu, tehdään yllätyshyökkäys ja tapetaan lekuri + toinen apupojista.
+
+Huoneessa on muutamia miesten ja naisten ruumiita. Naiset on murhattu, mutta ei ole operoitu vielä. Kaapista löytyy 8 plo vastamyrkkyä, joilla poistetaan lopuiltakin myrkytystila. Seinältä tipahtaa 4 harmaata miestä ja hyökkää meidän kimppuumme. Tulee taistelu (Devon ei ole yllättynyt, muut ovat)
+
+---
