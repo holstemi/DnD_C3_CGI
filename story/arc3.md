@@ -255,3 +255,13 @@ Lavastetaan alimpaan kerrokseen harmaiden miesten hyökkäys miehsitöön samall
 Dagonin vuoro loppuu pian Silkin muodon vaihtamisen jälkeen ja seuraavan vuoron vanhempi aliupseeri Pate tapettiin aiemmin, joten Silkki houkuttelee seuraavan vuoron nuoremman alipuseerin alas ja saadaan kolkattua. Aliupseeri tietää, että ollaan lähdetty Golianin saarelta 3 pv sitten ja olemme matkalla "viimeiseen määränpäähän" kohti kaakkoa. Jäädään pohtimaan seuraavaa liikettä, Silkki ottaa levon.
 
 ---
+
+Mennään lepäämään varastoon. Sillä välin kuullaan kun yksi henkilö tulee portaita alas huhuilemaan puuttuneita miehistön jäseniä. Kael tappaa tämän vaikkei huomannut meitä.
+
+Tauon jälkeen Silkki ottaa nuoremman aliupseerin (Matthewn) muodon ja menee hakemaaan lisää varusteita. Kokki on messissä, joten Silkki hiipii näkymättömänä varastoon. Saadaan tavarat ja lähdetään näkymttömänä kohti kapteenin kajuuttaa. Devon lähtee rottana Silkin sekä näkymättömän Tavin ja Varynin mukaan kohti kantta ja kapteenin hyttiä.
+
+Kannella meneillään torikokous kun upseeristo on asettamassa etsintäpartioita kadonneiden löytämiseksi. Silkki lähetetään viiden miehen kanssa etsimään kadonneita. Silkki lähettää miehet etsimään muita ja palaa ylös suostuttelemaan upseerin pois kannelta. Saa peloteltua upseerin tarkistamaan upseeriston tilan, jolla välillä Silkki livahtaa kohti kapteenin kajuuttaa. Kapteenin kajuutan oven avaa kapteenin rakastaja, joka on kylän naisia. Kun Silkki selittää tilanteen niin kapteeni vastaa, että "Tarkistaa yhden asian ensin", jolloin Silkki työntyy sisälle ja castaa hiljaisuuden. Kun päästään sisälle, niin kapteenia ei näy. Hetken päästä näkyy kun kapteeni huutaa ulkona vankien karanneen ja muuttuu uudelleen näkymättömäksi. Tulee taistelu.
+
+Taistelun alkuun miehistö juo taikajuoman heti alkuun, mutta sen vaikutus mysteeri. Devon paukuttaa laivaa salamoilla.
+
+---
