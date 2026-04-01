@@ -265,3 +265,74 @@ Kannella meneillään torikokous kun upseeristo on asettamassa etsintäpartioita
 Taistelun alkuun miehistö juo taikajuoman heti alkuun, mutta sen vaikutus mysteeri. Devon paukuttaa laivaa salamoilla.
 
 ---
+
+Iso osa joukoista perääntyy kannen alle. Yritetään jahdata, mutta kapteenin taikoma myrkkypilvi estää. Aletaan polttamaan miehistön sänkyjä yläkannelta vihollisten savustamiseksi yläkertaan.
+
+---
+
+Elävä pyöremyrsky ilmestyy kannen alle ja mätkii Varynin tajuttomaksi. Varyn kulee jostain puoli-tajuttomana, että *“Vaihda! Vaihda!”.* Pyöremyrskyllä on kuitenkin joku verikosto Varynia vastaan menossa ja tappaa Varynin lyömällä tätä maissa.
+
+Tovin päästä kuollut Varyn oksentaa valkoista maalin kaltaista mönjää ja maski herättää Varynin ruumiin ja totetaa, että *“Varyn, senkin idiootti. Anna kun näytän miten tämä hoidetaan”,* ja hyökkää kapteenin kimppuun tappaen Kapteenin heti alkuunsa.
+
+Valkoinen mies virnuilee ja hyökkää holtittomasti myös meidän kimppuumme. Lyö Kaelin ja Devonin kanveisiin, mutta Tavi saa maskin revittyä Varynin vastustuksen avulla irti naamasta, jolloin Varyn palaa henkihieverissä eloon. Taintuneet herätetään.
+
+---
+
+Nopea parannushetki ennen kuin mennään kannelle kääntymään ja loottaamaan kapteeni. Kael auttaa purjeiden kanssa, Silkki ja Devon menevät kapteenin hyttiin etsimään maagisia tavaroita. Kapteenin hytistä löytyy merenkyätntavaraa (esim. merikortteja), alkemistin setti, meidän maagiset tavarat, 2 maagista esinettä (hienosti koristelu siniteräinen tikari & musta osittain läpinäkyvä sileä nyrkkiin mahtuva pallo - oranssja ja punaisia viiruja). Sängyn alla on arkku, jossa on rahaa, ja alkemia- / taikajuomapulloja ja kirja jollain oudolla kielellä. Työpöydän laatikon valepohjan alla on erikoisen näköinen pyöreä esine - ehkä rasia - pinta on ihoa.
+
+Tavi löytänyt myös maagisia juttuja: Bag of Holding, Lepakonsiipikypärä, Hurmaava hattu
+
+Yöllä Devon näkee painajaisia kun eliö puhuu Devonille: *“Aivan pian synnyn uudelleen ja sitten koko maailma uppoaa veden alle”.* Kael varmistaa solmut ja samaan aikaan kannelta kuuluu *“Mies yli laidan”*. Joku tuli ruumasta ja hyppäsi mereen.
+
+Tunnistetaan esineitä yölevon aikana:
+
+- Lepakkokypärä: Sininen kypärä, joka antaa +1 AC JA Vampiric Touch (lvl4, bonus action, 1 ket/shortRest)
+- Ihopintainen kompassi: Sisällä iso silmä, joka katsoo aina tiettyyn suuntaan (mihin laiva oli menossa aiemmin)
+- Taikahattu: Tuuli vie sen Silkin kädestä ja hattu katoaa.
+
+**D65** (24.6.539 SSS)
+
+> Level 7
+
+Herätään vähän vahvempina, mutta Devonilla vähän sekava olo merihirvion voiman vuoksi. Todetaan, että mentävä merihirviön perään nyt tai ei koskaan. Kael antaa ihokompassin Devonille ja se aiheuttaa sähköiskun tunteen. Pohditaan jatkosuunnitelmia.
+
+Devon tekee Augury-taian ja kysyy ehdimmekö hakemaan miehistöä rannikolta ennen merihirviön heräämistä → Ei ehditä. Divination -taika kertoo, että paras tapa estää merihirviön henkiin herääminen on pysäyttää rituaali ja tappaa kuollut hirviö. Silkki lukee kirjaa.
+
+Suostutellaan Miriam viemään meidät takaisin myrskyn silmään. Siellä on kuulemma Kultaisen Puhurin aarre, josta annetaan osansa myös heille.
+
+---
+
+Mennään kapteenin hyttiin pohtimaan suunnitelmaa ja jakamaan rahoja → 134 gp per henkilö. Silkki lukee kirjaa, Devon kouluttaa lohikäärmettä, Kael ja Varyn tutkivat maagisia tavaroita:
+
+- Musta kristalli: sopii vain tietynlaisille ihmisille, joilla luontaisia maagisia kykyjä → +2 sorcery points, voi varastoida yhden lvl 1 taian ja toimii myös arcane focuksena
+- Taikahattu: Kael ei tunnistanut vielä, päätyi juomaan rommia hatusta
+
+Illalla Silkki tajuaa kirjaa luettuaan, että rituaalin “Portti merenpohjaan” on ollut Gustavin suosikki. Silkki alkaa opettelemaan sitä. Laiva pääsee myrskyyn saakka. Devon pistää vesihengitystaian varmuudeksi voimaan jo nyt.
+
+Nukutaan kapteenin hytissä. Kael kyselee laivan vihertävästä valosta Mirjamilta, joka vastaa ympäripyöreästi.
+
+Vartiovuorot:
+
+- Devon täyttää pohjatonta säkkiä satunnaista tavaraa ja se vetää repullisen tavaraa / 150 kg. Ajatuksen voimalla voi poimia pussista haluamansa tavaran. Jos ei ajattele, niin tulee randomina.
+- Tavi laskee itselleen kapteenilta lootatut rahat
+- Varyn tunnistaa taikahatun: Carab Luincarn (Taikahattu) → +1 Charisma, +1 level upcast yhteen taikaan per short rest
+- Silkki tunnistaa tikarin: Ristol Prestanneth (muutoksen tikari) → +2 tikari, käyttäjä voi vaihtaa 1-2 attribuutia toiseksi attribuutiksi 24h ajaksi (→ 1d4+2 damagea itseen)
+- Devon näkee unta: “Tule, tule lähemmäs. Tiedät mitä tehdä. Sinulla on jo keinot päästä tänne”
+
+**D66** (25.6.539 SSS)
+
+Devon herää litimärkänä hiestä, mutta edelleen kokeen olonsa suht normaaliksi.
+
+Silkki lukee kirjaa, Varyn ja Tavi opettelevat kieliä, Devon kouluttaa lohikäärmettä, Kael yrittää luoda henkeä miehistöön, mutta ei onnistu.
+
+Silkki saa selvile, että taikavoimia omaavan merkitsevän henkilön pitää tehdä rituaalia merkitsevässä paikassa merkityksellisen ajan, jonka jälkeen portti avautuu ja päsee määränpäähän.
+
+Myöhemmin laiva alkaa keikkumaan niin paljon, että kaikki käsketään pois kannelta ohjaavaa miehistöä lukuunottamatta. Hetken päästä kompassi näyttää suoraan ylöspäin. Devonille tulee vahva tunne, että tämän pitää tehdä rituaali kannella myrskyssä.
+
+Valmistellaan rituaalialue ja rituaalin tekeminen. Rituaalissa jokaisen pysähdyspaikan yhteydessä pitää käyttää spell slot rituaalin tekemiseen. Reitti:
+
+1. suorakulmion kulmaan
+2. suorakulmion ristikulmaan
+3. kolmion kärkeen
+4. kolmion kulmaan jossa ei käyty
+5. keskelle
