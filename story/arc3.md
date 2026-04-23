@@ -336,3 +336,31 @@ Valmistellaan rituaalialue ja rituaalin tekeminen. Rituaalissa jokaisen pysähdy
 3. kolmion kärkeen
 4. kolmion kulmaan jossa ei käyty
 5. keskelle
+
+---
+
+Rituaali aloitetaan, Devonilla tasapainohaasteita, joten rituaalin tekeminen menee ainakin alkuun konttaamiseksi. 
+
+Rituaalin edetessä laivan viereen ilmestyy suuri vesikurimus, joka yrittää imaista laivan sisäänsä ja harmaita miehiä kiipeilee kannelle taistelemaan. Merhihirviön mieleen tunkeutuminen ja paha merenkäynti vaikeuttavat huomattavasti rituaalin tekemistä ja puolustautumista ja Silkki menee tajuttomaksi muutamaan kertaan. 
+
+---
+
+Devon menee heti pelikerran alkuun tajuttomaksi ja Tavi pian sen jälkeen. Sinnitellään muutama kierros pelissä mukana, mutta nopat kertovat death saving throwien myötä, että tarina päättyy tähän.
+
+**The End**
+
+---
+
+## Jälkisana - Miten tarina olisi voinut jatkua?
+
+Gratz’al herää ja tuohoaa Sokholin. Sen jälkeen alkaa hallitsemaan koko paikallista merialuetta.
+
+Meren pohjassa olisi ollut Kultainen Puhuri ja Silkin kadonnut veli, joka on vaihtanut Graz’alin puolelle. 
+
+Tavi olisi osittain korruptoitunut mustan kristallin voimasta ja paljastanut Aasimarin verilinjan
+
+Varynin maskin voima olisi pahentunut entisestään, mutta sen tarkempi luonne jää mysteeriksi tulevaisuuteen. (Ollut Matiaksen peleissä mukana jo 15 vuotta) Toinen vaihtoehto olisi ollut, että Varyn olisi kutsuttu kotiin Keijusaloon ja mut mukana. Devon olisi saanut kutsumuksen lähteä tutkimaan Keijusaloa.
+
+Kaelin tarinalle ei ollut kirjoitettu jatkoa, muuta kuin että olisimme voineet liittyä täysin Kahleenmurtajiin ja kaataa velhohallinnot
+
+Silkki oli aiemmin suunnitellut yrittävänäs hallita Kaelia sormuksen avulla, mutta suunnitelma jäänyt sikeen. Olisi kuitenkin tehnyt sivubisneksiä taustalla vähän joka suuntaan.
